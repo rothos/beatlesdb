@@ -14,9 +14,13 @@ Beatles songs database.
     - [JSON data file](https://www.yendor.com/Beatles/Beatles.json)
 - [All data from Spotify](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster)
     - Provides various data in CSV format.
+- [List of all Beatles songs from BeatlesBible.com (maybe more comprehensive than other lists)](https://www.beatlesbible.com/songs/)
+- [Website with Beatles songs, includes personnel/song credits](https://beatlestube.net/the-beatles-songs/)
+- [Lyrics to Beatles songs (this site seems more scrape-able than most)](https://www.beatleslyrics.org/index_files/Page13763.htm)
+- [Wikipedia article "List of songs recorded by the Beatles"](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles)
+- [Alan Pollack's "Notes on..." series](https://www.icce.rug.nl/~soundscapes/DATABASES/AWP/awp-notes_on.shtml)
 
 # Schema of `beatles_songs.json`
 
 - `title`: Title of the song.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
-
