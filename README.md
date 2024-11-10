@@ -15,3 +15,8 @@ Beatles songs database.
 - [All data from Spotify](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster)
     - Provides various data in CSV format.
 
+# Schema of `beatles_songs.json`
+
+- `title`: Title of the song.
+- `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
+
