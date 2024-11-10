@@ -1,0 +1,3992 @@
+[
+    {
+        "title": "12-Bar Original",
+        "yendor": {
+            "album.debut": "Anthology 2",
+            "duration": 174,
+            "genre": "Blues",
+            "songwriter": "Lennon, McCartney, Harrison and Starkey",
+            "title": "12-Bar Original",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "A Day in the Life",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 335,
+            "genre": "Psychedelic Rock, Art Rock, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "A Day in the Life",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "A Hard Day's Night",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: 1962-1966",
+            "duration": 152,
+            "genre": "Rock, Electronic, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "A Hard Day's Night",
+            "top.50.billboard": 8,
+            "year": 1964
+        }
+    },
+    {
+        "title": "A Shot of Rhythm and Blues",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 104,
+            "genre": "R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Thompson",
+            "title": "A Shot of Rhythm and Blues",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "A Taste of Honey",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 163,
+            "genre": "Pop/Rock, Jazz, Stage&Screen",
+            "lead.vocal": "McCartney",
+            "songwriter": "Scott, Marlow",
+            "title": "A Taste of Honey",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Across the Universe",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 230,
+            "genre": "Psychedelic folk, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Across the Universe",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Act Naturally",
+        "yendor": {
+            "album.debut": "UK: Help! US: Yesterday and Today",
+            "duration": 139,
+            "genre": "Country, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Russell, Morrison",
+            "title": "Act Naturally",
+            "top.50.billboard": 50,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Ain't She Sweet",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Yellen, Ager",
+            "title": "Ain't She Sweet",
+            "top.50.billboard": 41,
+            "year": 1961
+        }
+    },
+    {
+        "title": "All I've Got to Do",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 124,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "All I've Got to Do",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "All My Loving",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 124,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "All My Loving",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "All Things Must Pass",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 227,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "All Things Must Pass",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "All Together Now",
+        "yendor": {
+            "album.debut": "Yellow Submarine",
+            "duration": 130,
+            "genre": "Skiffle, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "All Together Now",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "All You Need Is Love",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 237,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "All You Need Is Love",
+            "top.50.billboard": 15,
+            "year": 1967
+        }
+    },
+    {
+        "title": "And I Love Her",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 152,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "And I Love Her",
+            "top.50.billboard": 37,
+            "year": 1964
+        }
+    },
+    {
+        "title": "And Your Bird Can Sing",
+        "yendor": {
+            "album.debut": "UK: Revolver US: Yesterday and Today",
+            "duration": 121,
+            "genre": "Power Pop, Psychedelic Pop, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "And Your Bird Can Sing",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Anna (Go to Him)",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 168,
+            "genre": "Soul, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Alexander",
+            "title": "Anna (Go to Him)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Another Girl",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 124,
+            "genre": "Country Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Another Girl",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Any Time at All",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 133,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Any Time at All",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Ask Me Why",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 144,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Ask Me Why",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Baby It's You",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 162,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Bacharach, David, Dixon",
+            "title": "Baby It's You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Baby's in Black",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 122,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "Baby's in Black",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Baby, You're a Rich Man",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 183,
+            "genre": "Psychedelic Pop, Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon and McCartney",
+            "title": "Baby, You're a Rich Man",
+            "top.50.billboard": 48,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Back in the U.S.S.R.",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 163,
+            "genre": "Rock and Roll, Hard Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Back in the U.S.S.R.",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Bad Boy",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Beatles VI",
+            "duration": 150,
+            "genre": "R&B",
+            "lead.vocal": "Lennon",
+            "songwriter": "Williams",
+            "title": "Bad Boy",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Bad to Me",
+        "yendor": {
+            "album.debut": "The Beatles Bootleg Recordings 1963",
+            "duration": 142,
+            "genre": "Beat, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Bad to Me",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Beautiful Dreamer",
+        "yendor": {
+            "album.debut": "On Air - Live at the BBC Volume 2",
+            "duration": 106,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Foster",
+            "title": "Beautiful Dreamer",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Because",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 165,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, McCartney, Harrison",
+            "songwriter": "Lennon",
+            "title": "Because",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Because I Know You Love Me So",
+        "yendor": {
+            "album.debut": "Let It Be... Naked - Fly on the Wall bonus disc",
+            "duration": 150,
+            "lead.vocal": "Lennon, McCartney",
+            "songwriter": "Lennon, McCartney",
+            "title": "Because I Know You Love Me So",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Being for the Benefit of Mr. Kite!",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 157,
+            "genre": "Experimental Rock, Psychedelic Rock, Circus, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Being for the Benefit of Mr. Kite!",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Birthday",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 162,
+            "genre": "Hard Rock, Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Birthday",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Blackbird",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 139,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Blackbird",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Blue Jay Way",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 235,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Blue Jay Way",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Boys",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 144,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Starkey (Best)",
+            "songwriter": "Dixon, Farrell",
+            "title": "Boys",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "B\u00e9same Mucho",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Bolero",
+            "lead.vocal": "McCartney",
+            "songwriter": "Vel\u00e1zquez, Skylar",
+            "title": "B\u00e9same Mucho",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Can't Buy Me Love",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Hey Jude",
+            "duration": 131,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney",
+            "title": "Can't Buy Me Love",
+            "top.50.billboard": 10,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Carol",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 150,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Carol",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Carry That Weight",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 96,
+            "genre": "Symphonic Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon, Harrison and Starkey",
+            "songwriter": "McCartney",
+            "title": "Carry That Weight",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Catswalk",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "N/A",
+            "songwriter": "McCartney",
+            "title": "Catswalk",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Cayenne",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 144,
+            "genre": "Instrumental Rock, Pop/Rock",
+            "lead.vocal": "N/A",
+            "songwriter": "McCartney",
+            "title": "Cayenne",
+            "top.50.billboard": -1,
+            "year": 1960
+        }
+    },
+    {
+        "title": "Chains",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 143,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Harrison, with Lennon and McCartney",
+            "songwriter": "Goffin, King",
+            "title": "Chains",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Child of Nature",
+        "yendor": {
+            "album.debut": "Let It Be... Naked - Fly on the Wall bonus disc",
+            "duration": 254,
+            "genre": "Soft Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Child of Nature",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Christmas Time (Is Here Again)",
+        "yendor": {
+            "album.debut": "The Beatles' Christmas Album",
+            "duration": 183,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, McCartney, Harrison and Starkey",
+            "songwriter": "Lennon, McCartney, Harrison and Starkey",
+            "title": "Christmas Time (Is Here Again)",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Circles",
+        "yendor": {
+            "duration": 226,
+            "genre": "Hindustani Blues, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Circles",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Clarabella",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 160,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Pingatore",
+            "title": "Clarabella",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Come Together",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 258,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Come Together",
+            "top.50.billboard": 6,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Come and Get It",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 142,
+            "genre": "Power Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Come and Get It",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Cry Baby Cry",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 183,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "Cry Baby Cry",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Cry for a Shadow",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 140,
+            "genre": "Instrumental Rock, Pop/Rock",
+            "lead.vocal": "N/A",
+            "songwriter": "Lennon and Harrison",
+            "title": "Cry for a Shadow",
+            "top.50.billboard": -1,
+            "year": 1961
+        }
+    },
+    {
+        "title": "Crying, Waiting, Hoping",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 130,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Buddy Holly",
+            "title": "Crying, Waiting, Hoping",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Day Tripper",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Yesterday and Today",
+            "duration": 170,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Day Tripper",
+            "top.50.billboard": 29,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Dear Prudence",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 236,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Dear Prudence",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Devil in Her Heart",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: The Beatles Second Album",
+            "duration": 147,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Drapkin (aka Ricky Dee)",
+            "title": "Devil in Her Heart",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Dig It",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 51,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney, Harrison and Starkey",
+            "title": "Dig It",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Dig a Pony",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 232,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Dig a Pony",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Dizzy, Miss Lizzy",
+        "yendor": {
+            "album.debut": "UK: Help! US: Beatles VI",
+            "duration": 145,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Williams",
+            "title": "Dizzy, Miss Lizzy",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Do You Want to Know a Secret?",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 116,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Lennon",
+            "title": "Do You Want to Know a Secret?",
+            "top.50.billboard": 26,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Doctor Robert",
+        "yendor": {
+            "album.debut": "UK: Revolver US: Yesterday and Today",
+            "duration": 135,
+            "genre": "Psychedelic Rock, Power Pop, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Doctor Robert",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Don't Bother Me",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 149,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Don't Bother Me",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Don't Ever Change",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 123,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Goffin, King",
+            "title": "Don't Ever Change",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Don't Let Me Down",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 215,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Don't Let Me Down",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Don't Pass Me By",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 231,
+            "genre": "Country Rock, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Starkey",
+            "title": "Don't Pass Me By",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Drive My Car",
+        "yendor": {
+            "album.debut": "UK: Rubber Soul US: Yesterday and Today",
+            "duration": 148,
+            "genre": "Rock, R&B, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Drive My Car",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Eight Days a Week",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 164,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Eight Days a Week",
+            "top.50.billboard": 21,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Eleanor Rigby",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 128,
+            "genre": "Baroque Pop, Art Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Eleanor Rigby",
+            "top.50.billboard": 38,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Etcetera",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Etcetera",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Every Little Thing",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 121,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "McCartney",
+            "title": "Every Little Thing",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 144,
+            "genre": "Hard Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Everybody's Trying to Be My Baby",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 143,
+            "genre": "Rock and Roll, Rockabilly, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Perkins",
+            "title": "Everybody's Trying to Be My Baby",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Fancy My Chances with You",
+        "yendor": {
+            "album.debut": "Let It Be... Naked - Fly on the Wall bonus disc",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "?",
+            "songwriter": "?",
+            "title": "Fancy My Chances with You",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Fixing a Hole",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 146,
+            "genre": "Psychedelic pop, Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Fixing a Hole",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Flying",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 137,
+            "genre": "Psychedelic Rock, Instrumental Rock, Space Rock, Pop/Rock",
+            "lead.vocal": "N/A",
+            "songwriter": "Lennon, McCartney, Harrison and Starkey",
+            "title": "Flying",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "For No One",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 121,
+            "genre": "Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "For No One",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "For You Blue",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 152,
+            "genre": "Country Blues, Pop/Rock, Blues",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "For You Blue",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Free as a Bird",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 266,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon, McCartney and Harrison",
+            "songwriter": "Lennon, with McCartney, Harrison and Starkey",
+            "title": "Free as a Bird",
+            "top.50.billboard": 39,
+            "year": 1977
+        }
+    },
+    {
+        "title": "From Me to You",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: 1962-1966",
+            "duration": 116,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "From Me to You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "From Us to You",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "From Us to You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Get Back",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 194,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Get Back",
+            "top.50.billboard": 4,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Getting Better",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 167,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Getting Better",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Girl",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 153,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Girl",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Glad All Over",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 112,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Bennett, Tepper, Schroeder",
+            "title": "Glad All Over",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Glass Onion",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 137,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Glass Onion",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Golden Slumbers",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 91,
+            "genre": "Rock, Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Golden Slumbers",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Good Day Sunshine",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 129,
+            "genre": "Sunshine Pop, Music Hall, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Good Day Sunshine",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Good Morning, Good Morning",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 161,
+            "genre": "Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Good Morning, Good Morning",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Good Night",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 191,
+            "genre": "Orchestral Pop, Lullaby, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Lennon",
+            "title": "Good Night",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Goodbye",
+        "yendor": {
+            "duration": 150,
+            "genre": "Children's, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Goodbye",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Got to Get You into My Life",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 147,
+            "genre": "R&B, Rock, Jazz Fusion, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Got to Get You into My Life",
+            "top.50.billboard": 23,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Hallelujah, I Love Her So",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 155,
+            "genre": "Blues, Jazz, R&B, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Charles",
+            "title": "Hallelujah, I Love Her So",
+            "top.50.billboard": -1,
+            "year": 1960
+        }
+    },
+    {
+        "title": "Happiness Is a Warm Gun",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 163,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Happiness Is a Warm Gun",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Heather",
+        "yendor": {
+            "duration": 130,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Heather",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Hello Little Girl",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Hello Little Girl",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Hello, Goodbye",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 207,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Hello, Goodbye",
+            "top.50.billboard": 7,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Help!",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 138,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Help!",
+            "top.50.billboard": 14,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Helter Skelter",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 270,
+            "genre": "Hard Rock, Heavy Metal[, Proto-Punk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Helter Skelter",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Her Majesty",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 23,
+            "genre": "Music Hall, Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Her Majesty",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Here Comes the Sun",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 186,
+            "genre": "Folk Pop, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Here Comes the Sun",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Here, There and Everywhere",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 145,
+            "genre": "Soft Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Here, There and Everywhere",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Hey Bulldog",
+        "yendor": {
+            "album.debut": "Yellow Submarine",
+            "duration": 194,
+            "genre": "Psychedelic Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Hey Bulldog",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Hey Jude",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 431,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Hey Jude",
+            "top.50.billboard": 1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Hippy Hippy Shake",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 106,
+            "genre": "Rock & Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Romero",
+            "title": "Hippy Hippy Shake",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Hold Me Tight",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 152,
+            "genre": "Rock & Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Hold Me Tight",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Honey Don't",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 173,
+            "genre": "Rockabilly, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Perkins",
+            "title": "Honey Don't",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Honey Pie",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 161,
+            "genre": "Music Hall, Jazz, Ragtime, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Honey Pie",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "How Do You Do It?",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 119,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Murray",
+            "title": "How Do You Do It?",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "I Am the Walrus",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 273,
+            "genre": "Psychedelic Rock, Acid Rock, Experimental Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Am the Walrus",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "I Call Your Name",
+        "yendor": {
+            "album.debut": "UK: Past Masters Volume 1 US: The Beatles Second Album",
+            "duration": 129,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Call Your Name",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I Don't Want to Spoil the Party",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 153,
+            "genre": "Country Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Don't Want to Spoil the Party",
+            "top.50.billboard": 49,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I Feel Fine",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Beatles '65",
+            "duration": 145,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Feel Fine",
+            "top.50.billboard": 11,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I Forgot to Remember to Forget",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 148,
+            "genre": "Country, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Stan Kesler and Charlie Feathers",
+            "title": "I Forgot to Remember to Forget",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I Got a Woman",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 151,
+            "genre": "Jump Blues, R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Charles",
+            "title": "I Got a Woman",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Got to Find My Baby",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 116,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "I Got to Find My Baby",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Just Don't Understand",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 167,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Wilkin, Westberry",
+            "title": "I Just Don't Understand",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Lost My Little Girl",
+        "yendor": {
+            "duration": 105,
+            "genre": "Rock, R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "McCartney",
+            "title": "I Lost My Little Girl",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "I Me Mine",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 145,
+            "genre": "Folk blues, Hard Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "I Me Mine",
+            "top.50.billboard": -1,
+            "year": 1970
+        }
+    },
+    {
+        "title": "I Need You",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 148,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "I Need You",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "I Saw Her Standing There",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: Meet The Beatles!",
+            "duration": 175,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "I Saw Her Standing There",
+            "top.50.billboard": 36,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Should Have Known Better",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Hey Jude",
+            "duration": 164,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Should Have Known Better",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I Wanna Be Your Man",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 103,
+            "genre": "Rock and Roll, R&B, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "McCartney, with Lennon",
+            "title": "I Wanna Be Your Man",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Want You (She's So Heavy)",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 467,
+            "genre": "Blues Rock, Hard Rock, Progressive Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I Want You (She's So Heavy)",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "I Want to Hold Your Hand",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Meet The Beatles!",
+            "duration": 144,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "I Want to Hold Your Hand",
+            "top.50.billboard": 2,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I Want to Tell You",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 149,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "I Want to Tell You",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "I Will",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 106,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "I Will",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "I'll Be Back",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Beatles '65",
+            "duration": 140,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "I'll Be Back",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I'll Be on My Way",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 118,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "McCartney",
+            "title": "I'll Be on My Way",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'll Cry Instead",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 129,
+            "genre": "Rock and Roll, Country, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I'll Cry Instead",
+            "top.50.billboard": 43,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I'll Follow the Sun",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 106,
+            "genre": "Folk Rock, Country, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney",
+            "title": "I'll Follow the Sun",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I'll Get You",
+        "yendor": {
+            "album.debut": "UK: Past Masters Volume 1 US: The Beatles Second Album",
+            "duration": 124,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "I'll Get You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'll Keep You Satisfied",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon and/or McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "I'll Keep You Satisfied",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'm Down",
+        "yendor": {
+            "album.debut": "Rock 'n' Roll Music",
+            "duration": 153,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "I'm Down",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "I'm Gonna Sit Right Down and Cry (Over You)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 121,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Thomas, Biggs",
+            "title": "I'm Gonna Sit Right Down and Cry (Over You)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'm Happy Just to Dance with You",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 118,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Lennon and McCartney",
+            "title": "I'm Happy Just to Dance with You",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I'm In Love",
+        "yendor": {
+            "album.debut": "The Beatles Bootleg Recordings 1963",
+            "duration": 92,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I'm In Love",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'm Looking Through You",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 147,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney",
+            "title": "I'm Looking Through You",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "I'm Only Sleeping",
+        "yendor": {
+            "album.debut": "UK: Revolver US: Yesterday and Today",
+            "duration": 182,
+            "genre": "Psychedelic Rock, Psychedelic Folk, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I'm Only Sleeping",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "I'm So Tired",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 123,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I'm So Tired",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "I'm Talking About You",
+        "yendor": {
+            "album.debut": "On Air - Live at the BBC Volume 2",
+            "duration": 112,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "I'm Talking About You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "I'm a Loser",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 151,
+            "genre": "Folk Rock, Country, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "I'm a Loser",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "I've Got a Feeling",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 217,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "I've Got a Feeling",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "I've Just Seen a Face",
+        "yendor": {
+            "album.debut": "UK: Help! US: Rubber Soul",
+            "duration": 127,
+            "genre": "Folk Rock, Country, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "I've Just Seen a Face",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "If I Fell",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 142,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "If I Fell",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "If I Needed Someone",
+        "yendor": {
+            "album.debut": "UK: Rubber Soul US: Yesterday and Today",
+            "duration": 143,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "If I Needed Someone",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "If You've Got Trouble",
+        "yendor": {
+            "album.debut": "Anthology 2",
+            "duration": 169,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Lennon and McCartney",
+            "title": "If You've Got Trouble",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "In My Life",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 148,
+            "genre": "Baroque Pop, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon and McCartney",
+            "title": "In My Life",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "In Spite of All the Danger",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 164,
+            "genre": "Skiffle, Blues, Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "McCartney and Harrison",
+            "title": "In Spite of All the Danger",
+            "top.50.billboard": -1,
+            "year": 1958
+        }
+    },
+    {
+        "title": "It Won't Be Long",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 133,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "It Won't Be Long",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "It's All Too Much",
+        "yendor": {
+            "album.debut": "Yellow Submarine",
+            "duration": 388,
+            "genre": "Psychedelic Rock, Acid Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "It's All Too Much",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "It's Only Love",
+        "yendor": {
+            "album.debut": "UK: Help! US: Rubber Soul",
+            "duration": 115,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "It's Only Love",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Jazz Piano Song",
+        "yendor": {
+            "duration": 150,
+            "genre": "Boogie-Woogie",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, Starkey",
+            "title": "Jazz Piano Song",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Jessie's Dream",
+        "yendor": {
+            "duration": 150,
+            "lead.vocal": "N/A",
+            "songwriter": "Lennon, McCartney, Harrison, Starkey",
+            "title": "Jessie's Dream",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Johnny B. Goode",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 161,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Johnny B. Goode",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Julia",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 174,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Julia",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Junk",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 114,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Junk",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Kansas City/Hey, Hey, Hey, Hey",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 163,
+            "genre": "R&B, Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Leiber, Stoller/Penniman",
+            "title": "Kansas City/Hey, Hey, Hey, Hey",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Keep Your Hands Off My Baby",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 149,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Goffin, King",
+            "title": "Keep Your Hands Off My Baby",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Komm Gib Mir Deine Hand",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Something New",
+            "duration": 146,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon/McCartney/Nicolas/Hellmer",
+            "title": "Komm Gib Mir Deine Hand",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Lady Madonna",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 136,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Lady Madonna",
+            "top.50.billboard": 22,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Leave My Kitten Alone",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 177,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Turner, McDougall",
+            "title": "Leave My Kitten Alone",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Lend Me Your Comb",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 107,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Twomey, Wise, Weisman",
+            "title": "Lend Me Your Comb",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Let It Be",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 243,
+            "genre": "Rock, Gospel, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Let It Be",
+            "top.50.billboard": 5,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Like Dreamers Do",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 156,
+            "genre": "Rock, Merseybeat, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Like Dreamers Do",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Little Child",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 108,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "Little Child",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Lonesome Tears in My Eyes",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 156,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "J. Burnette, D. Burnette, Burlison, Mortimer",
+            "title": "Lonesome Tears in My Eyes",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Long Tall Sally",
+        "yendor": {
+            "album.debut": "UK: Rock 'n' Roll Music US: The Beatles Second Album",
+            "duration": 130,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Blackwell, Johnson, Penniman",
+            "title": "Long Tall Sally",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Long, Long, Long",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 184,
+            "genre": "Psychedelic Folk, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Long, Long, Long",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Looking Glass",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Looking Glass",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Love Me Do",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 142,
+            "genre": "Merseybeat, R&B, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Love Me Do",
+            "top.50.billboard": 16,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Love You To",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 181,
+            "genre": "Indian Music, Raga Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Love You To",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Love of the Loved",
+        "yendor": {
+            "duration": 122,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Love of the Loved",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Lovely Rita",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 162,
+            "genre": "Psychedelic Folk, Music Hall, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Lovely Rita",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Lucille",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 141,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Penniman, Collins",
+            "title": "Lucille",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Lucy in the Sky with Diamonds",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 208,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon with McCartney",
+            "title": "Lucy in the Sky with Diamonds",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Madman",
+        "yendor": {
+            "duration": 197,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Madman",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Maggie Mae",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 40,
+            "genre": "Skiffle, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Traditional, arr. Lennon, McCartney, Harrison, Starkey",
+            "title": "Maggie Mae",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Magical Mystery Tour",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 171,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Magical Mystery Tour",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Mailman, Bring Me No More Blues",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 116,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Row, Katz, Roberts, Clayton",
+            "title": "Mailman, Bring Me No More Blues",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Martha My Dear",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 148,
+            "genre": "Music Hall, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Martha My Dear",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Matchbox",
+        "yendor": {
+            "album.debut": "UK: Rock 'n' Roll Music US: Something New",
+            "duration": 117,
+            "genre": "Rock and roll, Rockabilly, Pop/Rock",
+            "lead.vocal": "Starkey (Best)",
+            "songwriter": "Perkins, Jefferson",
+            "title": "Matchbox",
+            "top.50.billboard": 40,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Maxwell's Silver Hammer",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 207,
+            "genre": "Rock, Music Hall, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Maxwell's Silver Hammer",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Mean Mr. Mustard",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 66,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Mean Mr. Mustard",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Memphis, Tennessee",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 136,
+            "genre": "R&B, Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Memphis, Tennessee",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Michelle",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 160,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Michelle",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Misery",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: Rarities",
+            "duration": 107,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Misery",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Money (That's What I Want)",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: The Beatles Second Album",
+            "duration": 167,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Gordy, Bradford",
+            "title": "Money (That's What I Want)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Moonlight Bay",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, McCartney, Harrison, Eric Morecambe, Ernie Wise",
+            "songwriter": "Percy Wenrich, Edward Madden",
+            "title": "Moonlight Bay",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Mother Nature's Son",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 168,
+            "genre": "Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Mother Nature's Son",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Mr. Moonlight",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 155,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Johnson",
+            "title": "Mr. Moonlight",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "My Bonnie",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Sheridan",
+            "songwriter": "Traditional, arr. Sheridan",
+            "title": "My Bonnie",
+            "top.50.billboard": 45,
+            "year": 1961
+        }
+    },
+    {
+        "title": "No Reply",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 135,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon, with McCartney",
+            "title": "No Reply",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 125,
+            "genre": "Folk Rock, Raga Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Norwegian Wood (This Bird Has Flown)",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Not Guilty",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 215,
+            "genre": "Jazz-Pop, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Not Guilty",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Not a Second Time",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 128,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Not a Second Time",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Nothin' Shakin' (But the Leaves on the Trees)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 176,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Fontaine",
+            "title": "Nothin' Shakin' (But the Leaves on the Trees)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Nowhere Man",
+        "yendor": {
+            "album.debut": "UK: Rubber Soul US: Yesterday and Today",
+            "duration": 164,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Nowhere Man",
+            "top.50.billboard": 27,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Ob-La-Di, Ob-La-Da",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 187,
+            "genre": "Ska, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Ob-La-Di, Ob-La-Da",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Octopus's Garden",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 168,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Starkey, with uncredited assistance from Harrison",
+            "title": "Octopus's Garden",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Oh! Darling",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 206,
+            "genre": "Swamp Pop, Hard Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Oh! Darling",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Old Brown Shoe",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 196,
+            "genre": "Blues Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Old Brown Shoe",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "One After 909",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 172,
+            "genre": "Roots Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "One After 909",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "One and One Is Two",
+        "yendor": {
+            "duration": 150,
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "One and One Is Two",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Only a Northern Song",
+        "yendor": {
+            "album.debut": "Yellow Submarine",
+            "duration": 207,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Only a Northern Song",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Ooh! My Soul",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 97,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Penniman",
+            "title": "Ooh! My Soul",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "P.S. I Love You",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 126,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "P.S. I Love You",
+            "top.50.billboard": 34,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Paperback Writer",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Hey Jude",
+            "duration": 138,
+            "genre": "Hard Rock, Power Pop, Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Paperback Writer",
+            "top.50.billboard": 19,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Penny Lane",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 183,
+            "genre": "Progressive Pop, Baroque Pop, Psychedelic Pop, Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Penny Lane",
+            "top.50.billboard": 24,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Piggies",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 124,
+            "genre": "Baroque Pop, Folk, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Piggies",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Please Mr. Postman",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: The Beatles Second Album",
+            "duration": 156,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Dobbins, Garrett, Holland, Bateman, Gorman",
+            "title": "Please Mr. Postman",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Please Please Me",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 120,
+            "genre": "Merseybeat, Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "Please Please Me",
+            "top.50.billboard": 18,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Polythene Pam",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 72,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Polythene Pam",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Rain",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Hey Jude",
+            "duration": 179,
+            "genre": "Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Rain",
+            "top.50.billboard": 42,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Real Love",
+        "yendor": {
+            "album.debut": "Anthology 2",
+            "duration": 236,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney, Harrison, Starkey",
+            "title": "Real Love",
+            "top.50.billboard": 47,
+            "year": 1980
+        }
+    },
+    {
+        "title": "Revolution",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 201,
+            "genre": "Hard rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Revolution",
+            "top.50.billboard": 32,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Revolution 1",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 201,
+            "genre": "Hard rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Revolution 1",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Revolution 9",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 502,
+            "genre": "Avant-Garde, Musique Concrete, Experimental, Sound Collage, Pop/Rock",
+            "lead.vocal": "N/A",
+            "songwriter": "Lennon, with Ono and Harrison",
+            "title": "Revolution 9",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Rip It Up/Shake, Rattle, and Roll/Blue Suede Shoes",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 150,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Blackwell-Marascalco (\"Rip It Up\"), Calhoun (\"Shake, Rattle, and Roll\"), Perkins (\"Blue Suede Shoes\")",
+            "title": "Rip It Up/Shake, Rattle, and Roll/Blue Suede Shoes",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Rock and Roll Music",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles '65",
+            "duration": 150,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Rock and Roll Music",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Rocky Raccoon",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 213,
+            "genre": "Country, Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Rocky Raccoon",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Roll Over Beethoven",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: The Beatles Second Album",
+            "duration": 168,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Berry",
+            "title": "Roll Over Beethoven",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Run for Your Life",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 138,
+            "genre": "Rock, Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Run for Your Life",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Savoy Truffle",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 174,
+            "genre": "Soul, Blues Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Savoy Truffle",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Searchin'",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 156,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Leiber, Stoller",
+            "title": "Searchin'",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "September in the Rain",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Al Dubin, Harry Warren",
+            "title": "September in the Rain",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Sexy Sadie",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 195,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Sexy Sadie",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 119,
+            "genre": "Psychedelic Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney",
+            "title": "Sgt. Pepper's Lonely Hearts Club Band",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 80,
+            "genre": "Psychedelic Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon and Harrison",
+            "songwriter": "McCartney",
+            "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Shakin' in the Sixties",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Shakin' in the Sixties",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "She Came in Through the Bathroom Window",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 117,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "She Came in Through the Bathroom Window",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "She Loves You",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: The Beatles Second Album",
+            "duration": 138,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "She Loves You",
+            "top.50.billboard": 3,
+            "year": 1963
+        }
+    },
+    {
+        "title": "She Said She Said",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 157,
+            "genre": "Psychedelic Rock, Acid Rock[, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "She Said She Said",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "She's Leaving Home",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 215,
+            "genre": "Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "She's Leaving Home",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "She's a Woman",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Beatles '65",
+            "duration": 183,
+            "genre": "Rock and Roll, R&B, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "She's a Woman",
+            "top.50.billboard": 31,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Shout",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 135,
+            "genre": "Rock and Roll, Gospel, Pop/Rock",
+            "lead.vocal": "Lennon, McCartney, Harrison and Starkey",
+            "songwriter": "Isley, Isley, Isley",
+            "title": "Shout",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Sie Liebt Dich",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Rarities",
+            "duration": 139,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon-McCartney",
+            "songwriter": "Lennon and McCartney/Nicolas/Montague",
+            "title": "Sie Liebt Dich",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Slow Down",
+        "yendor": {
+            "album.debut": "UK: Rock 'n' Roll Music US: Something New",
+            "duration": 175,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Williams",
+            "title": "Slow Down",
+            "top.50.billboard": 44,
+            "year": 1964
+        }
+    },
+    {
+        "title": "So How Come (No One Loves Me)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 114,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Bryant, Bryant",
+            "title": "So How Come (No One Loves Me)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Soldier of Love (Lay Down Your Arms)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 119,
+            "genre": "R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Cason, Moon",
+            "title": "Soldier of Love (Lay Down Your Arms)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Some Other Guy",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 121,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Leiber, Stoller, Barrett",
+            "title": "Some Other Guy",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Something",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 179,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Something",
+            "top.50.billboard": 30,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Sour Milk Sea",
+        "yendor": {
+            "duration": 236,
+            "genre": "Hard Rock, Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Sour Milk Sea",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Step Inside Love/Los Paranoias",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 150,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney (Step Inside Love); Lennon, McCartney, Harrison and Starkey (Los Paranoias)",
+            "title": "Step Inside Love/Los Paranoias",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Strawberry Fields Forever",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 245,
+            "genre": "Psychedelic Rock, Art Pop, Psychedelic Pop, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Strawberry Fields Forever",
+            "top.50.billboard": 33,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Sun King",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 146,
+            "genre": "Art Pop, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Sun King",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Sure to Fall (In Love with You)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 141,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Perkins, Claunch, Cantrell",
+            "title": "Sure to Fall (In Love with You)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Sweet Little Sixteen",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 141,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Sweet Little Sixteen",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Take Good Care of My Baby",
+        "yendor": {
+            "duration": 150,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Goffin, King",
+            "title": "Take Good Care of My Baby",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Taking a Trip to Carolina",
+        "yendor": {
+            "album.debut": "Let It Be... Naked - Fly on the Wall bonus disc",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Starkey",
+            "title": "Taking a Trip to Carolina",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Taxman",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 159,
+            "genre": "Rock, Hard Rock, Psychedelic Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison, with uncredited contribution from Lennon",
+            "title": "Taxman",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Teddy Boy",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 145,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Teddy Boy",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Tell Me What You See",
+        "yendor": {
+            "album.debut": "UK: Help! US: Beatles VI",
+            "duration": 156,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Tell Me What You See",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Tell Me Why",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 130,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Tell Me Why",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Thank You Girl",
+        "yendor": {
+            "album.debut": "UK: Rarities US: The Beatles Second Album",
+            "duration": 121,
+            "genre": "Merseybeat, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "Thank You Girl",
+            "top.50.billboard": 46,
+            "year": 1963
+        }
+    },
+    {
+        "title": "That Means a Lot",
+        "yendor": {
+            "album.debut": "Anthology 2",
+            "duration": 146,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "That Means a Lot",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "That'll Be the Day",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 136,
+            "genre": "Rock and Roll, Rockabilly, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Allison, Holly, Petty",
+            "title": "That'll Be the Day",
+            "top.50.billboard": -1,
+            "year": 1958
+        }
+    },
+    {
+        "title": "That's All Right (Mama)",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 176,
+            "genre": "Rockabilly, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Crudup",
+            "title": "That's All Right (Mama)",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "The Ballad of John and Yoko",
+        "yendor": {
+            "album.debut": "UK: 1967-1970 US: Hey Jude",
+            "duration": 179,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "The Ballad of John and Yoko",
+            "top.50.billboard": 28,
+            "year": 1969
+        }
+    },
+    {
+        "title": "The Continuing Story of Bungalow Bill",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 198,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with Starkey",
+            "songwriter": "Lennon",
+            "title": "The Continuing Story of Bungalow Bill",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "The End",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 140,
+            "genre": "Hard Rock, Art Rock, Heavy Metal, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "The End",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "The Fool on the Hill",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 180,
+            "genre": "Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "The Fool on the Hill",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "The Honeymoon Song",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Theodorakis, Sansom",
+            "title": "The Honeymoon Song",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "The Inner Light",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Rarities",
+            "duration": 156,
+            "genre": "Indian Music, Raga Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "The Inner Light",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "The Long and Winding Road",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 220,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "The Long and Winding Road",
+            "top.50.billboard": 20,
+            "year": 1969
+        }
+    },
+    {
+        "title": "The Night Before",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 153,
+            "genre": "Electronic Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "The Night Before",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "The Saints",
+        "yendor": {
+            "duration": 150,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Sheridan",
+            "songwriter": "Traditional, arr. Sheridan",
+            "title": "The Saints",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "The Sheik of Araby",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 150,
+            "genre": "Jazz, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Smith, Wheeler-Snyder",
+            "title": "The Sheik of Araby",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "The Word",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 161,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon, McCartney and Harrison",
+            "songwriter": "Lennon and McCartney",
+            "title": "The Word",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "There's a Place",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: Rarities",
+            "duration": 109,
+            "genre": "Merseybeat, Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "There's a Place",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Things We Said Today",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 158,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Things We Said Today",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Think for Yourself",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 138,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Think for Yourself",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "This Boy",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Meet The Beatles!",
+            "duration": 133,
+            "genre": "Doo Wop, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney and Harrison",
+            "songwriter": "Lennon",
+            "title": "This Boy",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Three Cool Cats",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 128,
+            "genre": "R&B, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Leiber, Stoller",
+            "title": "Three Cool Cats",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "Ticket to Ride",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 190,
+            "genre": "Power Pop, Jangle Pop, Folk Rock, Pop/Rock",
+            "lead.vocal": "Lennon, with McCartney",
+            "songwriter": "Lennon",
+            "title": "Ticket to Ride",
+            "top.50.billboard": 17,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Till There Was You",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: Meet The Beatles!",
+            "duration": 136,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Willson",
+            "title": "Till There Was You",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Tip of My Tongue",
+        "yendor": {
+            "duration": 150,
+            "genre": "Beat, Power Pop, Pop/Rock",
+            "lead.vocal": "McCartney/Lennon",
+            "songwriter": "Lennon and/or McCartney",
+            "title": "Tip of My Tongue",
+            "top.50.billboard": -1,
+            "year": 1962
+        }
+    },
+    {
+        "title": "To Know Her is to Love Her",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 138,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Spector",
+            "title": "To Know Her is to Love Her",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Tomorrow Never Knows",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 178,
+            "genre": "Psychedelic Rock, Hard Rock, Avant-Pop, Experimental Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Tomorrow Never Knows",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Too Much Monkey Business",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 176,
+            "genre": "Rock and Roll, R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Berry",
+            "title": "Too Much Monkey Business",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Twist and Shout",
+        "yendor": {
+            "album.debut": "UK: Please Please Me US: The Early Beatles",
+            "duration": 125,
+            "genre": "Rock and Roll, R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Medley, Russell",
+            "title": "Twist and Shout",
+            "top.50.billboard": 13,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Two of Us",
+        "yendor": {
+            "album.debut": "Let It Be",
+            "duration": 213,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney",
+            "title": "Two of Us",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "Wait",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 136,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "Wait",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Watching Rainbows",
+        "yendor": {
+            "duration": 248,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon, with McCartney",
+            "title": "Watching Rainbows",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "We Can Work It Out",
+        "yendor": {
+            "album.debut": "UK: A Collection of Beatles Oldies US: Yesterday and Today",
+            "duration": 135,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney, with Lennon",
+            "songwriter": "McCartney, with Lennon",
+            "title": "We Can Work It Out",
+            "top.50.billboard": 9,
+            "year": 1965
+        }
+    },
+    {
+        "title": "What Goes On",
+        "yendor": {
+            "album.debut": "UK: Rubber Soul US: Yesterday and Today",
+            "duration": 170,
+            "genre": "Country rock, Country, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Lennon and McCartney, with Starkey",
+            "title": "What Goes On",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "What You're Doing",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 150,
+            "genre": "Jangle pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "What You're Doing",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "What's The New Mary Jane",
+        "yendor": {
+            "album.debut": "Anthology 3",
+            "duration": 372,
+            "genre": "Psychedelic Rock, Musique Concrete, Experimental Music, Outsider Music, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "What's The New Mary Jane",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "When I Get Home",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: Something New",
+            "duration": 138,
+            "genre": "Rock and Roll, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "When I Get Home",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "When I'm Sixty-Four",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 157,
+            "genre": "Music Hall, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "When I'm Sixty-Four",
+            "top.50.billboard": -1,
+            "year": 1966
+        }
+    },
+    {
+        "title": "While My Guitar Gently Weeps",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 286,
+            "genre": "Rock, Psychedelic Rock, Blues Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "While My Guitar Gently Weeps",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Why Don't We Do It in the Road?",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 102,
+            "genre": "Rock, Blues, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Why Don't We Do It in the Road?",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Wild Honey Pie",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 52,
+            "genre": "Experimental pop, Lo-Fi, Psychedelic Folk, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Wild Honey Pie",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Winston's Walk",
+        "yendor": {
+            "duration": 150,
+            "lead.vocal": "N/A",
+            "songwriter": "Lennon",
+            "title": "Winston's Walk",
+            "top.50.billboard": -1,
+            "year": 1960
+        }
+    },
+    {
+        "title": "With a Little Help from My Friends",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 164,
+            "genre": "Pop Rock, Psychedelic Pop, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "Lennon and McCartney",
+            "title": "With a Little Help from My Friends",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Within You Without You",
+        "yendor": {
+            "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
+            "duration": 305,
+            "genre": "Indian Classical, Raga Rock, Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "Within You Without You",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "Woman",
+        "yendor": {
+            "duration": 145,
+            "genre": "Folk Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney (as Bernard Webb or A. Smith)",
+            "title": "Woman",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Words of Love",
+        "yendor": {
+            "album.debut": "UK: Beatles for Sale US: Beatles VI",
+            "duration": 122,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Holly",
+            "title": "Words of Love",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "Yellow Submarine",
+        "yendor": {
+            "album.debut": "Revolver",
+            "duration": 158,
+            "genre": "Children's Music, Folk, Pop/Rock",
+            "lead.vocal": "Starkey",
+            "songwriter": "McCartney",
+            "title": "Yellow Submarine",
+            "top.50.billboard": 25,
+            "year": 1966
+        }
+    },
+    {
+        "title": "Yer Blues",
+        "yendor": {
+            "album.debut": "The Beatles",
+            "duration": 241,
+            "genre": "Blues Rock, Hard Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "Yer Blues",
+            "top.50.billboard": -1,
+            "year": 1968
+        }
+    },
+    {
+        "title": "Yes It Is",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Beatles VI",
+            "duration": 161,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Lennon, McCartney and Harrison",
+            "songwriter": "Lennon",
+            "title": "Yes It Is",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "Yesterday",
+        "yendor": {
+            "album.debut": "UK: Help! US: Yesterday and Today",
+            "duration": 123,
+            "genre": "Baroque Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Yesterday",
+            "top.50.billboard": 12,
+            "year": 1965
+        }
+    },
+    {
+        "title": "You Can't Do That",
+        "yendor": {
+            "album.debut": "UK: A Hard Day's Night US: The Beatles Second Album",
+            "duration": 157,
+            "genre": "Rock and Roll, R&B, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "You Can't Do That",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "You Know My Name (Look Up the Number)",
+        "yendor": {
+            "album.debut": "UK: Rarities US: Rarities",
+            "duration": 261,
+            "genre": "Comedy Rock, Jazz, Experimental Rock, Avant-Garde, Novelty, Pop/Rock",
+            "lead.vocal": "Lennon and McCartney",
+            "songwriter": "Lennon, with McCartney",
+            "title": "You Know My Name (Look Up the Number)",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    },
+    {
+        "title": "You Know What to Do",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 119,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "You Know What to Do",
+            "top.50.billboard": -1,
+            "year": 1964
+        }
+    },
+    {
+        "title": "You Like Me Too Much",
+        "yendor": {
+            "album.debut": "UK: Help! US: Beatles VI",
+            "duration": 155,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Harrison",
+            "title": "You Like Me Too Much",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "You Never Give Me Your Money",
+        "yendor": {
+            "album.debut": "Abbey Road",
+            "duration": 242,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "You Never Give Me Your Money",
+            "top.50.billboard": -1,
+            "year": 1969
+        }
+    },
+    {
+        "title": "You Won't See Me",
+        "yendor": {
+            "album.debut": "Rubber Soul",
+            "duration": 202,
+            "genre": "Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "You Won't See Me",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "You'll Be Mine",
+        "yendor": {
+            "album.debut": "Anthology 1",
+            "duration": 98,
+            "genre": "R&B, Experimental, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "Lennon and McCartney",
+            "title": "You'll Be Mine",
+            "top.50.billboard": -1,
+            "year": 1960
+        }
+    },
+    {
+        "title": "You're Going to Lose That Girl",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 140,
+            "genre": "Rock, Pop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "You're Going to Lose That Girl",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "You've Got to Hide Your Love Away",
+        "yendor": {
+            "album.debut": "Help!",
+            "duration": 131,
+            "genre": "FolkPop/Rock",
+            "lead.vocal": "Lennon",
+            "songwriter": "Lennon",
+            "title": "You've Got to Hide Your Love Away",
+            "top.50.billboard": -1,
+            "year": 1965
+        }
+    },
+    {
+        "title": "You've Really Got a Hold on Me",
+        "yendor": {
+            "album.debut": "UK: With the Beatles US: The Beatles Second Album",
+            "duration": 182,
+            "genre": "Soul, Pop/Rock",
+            "lead.vocal": "Lennon and Harrison",
+            "songwriter": "Robinson",
+            "title": "You've Really Got a Hold on Me",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Young Blood",
+        "yendor": {
+            "album.debut": "Live at the BBC",
+            "duration": 116,
+            "genre": "Pop/Rock",
+            "lead.vocal": "Harrison",
+            "songwriter": "Leiber, Stoller",
+            "title": "Young Blood",
+            "top.50.billboard": -1,
+            "year": 1963
+        }
+    },
+    {
+        "title": "Your Mother Should Know",
+        "yendor": {
+            "album.debut": "Magical Mystery Tour",
+            "duration": 149,
+            "genre": "Music Hall, Vaudeville Rock, Psychedelic Pop, Pop/Rock",
+            "lead.vocal": "McCartney",
+            "songwriter": "McCartney",
+            "title": "Your Mother Should Know",
+            "top.50.billboard": -1,
+            "year": 1967
+        }
+    }
+]
