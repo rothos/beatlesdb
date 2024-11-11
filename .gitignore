@@ -1,1 +1,4 @@
 *.bak
+.python-version
+*.xlsx
+*.csv
