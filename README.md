@@ -23,4 +23,6 @@ Beatles songs database.
 # Schema of `beatles_songs.json`
 
 - `title`: Title of the song.
+- `other_titles`: List of synonyms.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
+- `pannell`: Data we pulled from David J. Pannell (2023). _Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970_, Journal of Beatles Studies volume 2.

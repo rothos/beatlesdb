@@ -17,8 +17,11 @@ def save(songs):
         json.dump(sorted(songs, key=lambda song: song["title"]), f, sort_keys=True, indent=4)
 
 def get_song_by_title(songs, title):
+    title = title.lower()
+
     for song in songs:
-        if song["title"] == title:
+        if title in [t.lower() for t in [song["title"]] + song.get("other_titles", [])]:
             return song
+
     return None
 
