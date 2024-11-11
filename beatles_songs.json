@@ -12,6 +12,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.29,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.364,
+            "duration_ms": 337413,
+            "energy": 0.457,
+            "liveness": 0.922,
+            "song": "a day in the life",
+            "speechiness": 0.0675,
+            "valence": 0.175,
+            "year": 1967
+        },
         "title": "A Day in the Life",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -25,6 +37,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.137,
+            "album": "A Hard Day's Night",
+            "danceability": 0.59,
+            "duration_ms": 154200,
+            "energy": 0.805,
+            "liveness": 0.0996,
+            "song": "A Hard Day's Night",
+            "speechiness": 0.0371,
+            "valence": 0.797,
+            "year": 1964
+        },
         "title": "A Hard Day's Night",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: 1962-1966",
@@ -51,6 +75,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.698,
+            "album": "Please Please Me",
+            "danceability": 0.42,
+            "duration_ms": 123480,
+            "energy": 0.372,
+            "liveness": 0.104,
+            "song": "A Taste of Honey",
+            "speechiness": 0.0327,
+            "valence": 0.412,
+            "year": 1963
+        },
         "title": "A Taste of Honey",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -64,6 +100,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.361,
+            "album": "Let It Be",
+            "danceability": 0.257,
+            "duration_ms": 228133,
+            "energy": 0.412,
+            "liveness": 0.0702,
+            "song": "across the universe",
+            "speechiness": 0.0287,
+            "valence": 0.858,
+            "year": 1970
+        },
         "title": "Across the Universe",
         "yendor": {
             "album.debut": "Let It Be",
@@ -77,6 +125,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.366,
+            "album": "Help!",
+            "danceability": 0.702,
+            "duration_ms": 150373,
+            "energy": 0.447,
+            "liveness": 0.153,
+            "song": "act naturally",
+            "speechiness": 0.0308,
+            "valence": 0.944,
+            "year": 1965
+        },
         "title": "Act Naturally",
         "yendor": {
             "album.debut": "UK: Help! US: Yesterday and Today",
@@ -103,6 +163,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.217,
+            "album": "With The Beatles",
+            "danceability": 0.49,
+            "duration_ms": 122573,
+            "energy": 0.579,
+            "liveness": 0.0644,
+            "song": "All I've Got To Do",
+            "speechiness": 0.0344,
+            "valence": 0.879,
+            "year": 1963
+        },
         "title": "All I've Got to Do",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -116,6 +188,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.207,
+            "album": "With The Beatles",
+            "danceability": 0.416,
+            "duration_ms": 127853,
+            "energy": 0.563,
+            "liveness": 0.343,
+            "song": "All My Loving",
+            "speechiness": 0.0298,
+            "valence": 0.9,
+            "year": 1963
+        },
         "title": "All My Loving",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -142,6 +226,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0722,
+            "album": "Yellow Submarine",
+            "danceability": 0.587,
+            "duration_ms": 130893,
+            "energy": 0.431,
+            "liveness": 0.561,
+            "song": "all together now",
+            "speechiness": 0.0686,
+            "valence": 0.778,
+            "year": 1969
+        },
         "title": "All Together Now",
         "yendor": {
             "album.debut": "Yellow Submarine",
@@ -155,6 +251,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.345,
+            "album": "Yellow Submarine",
+            "danceability": 0.4,
+            "duration_ms": 231213,
+            "energy": 0.463,
+            "liveness": 0.286,
+            "song": "all you need is love",
+            "speechiness": 0.0288,
+            "valence": 0.627,
+            "year": 1969
+        },
         "title": "All You Need Is Love",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -168,6 +276,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.64,
+            "album": "A Hard Day's Night",
+            "danceability": 0.767,
+            "duration_ms": 149693,
+            "energy": 0.331,
+            "liveness": 0.0681,
+            "song": "And I Love Her",
+            "speechiness": 0.0337,
+            "valence": 0.636,
+            "year": 1964
+        },
         "title": "And I Love Her",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -181,6 +301,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0067,
+            "album": "Revolver",
+            "danceability": 0.555,
+            "duration_ms": 120493,
+            "energy": 0.65,
+            "liveness": 0.236,
+            "song": "and your bird can sing",
+            "speechiness": 0.0282,
+            "valence": 0.966,
+            "year": 1966
+        },
         "title": "And Your Bird Can Sing",
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
@@ -194,6 +326,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.635,
+            "album": "Please Please Me",
+            "danceability": 0.608,
+            "duration_ms": 177133,
+            "energy": 0.565,
+            "liveness": 0.0601,
+            "song": "Anna (Go to Him)",
+            "speechiness": 0.0336,
+            "valence": 0.835,
+            "year": 1963
+        },
         "title": "Anna (Go to Him)",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -207,6 +351,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.238,
+            "album": "Help!",
+            "danceability": 0.516,
+            "duration_ms": 125360,
+            "energy": 0.638,
+            "liveness": 0.333,
+            "song": "another girl",
+            "speechiness": 0.0314,
+            "valence": 0.822,
+            "year": 1965
+        },
         "title": "Another Girl",
         "yendor": {
             "album.debut": "Help!",
@@ -220,6 +376,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.366,
+            "album": "A Hard Day's Night",
+            "danceability": 0.612,
+            "duration_ms": 131280,
+            "energy": 0.719,
+            "liveness": 0.437,
+            "song": "any time at all",
+            "speechiness": 0.0398,
+            "valence": 0.744,
+            "year": 1964
+        },
         "title": "Any Time at All",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -233,6 +401,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.767,
+            "album": "Please Please Me",
+            "danceability": 0.605,
+            "duration_ms": 146533,
+            "energy": 0.394,
+            "liveness": 0.0967,
+            "song": "Ask Me Why",
+            "speechiness": 0.0378,
+            "valence": 0.597,
+            "year": 1963
+        },
         "title": "Ask Me Why",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -246,6 +426,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.778,
+            "album": "Please Please Me",
+            "danceability": 0.608,
+            "duration_ms": 160520,
+            "energy": 0.494,
+            "liveness": 0.0926,
+            "song": "Baby It's You",
+            "speechiness": 0.0345,
+            "valence": 0.879,
+            "year": 1963
+        },
         "title": "Baby It's You",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -259,6 +451,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.434,
+            "album": "Beatles for Sale",
+            "danceability": 0.374,
+            "duration_ms": 124520,
+            "energy": 0.596,
+            "liveness": 0.098,
+            "song": "baby's in black",
+            "speechiness": 0.0416,
+            "valence": 0.876,
+            "year": 1964
+        },
         "title": "Baby's in Black",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -272,6 +476,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0119,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.619,
+            "duration_ms": 181307,
+            "energy": 0.625,
+            "liveness": 0.152,
+            "song": "baby, you're a rich man",
+            "speechiness": 0.036,
+            "valence": 0.467,
+            "year": 1967
+        },
         "title": "Baby, You're a Rich Man",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -285,6 +501,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.069,
+            "album": "The Beatles (white album)",
+            "danceability": 0.48,
+            "duration_ms": 163453,
+            "energy": 0.969,
+            "liveness": 0.0608,
+            "song": "back in the u.s.s.r.",
+            "speechiness": 0.0854,
+            "valence": 0.494,
+            "year": 1968
+        },
         "title": "Back in the U.S.S.R.",
         "yendor": {
             "album.debut": "The Beatles",
@@ -337,6 +565,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.754,
+            "album": "Abbey Road",
+            "danceability": 0.328,
+            "duration_ms": 165667,
+            "energy": 0.249,
+            "liveness": 0.134,
+            "song": "because",
+            "speechiness": 0.0272,
+            "valence": 0.162,
+            "year": 1969
+        },
         "title": "Because",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -362,6 +602,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.338,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.526,
+            "duration_ms": 157533,
+            "energy": 0.413,
+            "liveness": 0.0992,
+            "song": "being for the benefit of mr. kite!",
+            "speechiness": 0.0446,
+            "valence": 0.71,
+            "year": 1967
+        },
         "title": "Being for the Benefit of Mr. Kite!",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -375,6 +627,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 7.37e-05,
+            "album": "The Beatles (white album)",
+            "danceability": 0.541,
+            "duration_ms": 163080,
+            "energy": 0.727,
+            "liveness": 0.232,
+            "song": "birthday",
+            "speechiness": 0.0384,
+            "valence": 0.91,
+            "year": 1968
+        },
         "title": "Birthday",
         "yendor": {
             "album.debut": "The Beatles",
@@ -388,6 +652,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.754,
+            "album": "The Beatles (white album)",
+            "danceability": 0.686,
+            "duration_ms": 138387,
+            "energy": 0.127,
+            "liveness": 0.0573,
+            "song": "blackbird",
+            "speechiness": 0.0342,
+            "valence": 0.372,
+            "year": 1968
+        },
         "title": "Blackbird",
         "yendor": {
             "album.debut": "The Beatles",
@@ -401,6 +677,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0258,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.294,
+            "duration_ms": 235067,
+            "energy": 0.407,
+            "liveness": 0.0852,
+            "song": "blue jay way",
+            "speechiness": 0.0308,
+            "valence": 0.0378,
+            "year": 1967
+        },
         "title": "Blue Jay Way",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -414,6 +702,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.607,
+            "album": "Please Please Me",
+            "danceability": 0.402,
+            "duration_ms": 146440,
+            "energy": 0.86,
+            "liveness": 0.736,
+            "song": "Boys",
+            "speechiness": 0.0504,
+            "valence": 0.822,
+            "year": 1963
+        },
         "title": "Boys",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -440,6 +740,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.283,
+            "album": "A Hard Day's Night",
+            "danceability": 0.483,
+            "duration_ms": 131867,
+            "energy": 0.677,
+            "liveness": 0.321,
+            "song": "can't buy me love",
+            "speechiness": 0.0593,
+            "valence": 0.842,
+            "year": 1964
+        },
         "title": "Can't Buy Me Love",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Hey Jude",
@@ -466,6 +778,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.226,
+            "album": "Abbey Road",
+            "danceability": 0.543,
+            "duration_ms": 96467,
+            "energy": 0.458,
+            "liveness": 0.298,
+            "song": "carry that weight ",
+            "speechiness": 0.0274,
+            "valence": 0.704,
+            "year": 1969
+        },
         "title": "Carry That Weight",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -504,6 +828,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.608,
+            "album": "Please Please Me",
+            "danceability": 0.654,
+            "duration_ms": 145080,
+            "energy": 0.561,
+            "liveness": 0.129,
+            "song": "Chains",
+            "speechiness": 0.0304,
+            "valence": 0.929,
+            "year": 1963
+        },
         "title": "Chains",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -568,6 +904,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0302,
+            "album": "Abbey Road",
+            "danceability": 0.533,
+            "duration_ms": 259947,
+            "energy": 0.376,
+            "liveness": 0.0926,
+            "song": "come together",
+            "speechiness": 0.0393,
+            "valence": 0.187,
+            "year": 1969
+        },
         "title": "Come Together",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -594,6 +942,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.115,
+            "album": "The Beatles (white album)",
+            "danceability": 0.517,
+            "duration_ms": 182080,
+            "energy": 0.529,
+            "liveness": 0.174,
+            "song": "cry baby cry",
+            "speechiness": 0.0323,
+            "valence": 0.362,
+            "year": 1968
+        },
         "title": "Cry Baby Cry",
         "yendor": {
             "album.debut": "The Beatles",
@@ -646,6 +1006,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.16,
+            "album": "The Beatles (white album)",
+            "danceability": 0.388,
+            "duration_ms": 235773,
+            "energy": 0.529,
+            "liveness": 0.108,
+            "song": "dear prudence ",
+            "speechiness": 0.0436,
+            "valence": 0.332,
+            "year": 1968
+        },
         "title": "Dear Prudence",
         "yendor": {
             "album.debut": "The Beatles",
@@ -659,6 +1031,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.227,
+            "album": "With The Beatles",
+            "danceability": 0.618,
+            "duration_ms": 146213,
+            "energy": 0.622,
+            "liveness": 0.0438,
+            "song": "Devil In Her Heart",
+            "speechiness": 0.0296,
+            "valence": 0.966,
+            "year": 1963
+        },
         "title": "Devil in Her Heart",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -672,6 +1056,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.659,
+            "album": "Let It Be",
+            "danceability": 0.54,
+            "duration_ms": 50467,
+            "energy": 0.489,
+            "liveness": 0.457,
+            "song": "dig it ",
+            "speechiness": 0.117,
+            "valence": 0.67,
+            "year": 1970
+        },
         "title": "Dig It",
         "yendor": {
             "album.debut": "Let It Be",
@@ -685,6 +1081,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.472,
+            "album": "Let It Be",
+            "danceability": 0.538,
+            "duration_ms": 235000,
+            "energy": 0.478,
+            "liveness": 0.17,
+            "song": "dig a pony",
+            "speechiness": 0.0388,
+            "valence": 0.527,
+            "year": 1970
+        },
         "title": "Dig a Pony",
         "yendor": {
             "album.debut": "Let It Be",
@@ -698,6 +1106,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.116,
+            "album": "Help!",
+            "danceability": 0.373,
+            "duration_ms": 176507,
+            "energy": 0.934,
+            "liveness": 0.0962,
+            "song": "dizzy, miss lizzy",
+            "speechiness": 0.0591,
+            "valence": 0.918,
+            "year": 1965
+        },
         "title": "Dizzy, Miss Lizzy",
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
@@ -711,6 +1131,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.608,
+            "album": "Please Please Me",
+            "danceability": 0.673,
+            "duration_ms": 117013,
+            "energy": 0.349,
+            "liveness": 0.38,
+            "song": "Do You Want to Know a Secret?",
+            "speechiness": 0.0368,
+            "valence": 0.609,
+            "year": 1963
+        },
         "title": "Do You Want to Know a Secret?",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -724,6 +1156,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.164,
+            "album": "Revolver",
+            "danceability": 0.394,
+            "duration_ms": 134267,
+            "energy": 0.64,
+            "liveness": 0.153,
+            "song": "doctor robert",
+            "speechiness": 0.0488,
+            "valence": 0.574,
+            "year": 1966
+        },
         "title": "Doctor Robert",
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
@@ -737,6 +1181,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.554,
+            "album": "With The Beatles",
+            "danceability": 0.371,
+            "duration_ms": 148253,
+            "energy": 0.724,
+            "liveness": 0.299,
+            "song": "Don't Bother Me",
+            "speechiness": 0.0562,
+            "valence": 0.916,
+            "year": 1963
+        },
         "title": "Don't Bother Me",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -776,6 +1232,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.594,
+            "album": "The Beatles (white album)",
+            "danceability": 0.599,
+            "duration_ms": 230453,
+            "energy": 0.537,
+            "liveness": 0.194,
+            "song": "don't pass me by",
+            "speechiness": 0.0254,
+            "valence": 0.946,
+            "year": 1968
+        },
         "title": "Don't Pass Me By",
         "yendor": {
             "album.debut": "The Beatles",
@@ -789,6 +1257,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0173,
+            "album": "Rubber Soul",
+            "danceability": 0.754,
+            "duration_ms": 148893,
+            "energy": 0.571,
+            "liveness": 0.3,
+            "song": "drive my car",
+            "speechiness": 0.0421,
+            "valence": 0.82,
+            "year": 1965
+        },
         "title": "Drive My Car",
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
@@ -802,6 +1282,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.412,
+            "album": "Beatles for Sale",
+            "danceability": 0.652,
+            "duration_ms": 163600,
+            "energy": 0.583,
+            "liveness": 0.119,
+            "song": "eight days a week",
+            "speechiness": 0.038,
+            "valence": 0.744,
+            "year": 1964
+        },
         "title": "Eight Days a Week",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -815,6 +1307,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.936,
+            "album": "Revolver",
+            "danceability": 0.581,
+            "duration_ms": 126533,
+            "energy": 0.28,
+            "liveness": 0.305,
+            "song": "eleanor rigby",
+            "speechiness": 0.0381,
+            "valence": 0.813,
+            "year": 1966
+        },
         "title": "Eleanor Rigby",
         "yendor": {
             "album.debut": "Revolver",
@@ -840,6 +1344,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.488,
+            "album": "Beatles for Sale",
+            "danceability": 0.74,
+            "duration_ms": 123800,
+            "energy": 0.49,
+            "liveness": 0.103,
+            "song": "every little thing",
+            "speechiness": 0.038,
+            "valence": 0.678,
+            "year": 1964
+        },
         "title": "Every Little Thing",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -866,6 +1382,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.466,
+            "album": "Beatles for Sale",
+            "danceability": 0.543,
+            "duration_ms": 146000,
+            "energy": 0.806,
+            "liveness": 0.134,
+            "song": "everybody's trying to be my baby",
+            "speechiness": 0.0385,
+            "valence": 0.943,
+            "year": 1964
+        },
         "title": "Everybody's Trying to Be My Baby",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -892,6 +1420,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.382,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.469,
+            "duration_ms": 156827,
+            "energy": 0.507,
+            "liveness": 0.0783,
+            "song": "fixing a hole",
+            "speechiness": 0.0451,
+            "valence": 0.619,
+            "year": 1967
+        },
         "title": "Fixing a Hole",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -905,6 +1445,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.368,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.551,
+            "duration_ms": 135520,
+            "energy": 0.395,
+            "liveness": 0.0932,
+            "song": "flying ",
+            "speechiness": 0.0501,
+            "valence": 0.261,
+            "year": 1967
+        },
         "title": "Flying",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -918,6 +1470,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.783,
+            "album": "Revolver",
+            "danceability": 0.483,
+            "duration_ms": 119813,
+            "energy": 0.351,
+            "liveness": 0.115,
+            "song": "for no one",
+            "speechiness": 0.0278,
+            "valence": 0.713,
+            "year": 1966
+        },
         "title": "For No One",
         "yendor": {
             "album.debut": "Revolver",
@@ -931,6 +1495,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.24,
+            "album": "Let It Be",
+            "danceability": 0.88,
+            "duration_ms": 152213,
+            "energy": 0.556,
+            "liveness": 0.24,
+            "song": "for you blue",
+            "speechiness": 0.0855,
+            "valence": 0.955,
+            "year": 1970
+        },
         "title": "For You Blue",
         "yendor": {
             "album.debut": "Let It Be",
@@ -983,6 +1559,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.492,
+            "album": "Let It Be",
+            "danceability": 0.761,
+            "duration_ms": 189387,
+            "energy": 0.592,
+            "liveness": 0.61,
+            "song": "get back",
+            "speechiness": 0.0586,
+            "valence": 0.332,
+            "year": 1970
+        },
         "title": "Get Back",
         "yendor": {
             "album.debut": "Let It Be",
@@ -996,6 +1584,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.313,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.632,
+            "duration_ms": 168120,
+            "energy": 0.471,
+            "liveness": 0.0712,
+            "song": "getting better",
+            "speechiness": 0.0348,
+            "valence": 0.764,
+            "year": 1967
+        },
         "title": "Getting Better",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1009,6 +1609,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.587,
+            "album": "Rubber Soul",
+            "danceability": 0.699,
+            "duration_ms": 151720,
+            "energy": 0.294,
+            "liveness": 0.117,
+            "song": "girl",
+            "speechiness": 0.0294,
+            "valence": 0.893,
+            "year": 1965
+        },
         "title": "Girl",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -1035,6 +1647,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0123,
+            "album": "The Beatles (white album)",
+            "danceability": 0.523,
+            "duration_ms": 137840,
+            "energy": 0.51,
+            "liveness": 0.108,
+            "song": "glass onion",
+            "speechiness": 0.0514,
+            "valence": 0.789,
+            "year": 1968
+        },
         "title": "Glass Onion",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1048,6 +1672,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.326,
+            "album": "Abbey Road",
+            "danceability": 0.419,
+            "duration_ms": 91760,
+            "energy": 0.152,
+            "liveness": 0.113,
+            "song": "golden slumbers",
+            "speechiness": 0.0277,
+            "valence": 0.239,
+            "year": 1969
+        },
         "title": "Golden Slumbers",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -1061,6 +1697,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.719,
+            "album": "Revolver",
+            "danceability": 0.77,
+            "duration_ms": 129293,
+            "energy": 0.496,
+            "liveness": 0.123,
+            "song": "good day sunshine",
+            "speechiness": 0.0468,
+            "valence": 0.571,
+            "year": 1966
+        },
         "title": "Good Day Sunshine",
         "yendor": {
             "album.debut": "Revolver",
@@ -1074,6 +1722,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0858,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.542,
+            "duration_ms": 161227,
+            "energy": 0.618,
+            "liveness": 0.772,
+            "song": "good morning, good morning",
+            "speechiness": 0.139,
+            "valence": 0.93,
+            "year": 1967
+        },
         "title": "Good Morning, Good Morning",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1087,6 +1747,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.865,
+            "album": "The Beatles (white album)",
+            "danceability": 0.146,
+            "duration_ms": 193760,
+            "energy": 0.355,
+            "liveness": 0.114,
+            "song": "good night",
+            "speechiness": 0.0352,
+            "valence": 0.178,
+            "year": 1968
+        },
         "title": "Good Night",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1112,6 +1784,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.42,
+            "album": "Revolver",
+            "danceability": 0.521,
+            "duration_ms": 149240,
+            "energy": 0.524,
+            "liveness": 0.0838,
+            "song": "got to get you into my life",
+            "speechiness": 0.0302,
+            "valence": 0.711,
+            "year": 1966
+        },
         "title": "Got to Get You into My Life",
         "yendor": {
             "album.debut": "Revolver",
@@ -1138,6 +1822,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.523,
+            "album": "The Beatles (white album)",
+            "danceability": 0.431,
+            "duration_ms": 164547,
+            "energy": 0.54,
+            "liveness": 0.169,
+            "song": "happiness is a warm gun",
+            "speechiness": 0.0589,
+            "valence": 0.44,
+            "year": 1968
+        },
         "title": "Happiness Is a Warm Gun",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1176,6 +1872,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.306,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.479,
+            "duration_ms": 208840,
+            "energy": 0.733,
+            "liveness": 0.414,
+            "song": "hello, goodbye",
+            "speechiness": 0.0256,
+            "valence": 0.806,
+            "year": 1967
+        },
         "title": "Hello, Goodbye",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -1189,6 +1897,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.188,
+            "album": "Help!",
+            "danceability": 0.534,
+            "duration_ms": 139560,
+            "energy": 0.725,
+            "liveness": 0.0994,
+            "song": "Help!",
+            "speechiness": 0.0332,
+            "valence": 0.763,
+            "year": 1965
+        },
         "title": "Help!",
         "yendor": {
             "album.debut": "Help!",
@@ -1202,6 +1922,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.000606,
+            "album": "The Beatles (white album)",
+            "danceability": 0.166,
+            "duration_ms": 269787,
+            "energy": 0.831,
+            "liveness": 0.811,
+            "song": "helter skelter",
+            "speechiness": 0.0894,
+            "valence": 0.281,
+            "year": 1968
+        },
         "title": "Helter Skelter",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1215,6 +1947,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.728,
+            "album": "Abbey Road",
+            "danceability": 0.703,
+            "duration_ms": 25987,
+            "energy": 0.215,
+            "liveness": 0.13,
+            "song": "her majesty",
+            "speechiness": 0.0892,
+            "valence": 0.522,
+            "year": 1969
+        },
         "title": "Her Majesty",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -1228,6 +1972,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0339,
+            "album": "Abbey Road",
+            "danceability": 0.557,
+            "duration_ms": 185733,
+            "energy": 0.54,
+            "liveness": 0.179,
+            "song": "Here comes the sun",
+            "speechiness": 0.0347,
+            "valence": 0.394,
+            "year": 1969
+        },
         "title": "Here Comes the Sun",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -1241,6 +1997,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.921,
+            "album": "Revolver",
+            "danceability": 0.29,
+            "duration_ms": 144880,
+            "energy": 0.247,
+            "liveness": 0.0917,
+            "song": "here, there and everywhere",
+            "speechiness": 0.0383,
+            "valence": 0.36,
+            "year": 1966
+        },
         "title": "Here, There and Everywhere",
         "yendor": {
             "album.debut": "Revolver",
@@ -1254,6 +2022,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0197,
+            "album": "Yellow Submarine",
+            "danceability": 0.587,
+            "duration_ms": 191307,
+            "energy": 0.617,
+            "liveness": 0.199,
+            "song": "hey bulldog",
+            "speechiness": 0.028,
+            "valence": 0.947,
+            "year": 1969
+        },
         "title": "Hey Bulldog",
         "yendor": {
             "album.debut": "Yellow Submarine",
@@ -1293,6 +2073,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.664,
+            "album": "With The Beatles",
+            "danceability": 0.54,
+            "duration_ms": 151907,
+            "energy": 0.744,
+            "liveness": 0.21,
+            "song": "Hold Me Tight",
+            "speechiness": 0.0312,
+            "valence": 0.963,
+            "year": 1963
+        },
         "title": "Hold Me Tight",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -1306,6 +2098,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.473,
+            "album": "Beatles for Sale",
+            "danceability": 0.629,
+            "duration_ms": 177427,
+            "energy": 0.545,
+            "liveness": 0.0854,
+            "song": "honey don't ",
+            "speechiness": 0.0348,
+            "valence": 0.735,
+            "year": 1964
+        },
         "title": "Honey Don't",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -1319,6 +2123,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.88,
+            "album": "The Beatles (white album)",
+            "danceability": 0.537,
+            "duration_ms": 161160,
+            "energy": 0.297,
+            "liveness": 0.145,
+            "song": "honey pie",
+            "speechiness": 0.0822,
+            "valence": 0.553,
+            "year": 1968
+        },
         "title": "Honey Pie",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1345,6 +2161,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0828,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.401,
+            "duration_ms": 275867,
+            "energy": 0.556,
+            "liveness": 0.589,
+            "song": "I am the walrus",
+            "speechiness": 0.0513,
+            "valence": 0.654,
+            "year": 1967
+        },
         "title": "I Am the Walrus",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -1371,6 +2199,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.451,
+            "album": "Beatles for Sale",
+            "danceability": 0.533,
+            "duration_ms": 154467,
+            "energy": 0.668,
+            "liveness": 0.149,
+            "song": "I don't want to spoil the party ",
+            "speechiness": 0.033,
+            "valence": 0.889,
+            "year": 1964
+        },
         "title": "I Don't Want to Spoil the Party",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -1461,6 +2301,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.179,
+            "album": "Let It Be",
+            "danceability": 0.291,
+            "duration_ms": 145587,
+            "energy": 0.638,
+            "liveness": 0.101,
+            "song": "I me mine",
+            "speechiness": 0.0554,
+            "valence": 0.525,
+            "year": 1970
+        },
         "title": "I Me Mine",
         "yendor": {
             "album.debut": "Let It Be",
@@ -1474,6 +2326,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.277,
+            "album": "Help!",
+            "danceability": 0.601,
+            "duration_ms": 148787,
+            "energy": 0.489,
+            "liveness": 0.0988,
+            "song": "I need you",
+            "speechiness": 0.0455,
+            "valence": 0.638,
+            "year": 1965
+        },
         "title": "I Need You",
         "yendor": {
             "album.debut": "Help!",
@@ -1487,6 +2351,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.27,
+            "album": "Please Please Me",
+            "danceability": 0.491,
+            "duration_ms": 173947,
+            "energy": 0.801,
+            "liveness": 0.0665,
+            "song": "I Saw Her Standing There",
+            "speechiness": 0.0361,
+            "valence": 0.971,
+            "year": 1963
+        },
         "title": "I Saw Her Standing There",
         "yendor": {
             "album.debut": "UK: Please Please Me US: Meet The Beatles!",
@@ -1500,6 +2376,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.257,
+            "album": "A Hard Day's Night",
+            "danceability": 0.682,
+            "duration_ms": 163080,
+            "energy": 0.444,
+            "liveness": 0.115,
+            "song": "I should Have Known Better",
+            "speechiness": 0.0289,
+            "valence": 0.91,
+            "year": 1964
+        },
         "title": "I Should Have Known Better",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Hey Jude",
@@ -1513,6 +2401,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.477,
+            "album": "With The Beatles",
+            "danceability": 0.553,
+            "duration_ms": 119507,
+            "energy": 0.914,
+            "liveness": 0.292,
+            "song": "I Wanna Be Your Man",
+            "speechiness": 0.0415,
+            "valence": 0.683,
+            "year": 1963
+        },
         "title": "I Wanna Be Your Man",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -1526,6 +2426,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0233,
+            "album": "Abbey Road",
+            "danceability": 0.37,
+            "duration_ms": 467320,
+            "energy": 0.515,
+            "liveness": 0.0966,
+            "song": "I want you (she's so heavy)",
+            "speechiness": 0.0321,
+            "valence": 0.42,
+            "year": 1969
+        },
         "title": "I Want You (She's So Heavy)",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -1552,6 +2464,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.182,
+            "album": "Revolver",
+            "danceability": 0.493,
+            "duration_ms": 147973,
+            "energy": 0.525,
+            "liveness": 0.148,
+            "song": "I want to tell you",
+            "speechiness": 0.0315,
+            "valence": 0.449,
+            "year": 1966
+        },
         "title": "I Want to Tell You",
         "yendor": {
             "album.debut": "Revolver",
@@ -1565,6 +2489,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.742,
+            "album": "The Beatles (white album)",
+            "danceability": 0.631,
+            "duration_ms": 105933,
+            "energy": 0.387,
+            "liveness": 0.0822,
+            "song": "I will",
+            "speechiness": 0.0262,
+            "valence": 0.832,
+            "year": 1968
+        },
         "title": "I Will",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1578,6 +2514,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.744,
+            "album": "A Hard Day's Night",
+            "danceability": 0.721,
+            "duration_ms": 144187,
+            "energy": 0.527,
+            "liveness": 0.186,
+            "song": "i'll be back",
+            "speechiness": 0.0293,
+            "valence": 0.641,
+            "year": 1964
+        },
         "title": "I'll Be Back",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Beatles '65",
@@ -1604,6 +2552,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0917,
+            "album": "A Hard Day's Night",
+            "danceability": 0.643,
+            "duration_ms": 105987,
+            "energy": 0.73,
+            "liveness": 0.253,
+            "song": "i'll cry instead",
+            "speechiness": 0.0347,
+            "valence": 0.96,
+            "year": 1964
+        },
         "title": "I'll Cry Instead",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -1617,6 +2577,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.789,
+            "album": "Beatles for Sale",
+            "danceability": 0.689,
+            "duration_ms": 108853,
+            "energy": 0.313,
+            "liveness": 0.144,
+            "song": "i'll follow the sun",
+            "speechiness": 0.0366,
+            "valence": 0.625,
+            "year": 1964
+        },
         "title": "I'll Follow the Sun",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -1681,6 +2653,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.138,
+            "album": "A Hard Day's Night",
+            "danceability": 0.658,
+            "duration_ms": 116373,
+            "energy": 0.537,
+            "liveness": 0.0572,
+            "song": "I'm Happy Just To Dance With You",
+            "speechiness": 0.0307,
+            "valence": 0.887,
+            "year": 1964
+        },
         "title": "I'm Happy Just to Dance with You",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -1707,6 +2691,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00772,
+            "album": "Rubber Soul",
+            "danceability": 0.667,
+            "duration_ms": 146387,
+            "energy": 0.498,
+            "liveness": 0.0481,
+            "song": "i'm looking through you ",
+            "speechiness": 0.0364,
+            "valence": 0.774,
+            "year": 1965
+        },
         "title": "I'm Looking Through You",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -1720,6 +2716,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.21,
+            "album": "Revolver",
+            "danceability": 0.494,
+            "duration_ms": 180320,
+            "energy": 0.47,
+            "liveness": 0.28,
+            "song": "i'm only sleeping",
+            "speechiness": 0.0301,
+            "valence": 0.698,
+            "year": 1966
+        },
         "title": "I'm Only Sleeping",
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
@@ -1733,6 +2741,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.656,
+            "album": "The Beatles (white album)",
+            "danceability": 0.433,
+            "duration_ms": 123493,
+            "energy": 0.483,
+            "liveness": 0.539,
+            "song": "i'm so tired",
+            "speechiness": 0.175,
+            "valence": 0.717,
+            "year": 1968
+        },
         "title": "I'm So Tired",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1759,6 +2779,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.567,
+            "album": "Beatles for Sale",
+            "danceability": 0.492,
+            "duration_ms": 150027,
+            "energy": 0.628,
+            "liveness": 0.267,
+            "song": "i'm a loser",
+            "speechiness": 0.0439,
+            "valence": 0.856,
+            "year": 1964
+        },
         "title": "I'm a Loser",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -1772,6 +2804,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0715,
+            "album": "Let It Be",
+            "danceability": 0.44,
+            "duration_ms": 217560,
+            "energy": 0.609,
+            "liveness": 0.582,
+            "song": "i've got a feeling",
+            "speechiness": 0.0358,
+            "valence": 0.364,
+            "year": 1970
+        },
         "title": "I've Got a Feeling",
         "yendor": {
             "album.debut": "Let It Be",
@@ -1785,6 +2829,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.723,
+            "album": "Help!",
+            "danceability": 0.647,
+            "duration_ms": 125040,
+            "energy": 0.56,
+            "liveness": 0.118,
+            "song": "i've just seen a face",
+            "speechiness": 0.0387,
+            "valence": 0.913,
+            "year": 1965
+        },
         "title": "I've Just Seen a Face",
         "yendor": {
             "album.debut": "UK: Help! US: Rubber Soul",
@@ -1798,6 +2854,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.68,
+            "album": "A Hard Day's Night",
+            "danceability": 0.665,
+            "duration_ms": 139467,
+            "energy": 0.31,
+            "liveness": 0.0877,
+            "song": "If I Fell",
+            "speechiness": 0.0278,
+            "valence": 0.568,
+            "year": 1964
+        },
         "title": "If I Fell",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -1811,6 +2879,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00748,
+            "album": "Rubber Soul",
+            "danceability": 0.492,
+            "duration_ms": 142267,
+            "energy": 0.755,
+            "liveness": 0.102,
+            "song": "if I needed someone",
+            "speechiness": 0.0331,
+            "valence": 0.796,
+            "year": 1965
+        },
         "title": "If I Needed Someone",
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
@@ -1837,6 +2917,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.449,
+            "album": "Rubber Soul",
+            "danceability": 0.688,
+            "duration_ms": 146333,
+            "energy": 0.435,
+            "liveness": 0.113,
+            "song": "in my life",
+            "speechiness": 0.0323,
+            "valence": 0.435,
+            "year": 1965
+        },
         "title": "In My Life",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -1863,6 +2955,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.284,
+            "album": "With The Beatles",
+            "danceability": 0.472,
+            "duration_ms": 133387,
+            "energy": 0.673,
+            "liveness": 0.206,
+            "song": "It Won't Be Long",
+            "speechiness": 0.0318,
+            "valence": 0.862,
+            "year": 1963
+        },
         "title": "It Won't Be Long",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -1876,6 +2980,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 4.3e-05,
+            "album": "Yellow Submarine",
+            "danceability": 0.39,
+            "duration_ms": 385013,
+            "energy": 0.781,
+            "liveness": 0.1,
+            "song": "it's all too much ",
+            "speechiness": 0.0364,
+            "valence": 0.199,
+            "year": 1969
+        },
         "title": "It's All Too Much",
         "yendor": {
             "album.debut": "Yellow Submarine",
@@ -1889,6 +3005,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.22,
+            "album": "Help!",
+            "danceability": 0.629,
+            "duration_ms": 116480,
+            "energy": 0.551,
+            "liveness": 0.0432,
+            "song": "it's only love",
+            "speechiness": 0.0256,
+            "valence": 0.685,
+            "year": 1965
+        },
         "title": "It's Only Love",
         "yendor": {
             "album.debut": "UK: Help! US: Rubber Soul",
@@ -1938,6 +3066,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.828,
+            "album": "The Beatles (white album)",
+            "danceability": 0.512,
+            "duration_ms": 176667,
+            "energy": 0.0953,
+            "liveness": 0.117,
+            "song": "julia",
+            "speechiness": 0.0304,
+            "valence": 0.193,
+            "year": 1968
+        },
         "title": "Julia",
         "yendor": {
             "album.debut": "The Beatles",
@@ -1964,6 +3104,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.614,
+            "album": "Beatles for Sale",
+            "danceability": 0.588,
+            "duration_ms": 158147,
+            "energy": 0.724,
+            "liveness": 0.877,
+            "song": "kansas city/Hey, Hey, Hey, Hey",
+            "speechiness": 0.0335,
+            "valence": 0.924,
+            "year": 1964
+        },
         "title": "Kansas City/Hey, Hey, Hey, Hey",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -2042,6 +3194,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.631,
+            "album": "Let It Be",
+            "danceability": 0.443,
+            "duration_ms": 243027,
+            "energy": 0.403,
+            "liveness": 0.111,
+            "song": "let it be ",
+            "speechiness": 0.0322,
+            "valence": 0.41,
+            "year": 1970
+        },
         "title": "Let It Be",
         "yendor": {
             "album.debut": "Let It Be",
@@ -2068,6 +3232,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.292,
+            "album": "With The Beatles",
+            "danceability": 0.526,
+            "duration_ms": 106400,
+            "energy": 0.858,
+            "liveness": 0.353,
+            "song": "Little Child",
+            "speechiness": 0.0476,
+            "valence": 0.886,
+            "year": 1963
+        },
         "title": "Little Child",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -2107,6 +3283,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.539,
+            "album": "The Beatles (white album)",
+            "danceability": 0.349,
+            "duration_ms": 186307,
+            "energy": 0.129,
+            "liveness": 0.192,
+            "song": "long, long, Long",
+            "speechiness": 0.0294,
+            "valence": 0.163,
+            "year": 1968
+        },
         "title": "Long, Long, Long",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2132,6 +3320,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.386,
+            "album": "Please Please Me",
+            "danceability": 0.52,
+            "duration_ms": 141693,
+            "energy": 0.829,
+            "liveness": 0.227,
+            "song": "Love Me Do",
+            "speechiness": 0.0806,
+            "valence": 0.744,
+            "year": 1963
+        },
         "title": "Love Me Do",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -2145,6 +3345,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.7,
+            "album": "Revolver",
+            "danceability": 0.391,
+            "duration_ms": 179827,
+            "energy": 0.593,
+            "liveness": 0.0829,
+            "song": "love you to",
+            "speechiness": 0.0413,
+            "valence": 0.707,
+            "year": 1966
+        },
         "title": "Love You To",
         "yendor": {
             "album.debut": "Revolver",
@@ -2170,6 +3382,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0634,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.61,
+            "duration_ms": 162093,
+            "energy": 0.471,
+            "liveness": 0.118,
+            "song": "lovely rita",
+            "speechiness": 0.0261,
+            "valence": 0.63,
+            "year": 1967
+        },
         "title": "Lovely Rita",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -2196,6 +3420,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0469,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.311,
+            "duration_ms": 208467,
+            "energy": 0.325,
+            "liveness": 0.139,
+            "song": "lucy in the sky with diamonds",
+            "speechiness": 0.0283,
+            "valence": 0.668,
+            "year": 1967
+        },
         "title": "Lucy in the Sky with Diamonds",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -2221,6 +3457,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.379,
+            "album": "Let It Be",
+            "danceability": 0.516,
+            "duration_ms": 40040,
+            "energy": 0.515,
+            "liveness": 0.103,
+            "song": "maggie mae",
+            "speechiness": 0.215,
+            "valence": 0.524,
+            "year": 1970
+        },
         "title": "Maggie Mae",
         "yendor": {
             "album.debut": "Let It Be",
@@ -2234,6 +3482,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0385,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.297,
+            "duration_ms": 170107,
+            "energy": 0.613,
+            "liveness": 0.0734,
+            "song": "magical mystery tour",
+            "speechiness": 0.0931,
+            "valence": 0.338,
+            "year": 1967
+        },
         "title": "Magical Mystery Tour",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -2260,6 +3520,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.872,
+            "album": "The Beatles (white album)",
+            "danceability": 0.472,
+            "duration_ms": 148573,
+            "energy": 0.292,
+            "liveness": 0.128,
+            "song": "martha my dear",
+            "speechiness": 0.0321,
+            "valence": 0.824,
+            "year": 1968
+        },
         "title": "Martha My Dear",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2286,6 +3558,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.629,
+            "album": "Abbey Road",
+            "danceability": 0.764,
+            "duration_ms": 207920,
+            "energy": 0.426,
+            "liveness": 0.132,
+            "song": "maxwell's silver hammer",
+            "speechiness": 0.0405,
+            "valence": 0.726,
+            "year": 1969
+        },
         "title": "Maxwell's Silver Hammer",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2299,6 +3583,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0699,
+            "album": "Abbey Road",
+            "danceability": 0.676,
+            "duration_ms": 66533,
+            "energy": 0.596,
+            "liveness": 0.351,
+            "song": "mean mr. mustard",
+            "speechiness": 0.0272,
+            "valence": 0.97,
+            "year": 1969
+        },
         "title": "Mean Mr. Mustard",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2325,6 +3621,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.652,
+            "album": "Rubber Soul",
+            "danceability": 0.578,
+            "duration_ms": 162373,
+            "energy": 0.29,
+            "liveness": 0.105,
+            "song": "michelle",
+            "speechiness": 0.0341,
+            "valence": 0.666,
+            "year": 1965
+        },
         "title": "Michelle",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -2338,6 +3646,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.707,
+            "album": "Please Please Me",
+            "danceability": 0.591,
+            "duration_ms": 108547,
+            "energy": 0.605,
+            "liveness": 0.309,
+            "song": "Misery",
+            "speechiness": 0.0413,
+            "valence": 0.882,
+            "year": 1963
+        },
         "title": "Misery",
         "yendor": {
             "album.debut": "UK: Please Please Me US: Rarities",
@@ -2351,6 +3671,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.425,
+            "album": "With The Beatles",
+            "danceability": 0.545,
+            "duration_ms": 169507,
+            "energy": 0.853,
+            "liveness": 0.266,
+            "song": "Money (That's What I Want)",
+            "speechiness": 0.0394,
+            "valence": 0.923,
+            "year": 1963
+        },
         "title": "Money (That's What I Want)",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -2377,6 +3709,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.634,
+            "album": "The Beatles (white album)",
+            "danceability": 0.608,
+            "duration_ms": 168027,
+            "energy": 0.178,
+            "liveness": 0.166,
+            "song": "mother nature's son",
+            "speechiness": 0.0264,
+            "valence": 0.401,
+            "year": 1968
+        },
         "title": "Mother Nature's Son",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2390,6 +3734,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.796,
+            "album": "Beatles for Sale",
+            "danceability": 0.631,
+            "duration_ms": 158627,
+            "energy": 0.424,
+            "liveness": 0.118,
+            "song": "mr. moonlight",
+            "speechiness": 0.0438,
+            "valence": 0.589,
+            "year": 1964
+        },
         "title": "Mr. Moonlight",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -2416,6 +3772,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.67,
+            "album": "Beatles for Sale",
+            "danceability": 0.718,
+            "duration_ms": 136067,
+            "energy": 0.593,
+            "liveness": 0.172,
+            "song": "no reply",
+            "speechiness": 0.0377,
+            "valence": 0.869,
+            "year": 1964
+        },
         "title": "No Reply",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -2429,6 +3797,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.183,
+            "album": "Rubber Soul",
+            "danceability": 0.425,
+            "duration_ms": 124693,
+            "energy": 0.369,
+            "liveness": 0.112,
+            "song": "norwegian wood (This Bird Has Flown)",
+            "speechiness": 0.0379,
+            "valence": 0.65,
+            "year": 1965
+        },
         "title": "Norwegian Wood (This Bird Has Flown)",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -2455,6 +3835,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.213,
+            "album": "With The Beatles",
+            "danceability": 0.471,
+            "duration_ms": 126827,
+            "energy": 0.817,
+            "liveness": 0.498,
+            "song": "Not A Second Time",
+            "speechiness": 0.0372,
+            "valence": 0.961,
+            "year": 1963
+        },
         "title": "Not a Second Time",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -2481,6 +3873,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00797,
+            "album": "Rubber Soul",
+            "danceability": 0.534,
+            "duration_ms": 163693,
+            "energy": 0.624,
+            "liveness": 0.128,
+            "song": "nowhere man",
+            "speechiness": 0.0462,
+            "valence": 0.687,
+            "year": 1965
+        },
         "title": "Nowhere Man",
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
@@ -2494,6 +3898,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.232,
+            "album": "The Beatles (white album)",
+            "danceability": 0.818,
+            "duration_ms": 188960,
+            "energy": 0.728,
+            "liveness": 0.251,
+            "song": "ob-la-di, ob-la-da",
+            "speechiness": 0.0314,
+            "valence": 0.975,
+            "year": 1968
+        },
         "title": "Ob-La-Di, Ob-La-Da",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2507,6 +3923,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.155,
+            "album": "Abbey Road",
+            "danceability": 0.626,
+            "duration_ms": 170720,
+            "energy": 0.512,
+            "liveness": 0.215,
+            "song": "octopus's garden",
+            "speechiness": 0.0247,
+            "valence": 0.73,
+            "year": 1969
+        },
         "title": "Octopus's Garden",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2520,6 +3948,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0126,
+            "album": "Abbey Road",
+            "danceability": 0.422,
+            "duration_ms": 207240,
+            "energy": 0.656,
+            "liveness": 0.268,
+            "song": "oh! Darling",
+            "speechiness": 0.0397,
+            "valence": 0.549,
+            "year": 1969
+        },
         "title": "Oh! Darling",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2546,6 +3986,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0307,
+            "album": "Let It Be",
+            "danceability": 0.554,
+            "duration_ms": 173960,
+            "energy": 0.828,
+            "liveness": 0.907,
+            "song": "one after 909",
+            "speechiness": 0.0739,
+            "valence": 0.888,
+            "year": 1970
+        },
         "title": "One After 909",
         "yendor": {
             "album.debut": "Let It Be",
@@ -2570,6 +4022,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.000341,
+            "album": "Yellow Submarine",
+            "danceability": 0.175,
+            "duration_ms": 204493,
+            "energy": 0.731,
+            "liveness": 0.0846,
+            "song": "only a northern song",
+            "speechiness": 0.0705,
+            "valence": 0.801,
+            "year": 1969
+        },
         "title": "Only a Northern Song",
         "yendor": {
             "album.debut": "Yellow Submarine",
@@ -2596,6 +4060,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.389,
+            "album": "Please Please Me",
+            "danceability": 0.635,
+            "duration_ms": 124360,
+            "energy": 0.656,
+            "liveness": 0.0828,
+            "song": "P.S. I Love You",
+            "speechiness": 0.0291,
+            "valence": 0.77,
+            "year": 1963
+        },
         "title": "P.S. I Love You",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -2622,6 +4098,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.212,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.651,
+            "duration_ms": 180893,
+            "energy": 0.488,
+            "liveness": 0.136,
+            "song": "penny lane",
+            "speechiness": 0.0316,
+            "valence": 0.49,
+            "year": 1967
+        },
         "title": "Penny Lane",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -2635,6 +4123,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.643,
+            "album": "The Beatles (white album)",
+            "danceability": 0.542,
+            "duration_ms": 124267,
+            "energy": 0.445,
+            "liveness": 0.516,
+            "song": "piggies",
+            "speechiness": 0.0303,
+            "valence": 0.52,
+            "year": 1968
+        },
         "title": "Piggies",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2648,6 +4148,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.675,
+            "album": "With The Beatles",
+            "danceability": 0.552,
+            "duration_ms": 154160,
+            "energy": 0.644,
+            "liveness": 0.36,
+            "song": "Please Mr. Postman",
+            "speechiness": 0.0372,
+            "valence": 0.961,
+            "year": 1963
+        },
         "title": "Please Mr. Postman",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -2661,6 +4173,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.334,
+            "album": "Please Please Me",
+            "danceability": 0.527,
+            "duration_ms": 120853,
+            "energy": 0.48,
+            "liveness": 0.0702,
+            "song": "Please Please Me",
+            "speechiness": 0.028,
+            "valence": 0.706,
+            "year": 1963
+        },
         "title": "Please Please Me",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -2674,6 +4198,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00472,
+            "album": "Abbey Road",
+            "danceability": 0.474,
+            "duration_ms": 72640,
+            "energy": 0.939,
+            "liveness": 0.19,
+            "song": "polythene pam",
+            "speechiness": 0.199,
+            "valence": 0.499,
+            "year": 1969
+        },
         "title": "Polythene Pam",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2726,6 +4262,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0785,
+            "album": "The Beatles (white album)",
+            "danceability": 0.386,
+            "duration_ms": 255707,
+            "energy": 0.626,
+            "liveness": 0.621,
+            "song": "revolution 1",
+            "speechiness": 0.0377,
+            "valence": 0.695,
+            "year": 1968
+        },
         "title": "Revolution 1",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2739,6 +4287,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.769,
+            "album": "The Beatles (white album)",
+            "danceability": 0.208,
+            "duration_ms": 502013,
+            "energy": 0.615,
+            "liveness": 0.824,
+            "song": "revolution 9",
+            "speechiness": 0.342,
+            "valence": 0.101,
+            "year": 1968
+        },
         "title": "Revolution 9",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2765,6 +4325,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.566,
+            "album": "Beatles for Sale",
+            "danceability": 0.457,
+            "duration_ms": 151280,
+            "energy": 0.917,
+            "liveness": 0.333,
+            "song": "rock and roll music",
+            "speechiness": 0.0441,
+            "valence": 0.965,
+            "year": 1964
+        },
         "title": "Rock and Roll Music",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -2778,6 +4350,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.333,
+            "album": "The Beatles (white album)",
+            "danceability": 0.599,
+            "duration_ms": 213107,
+            "energy": 0.363,
+            "liveness": 0.243,
+            "song": "rocky raccoon",
+            "speechiness": 0.0315,
+            "valence": 0.648,
+            "year": 1968
+        },
         "title": "Rocky Raccoon",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2791,6 +4375,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.289,
+            "album": "With The Beatles",
+            "danceability": 0.351,
+            "duration_ms": 165467,
+            "energy": 0.749,
+            "liveness": 0.0952,
+            "song": "Roll Over Beethoven",
+            "speechiness": 0.0312,
+            "valence": 0.967,
+            "year": 1963
+        },
         "title": "Roll Over Beethoven",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -2804,6 +4400,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0103,
+            "album": "Rubber Soul",
+            "danceability": 0.563,
+            "duration_ms": 141093,
+            "energy": 0.705,
+            "liveness": 0.0552,
+            "song": "run for your life",
+            "speechiness": 0.103,
+            "valence": 0.822,
+            "year": 1965
+        },
         "title": "Run for Your Life",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -2817,6 +4425,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00814,
+            "album": "The Beatles (white album)",
+            "danceability": 0.623,
+            "duration_ms": 174467,
+            "energy": 0.544,
+            "liveness": 0.134,
+            "song": "savoy truffle",
+            "speechiness": 0.0536,
+            "valence": 0.793,
+            "year": 1968
+        },
         "title": "Savoy Truffle",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2855,6 +4475,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.33,
+            "album": "The Beatles (white album)",
+            "danceability": 0.577,
+            "duration_ms": 195267,
+            "energy": 0.624,
+            "liveness": 0.117,
+            "song": "sexy sadie ",
+            "speechiness": 0.0285,
+            "valence": 0.671,
+            "year": 1968
+        },
         "title": "Sexy Sadie",
         "yendor": {
             "album.debut": "The Beatles",
@@ -2868,6 +4500,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0061,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.653,
+            "duration_ms": 79067,
+            "energy": 0.889,
+            "liveness": 0.892,
+            "song": "sgt. Pepper's lonely hearts club band",
+            "speechiness": 0.0453,
+            "valence": 0.879,
+            "year": 1967
+        },
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -2906,6 +4550,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00376,
+            "album": "Abbey Road",
+            "danceability": 0.53,
+            "duration_ms": 118627,
+            "energy": 0.72,
+            "liveness": 0.314,
+            "song": "she came in through the bathroom window",
+            "speechiness": 0.0338,
+            "valence": 0.69,
+            "year": 1969
+        },
         "title": "She Came in Through the Bathroom Window",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -2932,6 +4588,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.103,
+            "album": "Revolver",
+            "danceability": 0.329,
+            "duration_ms": 156040,
+            "energy": 0.678,
+            "liveness": 0.843,
+            "song": "she said she said ",
+            "speechiness": 0.0344,
+            "valence": 0.672,
+            "year": 1966
+        },
         "title": "She Said She Said",
         "yendor": {
             "album.debut": "Revolver",
@@ -2945,6 +4613,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.944,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.381,
+            "duration_ms": 215160,
+            "energy": 0.214,
+            "liveness": 0.106,
+            "song": "she's leaving home",
+            "speechiness": 0.0337,
+            "valence": 0.393,
+            "year": 1967
+        },
         "title": "She's Leaving Home",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -3049,6 +4729,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.198,
+            "album": "Abbey Road",
+            "danceability": 0.396,
+            "duration_ms": 182293,
+            "energy": 0.338,
+            "liveness": 0.138,
+            "song": "something",
+            "speechiness": 0.0304,
+            "valence": 0.377,
+            "year": 1969
+        },
         "title": "Something",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -3087,6 +4779,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.336,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.39,
+            "duration_ms": 247320,
+            "energy": 0.502,
+            "liveness": 0.0713,
+            "song": "strawberry fields forever",
+            "speechiness": 0.178,
+            "valence": 0.289,
+            "year": 1967
+        },
         "title": "Strawberry Fields Forever",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -3100,6 +4804,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.284,
+            "album": "Abbey Road",
+            "danceability": 0.483,
+            "duration_ms": 146267,
+            "energy": 0.177,
+            "liveness": 0.116,
+            "song": "sun king",
+            "speechiness": 0.0277,
+            "valence": 0.192,
+            "year": 1969
+        },
         "title": "Sun King",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -3164,6 +4880,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0101,
+            "album": "Revolver",
+            "danceability": 0.469,
+            "duration_ms": 158853,
+            "energy": 0.596,
+            "liveness": 0.321,
+            "song": "taxman",
+            "speechiness": 0.0749,
+            "valence": 0.783,
+            "year": 1966
+        },
         "title": "Taxman",
         "yendor": {
             "album.debut": "Revolver",
@@ -3190,6 +4918,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.061,
+            "album": "Help!",
+            "danceability": 0.592,
+            "duration_ms": 157987,
+            "energy": 0.796,
+            "liveness": 0.131,
+            "song": "tell me what you see",
+            "speechiness": 0.0429,
+            "valence": 0.7,
+            "year": 1965
+        },
         "title": "Tell Me What You See",
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
@@ -3203,6 +4943,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.586,
+            "album": "A Hard Day's Night",
+            "danceability": 0.267,
+            "duration_ms": 128693,
+            "energy": 0.688,
+            "liveness": 0.307,
+            "song": "tell me why ",
+            "speechiness": 0.0388,
+            "valence": 0.797,
+            "year": 1964
+        },
         "title": "Tell Me Why",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -3281,6 +5033,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.224,
+            "album": "The Beatles (white album)",
+            "danceability": 0.621,
+            "duration_ms": 194160,
+            "energy": 0.459,
+            "liveness": 0.656,
+            "song": "the continuing story of bungalow bill",
+            "speechiness": 0.104,
+            "valence": 0.648,
+            "year": 1968
+        },
         "title": "The Continuing Story of Bungalow Bill",
         "yendor": {
             "album.debut": "The Beatles",
@@ -3294,6 +5058,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00101,
+            "album": "Abbey Road",
+            "danceability": 0.647,
+            "duration_ms": 141613,
+            "energy": 0.487,
+            "liveness": 0.138,
+            "song": "the end ",
+            "speechiness": 0.0689,
+            "valence": 0.222,
+            "year": 1969
+        },
         "title": "The End",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -3307,6 +5083,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.913,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.365,
+            "duration_ms": 179107,
+            "energy": 0.26,
+            "liveness": 0.105,
+            "song": "the fool on the hill",
+            "speechiness": 0.0314,
+            "valence": 0.49,
+            "year": 1967
+        },
         "title": "The Fool on the Hill",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -3346,6 +5134,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.756,
+            "album": "Let It Be",
+            "danceability": 0.299,
+            "duration_ms": 218187,
+            "energy": 0.329,
+            "liveness": 0.0559,
+            "song": "the long and winding road",
+            "speechiness": 0.0279,
+            "valence": 0.392,
+            "year": 1970
+        },
         "title": "The Long and Winding Road",
         "yendor": {
             "album.debut": "Let It Be",
@@ -3359,6 +5159,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0537,
+            "album": "Help!",
+            "danceability": 0.461,
+            "duration_ms": 154933,
+            "energy": 0.762,
+            "liveness": 0.238,
+            "song": "the night before",
+            "speechiness": 0.0379,
+            "valence": 0.632,
+            "year": 1965
+        },
         "title": "The Night Before",
         "yendor": {
             "album.debut": "Help!",
@@ -3397,6 +5209,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.00682,
+            "album": "Rubber Soul",
+            "danceability": 0.59,
+            "duration_ms": 163107,
+            "energy": 0.641,
+            "liveness": 0.0553,
+            "song": "the word",
+            "speechiness": 0.0416,
+            "valence": 0.792,
+            "year": 1965
+        },
         "title": "The Word",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -3410,6 +5234,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.629,
+            "album": "Please Please Me",
+            "danceability": 0.455,
+            "duration_ms": 110493,
+            "energy": 0.582,
+            "liveness": 0.172,
+            "song": "There's a Place",
+            "speechiness": 0.0292,
+            "valence": 0.927,
+            "year": 1963
+        },
         "title": "There's a Place",
         "yendor": {
             "album.debut": "UK: Please Please Me US: Rarities",
@@ -3423,6 +5259,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.239,
+            "album": "A Hard Day's Night",
+            "danceability": 0.551,
+            "duration_ms": 155333,
+            "energy": 0.575,
+            "liveness": 0.112,
+            "song": "things we said today",
+            "speechiness": 0.0332,
+            "valence": 0.516,
+            "year": 1964
+        },
         "title": "Things We Said Today",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -3436,6 +5284,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0124,
+            "album": "Rubber Soul",
+            "danceability": 0.529,
+            "duration_ms": 138520,
+            "energy": 0.567,
+            "liveness": 0.0729,
+            "song": "think for yourself",
+            "speechiness": 0.0282,
+            "valence": 0.799,
+            "year": 1965
+        },
         "title": "Think for Yourself",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -3475,6 +5335,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0457,
+            "album": "Help!",
+            "danceability": 0.519,
+            "duration_ms": 189680,
+            "energy": 0.85,
+            "liveness": 0.233,
+            "song": "ticket to ride",
+            "speechiness": 0.0678,
+            "valence": 0.749,
+            "year": 1965
+        },
         "title": "Ticket to Ride",
         "yendor": {
             "album.debut": "Help!",
@@ -3488,6 +5360,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.79,
+            "album": "With The Beatles",
+            "danceability": 0.727,
+            "duration_ms": 133507,
+            "energy": 0.338,
+            "liveness": 0.105,
+            "song": "Till There Was You",
+            "speechiness": 0.0454,
+            "valence": 0.646,
+            "year": 1963
+        },
         "title": "Till There Was You",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -3526,6 +5410,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 8.4e-05,
+            "album": "Revolver",
+            "danceability": 0.38,
+            "duration_ms": 179547,
+            "energy": 0.829,
+            "liveness": 0.342,
+            "song": "tomorrow never knows",
+            "speechiness": 0.0405,
+            "valence": 0.0534,
+            "year": 1966
+        },
         "title": "Tomorrow Never Knows",
         "yendor": {
             "album.debut": "Revolver",
@@ -3552,6 +5448,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.641,
+            "album": "Please Please Me",
+            "danceability": 0.482,
+            "duration_ms": 155227,
+            "energy": 0.849,
+            "liveness": 0.0414,
+            "song": "Twist and Shout",
+            "speechiness": 0.0452,
+            "valence": 0.937,
+            "year": 1963
+        },
         "title": "Twist and Shout",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -3565,6 +5473,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0974,
+            "album": "Let It Be",
+            "danceability": 0.726,
+            "duration_ms": 216813,
+            "energy": 0.702,
+            "liveness": 0.239,
+            "song": "two of us",
+            "speechiness": 0.032,
+            "valence": 0.931,
+            "year": 1970
+        },
         "title": "Two of Us",
         "yendor": {
             "album.debut": "Let It Be",
@@ -3578,6 +5498,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0175,
+            "album": "Rubber Soul",
+            "danceability": 0.552,
+            "duration_ms": 134720,
+            "energy": 0.487,
+            "liveness": 0.105,
+            "song": "wait",
+            "speechiness": 0.04,
+            "valence": 0.657,
+            "year": 1965
+        },
         "title": "Wait",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -3616,6 +5548,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0168,
+            "album": "Rubber Soul",
+            "danceability": 0.67,
+            "duration_ms": 168573,
+            "energy": 0.776,
+            "liveness": 0.0732,
+            "song": "what goes on",
+            "speechiness": 0.0749,
+            "valence": 0.765,
+            "year": 1965
+        },
         "title": "What Goes On",
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
@@ -3629,6 +5573,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.301,
+            "album": "Beatles for Sale",
+            "danceability": 0.695,
+            "duration_ms": 150040,
+            "energy": 0.53,
+            "liveness": 0.0583,
+            "song": "What you're doing",
+            "speechiness": 0.0403,
+            "valence": 0.825,
+            "year": 1964
+        },
         "title": "What You're Doing",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -3655,6 +5611,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.384,
+            "album": "A Hard Day's Night",
+            "danceability": 0.568,
+            "duration_ms": 136640,
+            "energy": 0.793,
+            "liveness": 0.388,
+            "song": "when I get home",
+            "speechiness": 0.0482,
+            "valence": 0.64,
+            "year": 1964
+        },
         "title": "When I Get Home",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
@@ -3668,6 +5636,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.625,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.704,
+            "duration_ms": 157667,
+            "energy": 0.241,
+            "liveness": 0.0868,
+            "song": "when i'm sixty-four",
+            "speechiness": 0.0476,
+            "valence": 0.661,
+            "year": 1967
+        },
         "title": "When I'm Sixty-Four",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -3681,6 +5661,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0205,
+            "album": "The Beatles (white album)",
+            "danceability": 0.453,
+            "duration_ms": 285000,
+            "energy": 0.654,
+            "liveness": 0.172,
+            "song": "while my guitar gently weeps",
+            "speechiness": 0.0317,
+            "valence": 0.702,
+            "year": 1968
+        },
         "title": "While My Guitar Gently Weeps",
         "yendor": {
             "album.debut": "The Beatles",
@@ -3694,6 +5686,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.53,
+            "album": "The Beatles (white album)",
+            "danceability": 0.589,
+            "duration_ms": 101160,
+            "energy": 0.522,
+            "liveness": 0.0993,
+            "song": "why don't we do it in the road?",
+            "speechiness": 0.0521,
+            "valence": 0.957,
+            "year": 1968
+        },
         "title": "Why Don't We Do It in the Road?",
         "yendor": {
             "album.debut": "The Beatles",
@@ -3707,6 +5711,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.425,
+            "album": "The Beatles (white album)",
+            "danceability": 0.792,
+            "duration_ms": 52973,
+            "energy": 0.763,
+            "liveness": 0.789,
+            "song": "wild honey pie",
+            "speechiness": 0.0506,
+            "valence": 0.152,
+            "year": 1968
+        },
         "title": "Wild Honey Pie",
         "yendor": {
             "album.debut": "The Beatles",
@@ -3731,6 +5747,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.365,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.705,
+            "duration_ms": 164107,
+            "energy": 0.515,
+            "liveness": 0.389,
+            "song": "with a little help from my friends",
+            "speechiness": 0.0337,
+            "valence": 0.803,
+            "year": 1967
+        },
         "title": "With a Little Help from My Friends",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -3744,6 +5772,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.339,
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "danceability": 0.352,
+            "duration_ms": 304667,
+            "energy": 0.479,
+            "liveness": 0.486,
+            "song": "within you without you",
+            "speechiness": 0.0338,
+            "valence": 0.354,
+            "year": 1967
+        },
         "title": "Within You Without You",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -3769,6 +5809,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.323,
+            "album": "Beatles for Sale",
+            "danceability": 0.551,
+            "duration_ms": 124320,
+            "energy": 0.533,
+            "liveness": 0.173,
+            "song": "words of love",
+            "speechiness": 0.0297,
+            "valence": 0.85,
+            "year": 1964
+        },
         "title": "Words of Love",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -3782,6 +5834,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.518,
+            "album": "Yellow Submarine",
+            "danceability": 0.605,
+            "duration_ms": 159720,
+            "energy": 0.536,
+            "liveness": 0.528,
+            "song": "yellow submarine",
+            "speechiness": 0.0421,
+            "valence": 0.688,
+            "year": 1969
+        },
         "title": "Yellow Submarine",
         "yendor": {
             "album.debut": "Revolver",
@@ -3821,6 +5885,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.879,
+            "album": "Help!",
+            "danceability": 0.332,
+            "duration_ms": 125667,
+            "energy": 0.179,
+            "liveness": 0.0886,
+            "song": "yesterday",
+            "speechiness": 0.0326,
+            "valence": 0.315,
+            "year": 1965
+        },
         "title": "Yesterday",
         "yendor": {
             "album.debut": "UK: Help! US: Yesterday and Today",
@@ -3834,6 +5910,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.367,
+            "album": "A Hard Day's Night",
+            "danceability": 0.612,
+            "duration_ms": 154893,
+            "energy": 0.788,
+            "liveness": 0.382,
+            "song": "you can't do that",
+            "speechiness": 0.0335,
+            "valence": 0.961,
+            "year": 1964
+        },
         "title": "You Can't Do That",
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: The Beatles Second Album",
@@ -3873,6 +5961,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.415,
+            "album": "Help!",
+            "danceability": 0.555,
+            "duration_ms": 156867,
+            "energy": 0.57,
+            "liveness": 0.191,
+            "song": "you like me too much",
+            "speechiness": 0.0302,
+            "valence": 0.899,
+            "year": 1965
+        },
         "title": "You Like Me Too Much",
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
@@ -3886,6 +5986,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.345,
+            "album": "Abbey Road",
+            "danceability": 0.335,
+            "duration_ms": 242973,
+            "energy": 0.416,
+            "liveness": 0.116,
+            "song": "you never give me your money",
+            "speechiness": 0.0348,
+            "valence": 0.223,
+            "year": 1969
+        },
         "title": "You Never Give Me Your Money",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -3899,6 +6011,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.136,
+            "album": "Rubber Soul",
+            "danceability": 0.488,
+            "duration_ms": 199960,
+            "energy": 0.539,
+            "liveness": 0.0538,
+            "song": "you won't see me",
+            "speechiness": 0.0304,
+            "valence": 0.473,
+            "year": 1965
+        },
         "title": "You Won't See Me",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -3925,6 +6049,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.346,
+            "album": "Help!",
+            "danceability": 0.533,
+            "duration_ms": 138667,
+            "energy": 0.66,
+            "liveness": 0.26,
+            "song": "you're going to lose that girl",
+            "speechiness": 0.0337,
+            "valence": 0.818,
+            "year": 1965
+        },
         "title": "You're Going to Lose That Girl",
         "yendor": {
             "album.debut": "Help!",
@@ -3938,6 +6074,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.207,
+            "album": "Help!",
+            "danceability": 0.398,
+            "duration_ms": 129120,
+            "energy": 0.392,
+            "liveness": 0.102,
+            "song": "you've got to hide your love away",
+            "speechiness": 0.0282,
+            "valence": 0.378,
+            "year": 1965
+        },
         "title": "You've Got to Hide Your Love Away",
         "yendor": {
             "album.debut": "Help!",
@@ -3951,6 +6099,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.525,
+            "album": "With The Beatles",
+            "danceability": 0.373,
+            "duration_ms": 181347,
+            "energy": 0.388,
+            "liveness": 0.267,
+            "song": "You've Really Got A Hold On Me",
+            "speechiness": 0.0337,
+            "valence": 0.687,
+            "year": 1963
+        },
         "title": "You've Really Got a Hold on Me",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -3977,6 +6137,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.784,
+            "album": "Magical Mystery Tour",
+            "danceability": 0.698,
+            "duration_ms": 148413,
+            "energy": 0.293,
+            "liveness": 0.0936,
+            "song": "your mother should know",
+            "speechiness": 0.0332,
+            "valence": 0.724,
+            "year": 1967
+        },
         "title": "Your Mother Should Know",
         "yendor": {
             "album.debut": "Magical Mystery Tour",

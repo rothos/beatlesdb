@@ -1,0 +1,194 @@
+﻿id,year,album,song,danceability,energy,speechiness,acousticness,liveness,valence,duration_ms
+1,1963,Please Please Me,I Saw Her Standing There,0.491,0.801,0.0361,0.27,0.0665,0.971,173947
+2,1963,Please Please Me,Misery,0.591,0.605,0.0413,0.707,0.309,0.882,108547
+3,1963,Please Please Me,"Anna (Go to Him)",0.608,0.565,0.0336,0.635,0.0601,0.835,177133
+4,1963,Please Please Me,Chains,0.654,0.561,0.0304,0.608,0.129,0.929,145080
+5,1963,Please Please Me,Boys,0.402,0.86,0.0504,0.607,0.736,0.822,146440
+6,1963,Please Please Me,Ask Me Why,0.605,0.394,0.0378,0.767,0.0967,0.597,146533
+7,1963,Please Please Me,Please Please Me,0.527,0.48,0.028,0.334,0.0702,0.706,120853
+8,1963,Please Please Me,Love Me Do,0.52,0.829,0.0806,0.386,0.227,0.744,141693
+9,1963,Please Please Me,P.S. I Love You,0.635,0.656,0.0291,0.389,0.0828,0.77,124360
+10,1963,Please Please Me,Baby It's You,0.608,0.494,0.0345,0.778,0.0926,0.879,160520
+11,1963,Please Please Me,Do You Want to Know a Secret?,0.673,0.349,0.0368,0.608,0.38,0.609,117013
+12,1963,Please Please Me,A Taste of Honey,0.42,0.372,0.0327,0.698,0.104,0.412,123480
+13,1963,Please Please Me,There's a Place,0.455,0.582,0.0292,0.629,0.172,0.927,110493
+14,1963,Please Please Me,Twist and Shout,0.482,0.849,0.0452,0.641,0.0414,0.937,155227
+15,1963,With The Beatles,It Won't Be Long,0.472,0.673,0.0318,0.284,0.206,0.862,133387
+16,1963,With The Beatles,All I've Got To Do,0.49,0.579,0.0344,0.217,0.0644,0.879,122573
+17,1963,With The Beatles,All My Loving,0.416,0.563,0.0298,0.207,0.343,0.9,127853
+18,1963,With The Beatles,Don't Bother Me,0.371,0.724,0.0562,0.554,0.299,0.916,148253
+19,1963,With The Beatles,Little Child,0.526,0.858,0.0476,0.292,0.353,0.886,106400
+20,1963,With The Beatles,Till There Was You,0.727,0.338,0.0454,0.79,0.105,0.646,133507
+21,1963,With The Beatles,Please Mr. Postman,0.552,0.644,0.0372,0.675,0.36,0.961,154160
+22,1963,With The Beatles,Roll Over Beethoven,0.351,0.749,0.0312,0.289,0.0952,0.967,165467
+23,1963,With The Beatles,Hold Me Tight,0.54,0.744,0.0312,0.664,0.21,0.963,151907
+24,1963,With The Beatles,You've Really Got A Hold On Me,0.373,0.388,0.0337,0.525,0.267,0.687,181347
+25,1963,With The Beatles,I Wanna Be Your Man,0.553,0.914,0.0415,0.477,0.292,0.683,119507
+26,1963,With The Beatles,Devil In Her Heart,0.618,0.622,0.0296,0.227,0.0438,0.966,146213
+27,1963,With The Beatles,Not A Second Time,0.471,0.817,0.0372,0.213,0.498,0.961,126827
+28,1963,With The Beatles,Money (That's What I Want),0.545,0.853,0.0394,0.425,0.266,0.923,169507
+29,1964,A Hard Day's Night,A Hard Day's Night,0.59,0.805,0.0371,0.137,0.0996,0.797,154200
+30,1964,A Hard Day's Night,I should Have Known Better,0.682,0.444,0.0289,0.257,0.115,0.91,163080
+31,1964,A Hard Day's Night,If I Fell,0.665,0.31,0.0278,0.68,0.0877,0.568,139467
+32,1964,A Hard Day's Night,I'm Happy Just To Dance With You,0.658,0.537,0.0307,0.138,0.0572,0.887,116373
+33,1964,A Hard Day's Night,And I Love Her,0.767,0.331,0.0337,0.64,0.0681,0.636,149693
+34,1964,A Hard Day's Night,tell me why ,0.267,0.688,0.0388,0.586,0.307,0.797,128693
+35,1964,A Hard Day's Night,can't buy me love,0.483,0.677,0.0593,0.283,0.321,0.842,131867
+36,1964,A Hard Day's Night,any time at all,0.612,0.719,0.0398,0.366,0.437,0.744,131280
+37,1964,A Hard Day's Night,i'll cry instead,0.643,0.73,0.0347,0.0917,0.253,0.96,105987
+38,1964,A Hard Day's Night,things we said today,0.551,0.575,0.0332,0.239,0.112,0.516,155333
+39,1964,A Hard Day's Night,when I get home,0.568,0.793,0.0482,0.384,0.388,0.64,136640
+40,1964,A Hard Day's Night,you can't do that,0.612,0.788,0.0335,0.367,0.382,0.961,154893
+41,1964,A Hard Day's Night,i'll be back,0.721,0.527,0.0293,0.744,0.186,0.641,144187
+42,1964,Beatles for Sale,no reply,0.718,0.593,0.0377,0.67,0.172,0.869,136067
+43,1964,Beatles for Sale,i'm a loser,0.492,0.628,0.0439,0.567,0.267,0.856,150027
+44,1964,Beatles for Sale,baby's in black,0.374,0.596,0.0416,0.434,0.098,0.876,124520
+45,1964,Beatles for Sale,rock and roll music,0.457,0.917,0.0441,0.566,0.333,0.965,151280
+46,1964,Beatles for Sale,i'll follow the sun,0.689,0.313,0.0366,0.789,0.144,0.625,108853
+47,1964,Beatles for Sale,mr. moonlight,0.631,0.424,0.0438,0.796,0.118,0.589,158627
+48,1964,Beatles for Sale,"kansas city/Hey, Hey, Hey, Hey",0.588,0.724,0.0335,0.614,0.877,0.924,158147
+49,1964,Beatles for Sale,eight days a week,0.652,0.583,0.038,0.412,0.119,0.744,163600
+50,1964,Beatles for Sale,words of love,0.551,0.533,0.0297,0.323,0.173,0.85,124320
+51,1964,Beatles for Sale,honey don't ,0.629,0.545,0.0348,0.473,0.0854,0.735,177427
+52,1964,Beatles for Sale,every little thing,0.74,0.49,0.038,0.488,0.103,0.678,123800
+53,1964,Beatles for Sale,I don't want to spoil the party ,0.533,0.668,0.033,0.451,0.149,0.889,154467
+54,1964,Beatles for Sale,What you're doing,0.695,0.53,0.0403,0.301,0.0583,0.825,150040
+55,1964,Beatles for Sale,everybody's trying to be my baby,0.543,0.806,0.0385,0.466,0.134,0.943,146000
+56,1965,Help!,Help!,0.534,0.725,0.0332,0.188,0.0994,0.763,139560
+57,1965,Help!,the night before,0.461,0.762,0.0379,0.0537,0.238,0.632,154933
+58,1965,Help!,you've got to hide your love away,0.398,0.392,0.0282,0.207,0.102,0.378,129120
+59,1965,Help!,I need you,0.601,0.489,0.0455,0.277,0.0988,0.638,148787
+60,1965,Help!,another girl,0.516,0.638,0.0314,0.238,0.333,0.822,125360
+61,1965,Help!,you're going to lose that girl,0.533,0.66,0.0337,0.346,0.26,0.818,138667
+62,1965,Help!,ticket to ride,0.519,0.85,0.0678,0.0457,0.233,0.749,189680
+63,1965,Help!,act naturally,0.702,0.447,0.0308,0.366,0.153,0.944,150373
+64,1965,Help!,it's only love,0.629,0.551,0.0256,0.22,0.0432,0.685,116480
+65,1965,Help!,you like me too much,0.555,0.57,0.0302,0.415,0.191,0.899,156867
+66,1965,Help!,tell me what you see,0.592,0.796,0.0429,0.061,0.131,0.7,157987
+67,1965,Help!,i've just seen a face,0.647,0.56,0.0387,0.723,0.118,0.913,125040
+68,1965,Help!,yesterday,0.332,0.179,0.0326,0.879,0.0886,0.315,125667
+69,1965,Help!,"dizzy, miss lizzy",0.373,0.934,0.0591,0.116,0.0962,0.918,176507
+70,1965,Rubber Soul,drive my car,0.754,0.571,0.0421,0.0173,0.3,0.82,148893
+71,1965,Rubber Soul,"norwegian wood (This Bird Has Flown)",0.425,0.369,0.0379,0.183,0.112,0.65,124693
+72,1965,Rubber Soul,you won't see me,0.488,0.539,0.0304,0.136,0.0538,0.473,199960
+73,1965,Rubber Soul,nowhere man,0.534,0.624,0.0462,0.00797,0.128,0.687,163693
+74,1965,Rubber Soul,think for yourself,0.529,0.567,0.0282,0.0124,0.0729,0.799,138520
+75,1965,Rubber Soul,the word,0.59,0.641,0.0416,0.00682,0.0553,0.792,163107
+76,1965,Rubber Soul,michelle,0.578,0.29,0.0341,0.652,0.105,0.666,162373
+77,1965,Rubber Soul,what goes on,0.67,0.776,0.0749,0.0168,0.0732,0.765,168573
+78,1965,Rubber Soul,girl,0.699,0.294,0.0294,0.587,0.117,0.893,151720
+79,1965,Rubber Soul,i'm looking through you ,0.667,0.498,0.0364,0.00772,0.0481,0.774,146387
+80,1965,Rubber Soul,in my life,0.688,0.435,0.0323,0.449,0.113,0.435,146333
+81,1965,Rubber Soul,wait,0.552,0.487,0.04,0.0175,0.105,0.657,134720
+82,1965,Rubber Soul,if I needed someone,0.492,0.755,0.0331,0.00748,0.102,0.796,142267
+83,1965,Rubber Soul,run for your life,0.563,0.705,0.103,0.0103,0.0552,0.822,141093
+84,1966,Revolver,taxman,0.469,0.596,0.0749,0.0101,0.321,0.783,158853
+85,1966,Revolver,eleanor rigby,0.581,0.28,0.0381,0.936,0.305,0.813,126533
+86,1966,Revolver,i'm only sleeping,0.494,0.47,0.0301,0.21,0.28,0.698,180320
+87,1966,Revolver,love you to,0.391,0.593,0.0413,0.7,0.0829,0.707,179827
+88,1966,Revolver,"here, there and everywhere",0.29,0.247,0.0383,0.921,0.0917,0.36,144880
+89,1966,Revolver,yellow submarine,0.604,0.549,0.0389,0.531,0.438,0.696,158880
+90,1966,Revolver,she said she said ,0.329,0.678,0.0344,0.103,0.843,0.672,156040
+91,1966,Revolver,good day sunshine,0.77,0.496,0.0468,0.719,0.123,0.571,129293
+92,1966,Revolver,and your bird can sing,0.555,0.65,0.0282,0.0067,0.236,0.966,120493
+93,1966,Revolver,for no one,0.483,0.351,0.0278,0.783,0.115,0.713,119813
+94,1966,Revolver,doctor robert,0.394,0.64,0.0488,0.164,0.153,0.574,134267
+95,1966,Revolver,I want to tell you,0.493,0.525,0.0315,0.182,0.148,0.449,147973
+96,1966,Revolver,got to get you into my life,0.521,0.524,0.0302,0.42,0.0838,0.711,149240
+97,1966,Revolver,tomorrow never knows,0.38,0.829,0.0405,0.000084,0.342,0.0534,179547
+98,1967,Sgt. Pepper's Lonely Hearts Club Band,sgt. pepper's lonely hearts club band,0.451,0.673,0.0734,0.0857,0.797,0.583,122893
+99,1967,Sgt. Pepper's Lonely Hearts Club Band,with a little help from my friends,0.705,0.515,0.0337,0.365,0.389,0.803,164107
+100,1967,Sgt. Pepper's Lonely Hearts Club Band,lucy in the sky with diamonds,0.311,0.325,0.0283,0.0469,0.139,0.668,208467
+101,1967,Sgt. Pepper's Lonely Hearts Club Band,getting better,0.632,0.471,0.0348,0.313,0.0712,0.764,168120
+102,1967,Sgt. Pepper's Lonely Hearts Club Band,fixing a hole,0.469,0.507,0.0451,0.382,0.0783,0.619,156827
+103,1967,Sgt. Pepper's Lonely Hearts Club Band,she's leaving home,0.381,0.214,0.0337,0.944,0.106,0.393,215160
+104,1967,Sgt. Pepper's Lonely Hearts Club Band,being for the benefit of mr. kite!,0.526,0.413,0.0446,0.338,0.0992,0.71,157533
+105,1967,Sgt. Pepper's Lonely Hearts Club Band,within you without you,0.352,0.479,0.0338,0.339,0.486,0.354,304667
+106,1967,Sgt. Pepper's Lonely Hearts Club Band,when i'm sixty-four,0.704,0.241,0.0476,0.625,0.0868,0.661,157667
+107,1967,Sgt. Pepper's Lonely Hearts Club Band,lovely rita,0.61,0.471,0.0261,0.0634,0.118,0.63,162093
+108,1967,Sgt. Pepper's Lonely Hearts Club Band,"good morning, good morning",0.542,0.618,0.139,0.0858,0.772,0.93,161227
+109,1967,Sgt. Pepper's Lonely Hearts Club Band,sgt. Pepper's lonely hearts club band,0.653,0.889,0.0453,0.0061,0.892,0.879,79067
+110,1967,Sgt. Pepper's Lonely Hearts Club Band,a day in the life,0.364,0.457,0.0675,0.29,0.922,0.175,337413
+111,1967,Magical Mystery Tour,magical mystery tour,0.297,0.613,0.0931,0.0385,0.0734,0.338,170107
+112,1967,Magical Mystery Tour,the fool on the hill,0.365,0.26,0.0314,0.913,0.105,0.49,179107
+113,1967,Magical Mystery Tour,flying ,0.551,0.395,0.0501,0.368,0.0932,0.261,135520
+114,1967,Magical Mystery Tour,blue jay way,0.294,0.407,0.0308,0.0258,0.0852,0.0378,235067
+115,1967,Magical Mystery Tour,your mother should know,0.698,0.293,0.0332,0.784,0.0936,0.724,148413
+116,1967,Magical Mystery Tour,I am the walrus,0.401,0.556,0.0513,0.0828,0.589,0.654,275867
+117,1967,Magical Mystery Tour,"hello, goodbye",0.479,0.733,0.0256,0.306,0.414,0.806,208840
+118,1967,Magical Mystery Tour,strawberry fields forever,0.39,0.502,0.178,0.336,0.0713,0.289,247320
+119,1967,Magical Mystery Tour,penny lane,0.651,0.488,0.0316,0.212,0.136,0.49,180893
+120,1967,Magical Mystery Tour,"baby, you're a rich man",0.619,0.625,0.036,0.0119,0.152,0.467,181307
+121,1967,Magical Mystery Tour,all you need is love,0.4,0.48,0.0295,0.346,0.155,0.653,230387
+122,1968,The Beatles (white album),back in the u.s.s.r.,0.48,0.969,0.0854,0.069,0.0608,0.494,163453
+123,1968,The Beatles (white album),dear prudence ,0.388,0.529,0.0436,0.16,0.108,0.332,235773
+124,1968,The Beatles (white album),glass onion,0.523,0.51,0.0514,0.0123,0.108,0.789,137840
+125,1968,The Beatles (white album),"ob-la-di, ob-la-da",0.818,0.728,0.0314,0.232,0.251,0.975,188960
+126,1968,The Beatles (white album),wild honey pie,0.792,0.763,0.0506,0.425,0.789,0.152,52973
+127,1968,The Beatles (white album),the continuing story of bungalow bill,0.621,0.459,0.104,0.224,0.656,0.648,194160
+128,1968,The Beatles (white album),while my guitar gently weeps,0.453,0.654,0.0317,0.0205,0.172,0.702,285000
+129,1968,The Beatles (white album),happiness is a warm gun,0.431,0.54,0.0589,0.523,0.169,0.44,164547
+130,1968,The Beatles (white album),martha my dear,0.472,0.292,0.0321,0.872,0.128,0.824,148573
+131,1968,The Beatles (white album),i'm so tired,0.433,0.483,0.175,0.656,0.539,0.717,123493
+132,1968,The Beatles (white album),blackbird,0.686,0.127,0.0342,0.754,0.0573,0.372,138387
+133,1968,The Beatles (white album),piggies,0.542,0.445,0.0303,0.643,0.516,0.52,124267
+134,1968,The Beatles (white album),rocky raccoon,0.599,0.363,0.0315,0.333,0.243,0.648,213107
+135,1968,The Beatles (white album),don't pass me by,0.599,0.537,0.0254,0.594,0.194,0.946,230453
+136,1968,The Beatles (white album),why don't we do it in the road?,0.589,0.522,0.0521,0.53,0.0993,0.957,101160
+137,1968,The Beatles (white album),I will,0.631,0.387,0.0262,0.742,0.0822,0.832,105933
+138,1968,The Beatles (white album),julia,0.512,0.0953,0.0304,0.828,0.117,0.193,176667
+139,1968,The Beatles (white album),birthday,0.541,0.727,0.0384,0.0000737,0.232,0.91,163080
+140,1968,The Beatles (white album),yer blue,0.327,0.525,0.0475,0.000875,0.133,0.435,240453
+141,1968,The Beatles (white album),mother nature's son,0.608,0.178,0.0264,0.634,0.166,0.401,168027
+142,1968,The Beatles (white album),everybody's got something to hide even you,0.523,0.731,0.0559,0.0207,0.081,0.81,144773
+143,1968,The Beatles (white album),sexy sadie ,0.577,0.624,0.0285,0.33,0.117,0.671,195267
+144,1968,The Beatles (white album),helter skelter,0.166,0.831,0.0894,0.000606,0.811,0.281,269787
+145,1968,The Beatles (white album),"long, long, Long",0.349,0.129,0.0294,0.539,0.192,0.163,186307
+146,1968,The Beatles (white album),revolution 1,0.386,0.626,0.0377,0.0785,0.621,0.695,255707
+147,1968,The Beatles (white album),honey pie,0.537,0.297,0.0822,0.88,0.145,0.553,161160
+148,1968,The Beatles (white album),savoy truffle,0.623,0.544,0.0536,0.00814,0.134,0.793,174467
+149,1968,The Beatles (white album),cry baby cry,0.517,0.529,0.0323,0.115,0.174,0.362,182080
+150,1968,The Beatles (white album),revolution 9,0.208,0.615,0.342,0.769,0.824,0.101,502013
+151,1968,The Beatles (white album),good night,0.146,0.355,0.0352,0.865,0.114,0.178,193760
+152,1969,Yellow Submarine,yellow submarine,0.605,0.536,0.0421,0.518,0.528,0.688,159720
+153,1969,Yellow Submarine,only a northern song,0.175,0.731,0.0705,0.000341,0.0846,0.801,204493
+154,1969,Yellow Submarine,all together now,0.587,0.431,0.0686,0.0722,0.561,0.778,130893
+155,1969,Yellow Submarine,hey bulldog,0.587,0.617,0.028,0.0197,0.199,0.947,191307
+156,1969,Yellow Submarine,it's all too much ,0.39,0.781,0.0364,0.000043,0.1,0.199,385013
+157,1969,Yellow Submarine,all you need is love,0.4,0.463,0.0288,0.345,0.286,0.627,231213
+158,1969,Yellow Submarine,pepperland,0.354,0.281,0.032,0.661,0.243,0.367,140733
+159,1969,Yellow Submarine,sea of time ,0.237,0.096,0.0387,0.971,0.203,0.0629,180213
+160,1969,Yellow Submarine,sea of holes,0.249,0.0994,0.04,0.959,0.454,0.0357,136693
+161,1969,Yellow Submarine,sea of monsters,0.253,0.166,0.0346,0.945,0.135,0.0489,216693
+162,1969,Yellow Submarine,march of the meanies,0.538,0.378,0.0387,0.934,0.456,0.16,139360
+163,1969,Yellow Submarine,pepperland laid waste,0.269,0.0902,0.042,0.877,0.302,0.0462,132773
+164,1969,Yellow Submarine,yellow submarine in pepperland,0.406,0.219,0.0359,0.808,0.15,0.271,134027
+165,1969,Abbey Road,come together,0.533,0.376,0.0393,0.0302,0.0926,0.187,259947
+166,1969,Abbey Road,something,0.396,0.338,0.0304,0.198,0.138,0.377,182293
+167,1969,Abbey Road,maxwell's silver hammer,0.764,0.426,0.0405,0.629,0.132,0.726,207920
+168,1969,Abbey Road,oh! Darling,0.422,0.656,0.0397,0.0126,0.268,0.549,207240
+169,1969,Abbey Road,octopus's garden,0.626,0.512,0.0247,0.155,0.215,0.73,170720
+170,1969,Abbey Road,I want you (she's so heavy),0.37,0.515,0.0321,0.0233,0.0966,0.42,467320
+171,1969,Abbey Road,Here comes the sun,0.557,0.54,0.0347,0.0339,0.179,0.394,185733
+172,1969,Abbey Road,because,0.328,0.249,0.0272,0.754,0.134,0.162,165667
+173,1969,Abbey Road,you never give me your money,0.335,0.416,0.0348,0.345,0.116,0.223,242973
+174,1969,Abbey Road,sun king,0.483,0.177,0.0277,0.284,0.116,0.192,146267
+175,1969,Abbey Road,mean mr. mustard,0.676,0.596,0.0272,0.0699,0.351,0.97,66533
+176,1969,Abbey Road,polythene pam,0.474,0.939,0.199,0.00472,0.19,0.499,72640
+177,1969,Abbey Road,she came in through the bathroom window,0.53,0.72,0.0338,0.00376,0.314,0.69,118627
+178,1969,Abbey Road,golden slumbers,0.419,0.152,0.0277,0.326,0.113,0.239,91760
+179,1969,Abbey Road,carry that weight ,0.543,0.458,0.0274,0.226,0.298,0.704,96467
+180,1969,Abbey Road,the end ,0.647,0.487,0.0689,0.00101,0.138,0.222,141613
+181,1969,Abbey Road,her majesty,0.703,0.215,0.0892,0.728,0.13,0.522,25987
+182,1970,Let It Be,two of us,0.726,0.702,0.032,0.0974,0.239,0.931,216813
+183,1970,Let It Be,dig a pony,0.538,0.478,0.0388,0.472,0.17,0.527,235000
+184,1970,Let It Be,across the universe,0.257,0.412,0.0287,0.361,0.0702,0.858,228133
+185,1970,Let It Be,I me mine,0.291,0.638,0.0554,0.179,0.101,0.525,145587
+186,1970,Let It Be,dig it ,0.54,0.489,0.117,0.659,0.457,0.67,50467
+187,1970,Let It Be,let it be ,0.443,0.403,0.0322,0.631,0.111,0.41,243027
+188,1970,Let It Be,maggie mae,0.516,0.515,0.215,0.379,0.103,0.524,40040
+189,1970,Let It Be,i've got a feeling,0.44,0.609,0.0358,0.0715,0.582,0.364,217560
+190,1970,Let It Be,one after 909,0.554,0.828,0.0739,0.0307,0.907,0.888,173960
+191,1970,Let It Be,the long and winding road,0.299,0.329,0.0279,0.756,0.0559,0.392,218187
+192,1970,Let It Be,for you blue,0.88,0.556,0.0855,0.24,0.24,0.955,152213
+193,1970,Let It Be,get back,0.761,0.592,0.0586,0.492,0.61,0.332,189387
