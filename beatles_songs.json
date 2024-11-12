@@ -1369,6 +1369,18 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.0207,
+            "album": "The Beatles (white album)",
+            "danceability": 0.523,
+            "duration_ms": 144773,
+            "energy": 0.731,
+            "liveness": 0.081,
+            "song": "everybody's got something to hide except me and my monkey",
+            "speechiness": 0.0559,
+            "valence": 0.81,
+            "year": 1968
+        },
         "title": "Everybody's Got Something to Hide Except Me and My Monkey",
         "yendor": {
             "album.debut": "The Beatles",
@@ -3521,6 +3533,21 @@
     },
     {
         "chadwambles": {
+            "acousticness": 0.934,
+            "album": "Yellow Submarine",
+            "danceability": 0.538,
+            "duration_ms": 139360,
+            "energy": 0.378,
+            "liveness": 0.456,
+            "song": "march of the meanies",
+            "speechiness": 0.0387,
+            "valence": 0.16,
+            "year": 1969
+        },
+        "title": "March of the Meanies"
+    },
+    {
+        "chadwambles": {
             "acousticness": 0.872,
             "album": "The Beatles (white album)",
             "danceability": 0.472,
@@ -4124,6 +4151,36 @@
     },
     {
         "chadwambles": {
+            "acousticness": 0.661,
+            "album": "Yellow Submarine",
+            "danceability": 0.354,
+            "duration_ms": 140733,
+            "energy": 0.281,
+            "liveness": 0.243,
+            "song": "pepperland",
+            "speechiness": 0.032,
+            "valence": 0.367,
+            "year": 1969
+        },
+        "title": "Pepperland"
+    },
+    {
+        "chadwambles": {
+            "acousticness": 0.877,
+            "album": "Yellow Submarine",
+            "danceability": 0.269,
+            "duration_ms": 132773,
+            "energy": 0.0902,
+            "liveness": 0.302,
+            "song": "pepperland laid waste",
+            "speechiness": 0.042,
+            "valence": 0.0462,
+            "year": 1969
+        },
+        "title": "Pepperland Laid Waste"
+    },
+    {
+        "chadwambles": {
             "acousticness": 0.643,
             "album": "The Beatles (white album)",
             "danceability": 0.542,
@@ -4448,6 +4505,51 @@
             "top.50.billboard": -1,
             "year": 1968
         }
+    },
+    {
+        "chadwambles": {
+            "acousticness": 0.959,
+            "album": "Yellow Submarine",
+            "danceability": 0.249,
+            "duration_ms": 136693,
+            "energy": 0.0994,
+            "liveness": 0.454,
+            "song": "sea of holes",
+            "speechiness": 0.04,
+            "valence": 0.0357,
+            "year": 1969
+        },
+        "title": "Sea of Holes"
+    },
+    {
+        "chadwambles": {
+            "acousticness": 0.945,
+            "album": "Yellow Submarine",
+            "danceability": 0.253,
+            "duration_ms": 216693,
+            "energy": 0.166,
+            "liveness": 0.135,
+            "song": "sea of monsters",
+            "speechiness": 0.0346,
+            "valence": 0.0489,
+            "year": 1969
+        },
+        "title": "Sea of Monsters"
+    },
+    {
+        "chadwambles": {
+            "acousticness": 0.971,
+            "album": "Yellow Submarine",
+            "danceability": 0.237,
+            "duration_ms": 180213,
+            "energy": 0.096,
+            "liveness": 0.203,
+            "song": "sea of time ",
+            "speechiness": 0.0387,
+            "valence": 0.0629,
+            "year": 1969
+        },
+        "title": "Sea of Time"
     },
     {
         "title": "Searchin'",
@@ -5859,6 +5961,33 @@
         }
     },
     {
+        "chadwambles": {
+            "acousticness": 0.808,
+            "album": "Yellow Submarine",
+            "danceability": 0.406,
+            "duration_ms": 134027,
+            "energy": 0.219,
+            "liveness": 0.15,
+            "song": "yellow submarine in pepperland",
+            "speechiness": 0.0359,
+            "valence": 0.271,
+            "year": 1969
+        },
+        "title": "Yellow Submarine in Pepperland"
+    },
+    {
+        "chadwambles": {
+            "acousticness": 0.000875,
+            "album": "The Beatles (white album)",
+            "danceability": 0.327,
+            "duration_ms": 240453,
+            "energy": 0.525,
+            "liveness": 0.133,
+            "song": "yer blues",
+            "speechiness": 0.0475,
+            "valence": 0.435,
+            "year": 1968
+        },
         "title": "Yer Blues",
         "yendor": {
             "album.debut": "The Beatles",
