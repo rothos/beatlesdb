@@ -58,7 +58,7 @@ class ChartLyricsAPI(LyricsAPI):
                     lyrics += [result.lyrics]
                 
                 if len(lyrics) > 1:
-                    print(f"Found {len(lyrics)} results for {title}!")
+                    print(f"    Found {len(lyrics)} results for {title}!")
 
                 if len(lyrics) >= 1:
                     return {'status': 'success', 'lyrics': lyrics[0]}
@@ -84,7 +84,7 @@ async def fetch_from_api(session, api, title):
     result['title'] = title
     return result
 
-async def main(limit: Optional[int] = None):
+async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
     # Initialize APIs
     apis = [
         LyricsOvhAPI(),
@@ -98,29 +98,65 @@ async def main(limit: Optional[int] = None):
     except FileNotFoundError:
         lyrics_array = []
 
-    # Create dictionary of existing lyrics
-    existing_lyrics = {song['title']: song for song in lyrics_array}
-
     # Load song titles
     with open('beatles_songs.json', 'r', encoding='utf-8') as file:
         song_titles = json.load(file)
 
-    # Create list of songs to process
-    songs_to_process = song_titles[:limit] if limit else song_titles
+    # Create a complete lyrics array with all songs
+    existing_lyrics = {song['title']: song for song in lyrics_array}
+
+    # Add any new songs from song_titles that aren't in existing_lyrics
+    for song in song_titles:
+        if song['title'] not in existing_lyrics:
+            existing_lyrics[song['title']] = {'title': song['title']}
+
+    # Find songs that need processing
+    songs_needing_processing = []
+
+    # Sort the items before figuring out which ones to process
+    for title, data in sorted(existing_lyrics.items(), key=lambda x: x[0]):
+        needs_processing = False
+        for api in apis:
+            if api.name not in data or not isinstance(data[api.name], str):
+                needs_processing = True
+                break
+        if needs_processing:
+            songs_needing_processing.append(title)
+
+    # Determine how many songs to process
+    songs_to_process = songs_needing_processing[:limit] if limit else songs_needing_processing
     
-    print(f"Total songs to process: {len(songs_to_process)}")
+    print(f"Songs needing processing: {len(songs_needing_processing)}")
+
+    # TODO/BUG: This doesn't take into account the recently added "REFETCH_PREVIOUS_404S" flag.
+    print(f"Songs that will be processed: {len(songs_to_process)}")
 
     async with aiohttp.ClientSession() as session:
-        for song in songs_to_process:
-            title = song['title']
-            current_entry = existing_lyrics.get(title, {})
+        for index, title in enumerate(songs_to_process):
+            current_entry = existing_lyrics[title]
             
+
+            # Save to our json file every 5 songs
+            if index % 5 == 0:
+                # Convert dictionary back to list and save
+                updated_lyrics_array = list(existing_lyrics.values())
+                with open('lyrics.json', 'w', encoding='utf-8') as file:
+                    json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
+                             file, indent=4, sort_keys=True, ensure_ascii=False)
+
+            fetching_yet = False
+
             for api in apis:
+
                 # Skip if we already have lyrics for this API
-                if api.name in current_entry:
+                if api.name in current_entry and (isinstance(current_entry[api.name], str) or refetch == False):
                     continue
 
-                print(f"Fetching {title} from {api.name}")
+                if not fetching_yet:
+                    print(f"Fetching \"{title}\"")
+                    fetching_yet = True
+
+                print(f"    from {api.name}... ", end="")
                 result = await fetch_from_api(session, api, title)
 
                 if result['status'] == 'success':
@@ -130,17 +166,14 @@ async def main(limit: Optional[int] = None):
                     if len(lyrics) < 20 and compare_stripped_strings(lyrics, "instrumental"):
                         lyrics = ""
 
-                    if title not in existing_lyrics:
-                        existing_lyrics[title] = {'title': title}
                     existing_lyrics[title][api.name] = lyrics
-                else:
-                    if title not in existing_lyrics:
-                        existing_lyrics[title] = {'title': title}
 
-                    print("    " + result['error'])
+                    print(" success")
+                else:
+                    print("error: " + result['error'])
                     existing_lyrics[title][api.name] = None
 
-                await asyncio.sleep(1)  # Be nice to the API
+                await asyncio.sleep(0.2)  # Be nice to the API
 
     # Convert dictionary back to list and save
     updated_lyrics_array = list(existing_lyrics.values())
@@ -148,6 +181,14 @@ async def main(limit: Optional[int] = None):
         json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
                  file, indent=4, sort_keys=True, ensure_ascii=False)
 
+
 if __name__ == "__main__":
-    LIMIT = 2
-    asyncio.run(main(LIMIT))
+
+    # Limit on how many songs to try to fetch this round.
+    LIMIT = None
+    
+    # Want to try to refetch songs that were 404 not found before?
+    # Or just skip them and import any new songs we haven't tried to find yet?
+    REFETCH_PREVIOUS_404S = True
+
+    asyncio.run(main(LIMIT, REFETCH_PREVIOUS_404S))
