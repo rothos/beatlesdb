@@ -10,8 +10,8 @@
 #     for the lyrics, while others say something like "Instrumental arranged
 #     by George Martin" or something.
 #   - "Songs that will be processed" output at the beginning of script run
-#      does not take into account the recently added REFETCH_PREVIOUS_404S
-#      flag. If REFETCH_PREVIOUS_404S = False then the output gives a number
+#      does not take into account the recently added REFETCH_PREVIOUS_404s
+#      flag. If REFETCH_PREVIOUS_404s = False then the output gives a number
 #      which may be spuriously high (e.g. it might say 20 instead of 0).
 #   - ChartLyrics gives a (non-404) error for only these songs:
 #         - "All I've Got to Do"
@@ -37,8 +37,8 @@ import unicodedata
 import asyncio
 import aiohttp
 import re
-from typing import Dict, List, Optional
 from chartlyrics import ChartLyricsClient
+from typing import Dict, List, Optional
 
 class LyricsAPI:
     """Base class for lyrics APIs"""
@@ -79,6 +79,7 @@ class ChartLyricsAPI(LyricsAPI):
         super().__init__("chartlyrics")
         self.client = ChartLyricsClient()
 
+
     async def fetch_lyrics(self, session, title):
         try:
             lyrics = []
@@ -96,7 +97,13 @@ class ChartLyricsAPI(LyricsAPI):
                 
             return {'status': 'error', 'error': 'No matching song found'}
         except Exception as e:
-            return {'status': 'error', 'error': str(e)}
+            err = str(e)
+
+            # Override this error to make it more clear (it's downstream of a 404)
+            if err == "'NoneType' object has no attribute 'findall'":
+                err = "No matching song found"
+
+            return {'status': 'error', 'error': err}
 
 def slugify(s):
     return "".join([c for c in s if c not in string.punctuation and c not in string.whitespace]).lower()
@@ -130,12 +137,13 @@ async def fetch_from_api(session, api, song_data):
     result['title'] = song_data['title']
     return result
 
-async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
+async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch: Optional[bool] = True):
     # Initialize APIs
-    apis = [
-        LyricsOvhAPI(),
-        ChartLyricsAPI()
-    ]
+    if not apis:
+        apis = [
+            LyricsOvhAPI(),
+            ChartLyricsAPI()
+        ]
 
     # Add statistics tracking
     stats = {api.name: {'attempts': 0, 'successes': 0} for api in apis}
@@ -177,7 +185,7 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
     
     print(f"Songs needing processing: {len(songs_needing_processing)}")
 
-    # TODO/BUG: This doesn't take into account the recently added "REFETCH_PREVIOUS_404S" flag.
+    # TODO/BUG: This doesn't take into account the recently added "REFETCH_PREVIOUS_404s" flag.
     print(f"Songs that will be processed: {len(songs_to_process)}")
 
     # Create a mapping of titles to full song data
@@ -247,11 +255,17 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
 
 if __name__ == "__main__":
 
+    # Which APIs to run
+    APIs = [
+        LyricsOvhAPI(),
+        ChartLyricsAPI()
+    ]
+
     # Limit on how many songs to try to fetch this round.
     LIMIT = None
     
     # Want to try to refetch songs that were 404 not found before?
     # Or just skip them and import any new songs we haven't tried to find yet?
-    REFETCH_PREVIOUS_404S = True
+    REFETCH_PREVIOUS_404s = True
 
-    asyncio.run(main(LIMIT, REFETCH_PREVIOUS_404S))
+    asyncio.run(main(APIs, LIMIT, REFETCH_PREVIOUS_404s))
