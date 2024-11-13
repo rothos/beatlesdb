@@ -2,8 +2,7 @@
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
 async function main() {
-    const result = await fetch("beatles_songs.json");
-    const songs = await result.json();
+    const songs = await d3.json("beatles_songs.json");
 
     // Declare the chart dimensions and margins.
     const width = 640;
@@ -13,7 +12,7 @@ async function main() {
     const marginBottom = 30;
     const marginLeft = 40;
 
-    function addGraph(title, songs, verticalMax, fn) {
+    function graph(id, title, songs, verticalMax, fn) {
         // Declare the x (horizontal position) scale.
         const x = d3.scaleUtc()
             .domain([new Date("1957-01-01"), new Date("1970-12-31")])
@@ -24,50 +23,105 @@ async function main() {
             .domain([0, verticalMax])
             .range([height - marginBottom, marginTop]);
 
-        // Create the SVG container.
-        const svg = d3.select("body")
-            .append("svg")
-                .attr("width", width)
-                .attr("height", height);
+        // Find or create the SVG container.
+        let g = d3.select("#" + id);
+        if (g.empty()) {
+            const svg = d3.select("body")
+                .append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
 
-        svg.append("text")
-            .attr("x", width / 2)
-            .attr("y", marginTop - 20)
-            .attr("text-anchor", "middle")
-            .style("font-size", "16px")
-            .text(title);
+            svg.append("text")
+                .attr("x", width / 2)
+                .attr("y", marginTop - 20)
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .text(title);
 
-        // Add the x-axis.
-        svg.append("g")
-            .attr("transform", `translate(0,${height - marginBottom})`)
-            .call(d3.axisBottom(x));
+            // Add the x-axis.
+            svg.append("g")
+                .attr("transform", `translate(0,${height - marginBottom})`)
+                .call(d3.axisBottom(x));
 
-        // Add the y-axis.
-        svg.append("g")
-            .attr("transform", `translate(${marginLeft},0)`)
-            .call(d3.axisLeft(y));
+            // Add the y-axis.
+            svg.append("g")
+                .attr("transform", `translate(${marginLeft},0)`)
+                .call(d3.axisLeft(y));
 
-        svg.append("g")
-          .attr("stroke", "steelblue")
-          .attr("stroke-width", 1.5)
-          .attr("fill", "none")
-        .selectAll("circle")
-        .data(songs.filter(song => song.yendor !== undefined))
-        .join("circle")
-          .attr("cx", song => x(new Date((song.yendor.year).toString())))
-          .attr("cy", song => y(fn(song)))
-          .attr("r", 3);
+            // Add the graphed data.
+            g = svg.append("g")
+              .attr("stroke", "steelblue")
+              .attr("stroke-width", 1.5)
+              .attr("fill", "none")
+              .attr("id", id);
+        }
+
+        g.selectAll("circle")
+            .data(songs.filter(song => song.yendor !== undefined), song => song.title)
+            .join(
+                enter => enter.append("circle")
+                            .attr("cx", song => x(new Date((song.yendor.year).toString())))
+                            .attr("cy", song => y(fn(song)))
+                            .transition()
+                            .attr("r", 3),
+                update => update,
+                exit => exit
+                            .transition()
+                            .attr("r", 0)
+                            .remove());
     }
 
-    addGraph("Duration (Minutes)", songs.filter(song => song.yendor !== undefined), 600, song => song.yendor.duration);
-    addGraph("Top 50 Billboard", songs.filter(song => song.yendor !== undefined && song.yendor["top.50.billboard"] !== -1),
-             60, song => song.yendor["top.50.billboard"]);
-    addGraph("Acousticness", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.acousticness);
-    addGraph("Danceability", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.danceability);
-    addGraph("Energy", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.energy);
-    addGraph("Liveness", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.liveness);
-    addGraph("Speechiness", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.speechiness);
-    addGraph("Valence", songs.filter(song => song.chadwambles !== undefined), 1, song => song.chadwambles.valence);
+    function refresh(doFiltering) {
+        let filteredSongs = songs;
+        if (doFiltering) {
+            filteredSongs = filteredSongs.filter(song => song.yendor?.songwriter === "Lennon");
+        }
+
+        graph("duration",
+              "Duration (Minutes)",
+              filteredSongs.filter(song => song.yendor !== undefined),
+              600,
+              song => song.yendor.duration);
+        graph("top50",
+              "Top 50 Billboard",
+              filteredSongs.filter(song => song.yendor !== undefined && song.yendor["top.50.billboard"] !== -1),
+              60,
+              song => song.yendor["top.50.billboard"]);
+        graph("acousticness",
+              "Acousticness",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.acousticness);
+        graph("danceability",
+              "Danceability",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.danceability);
+        graph("energy",
+              "Energy",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.energy);
+        graph("liveness",
+              "Liveness",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.liveness);
+        graph("speechiness",
+              "Speechiness",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.speechiness);
+        graph("valence",
+              "Valence",
+              filteredSongs.filter(song => song.chadwambles !== undefined),
+              1,
+              song => song.chadwambles.valence);
+
+        setTimeout(() => refresh(!doFiltering), 2000);
+    }
+
+    refresh(false);
 }
 
 main();
