@@ -13,7 +13,21 @@
 #      does not take into account the recently added REFETCH_PREVIOUS_404S
 #      flag. If REFETCH_PREVIOUS_404S = False then the output gives a number
 #      which may be spuriously high (e.g. it might say 20 instead of 0).
-
+#   - ChartLyrics gives a (non-404) error for only these songs:
+#         - "All I've Got to Do"
+#         - "Because"
+#         - "Come and Get It"
+#         - "From Me to You"
+#         - "How Do You Do It?"
+#         - "I Will"
+#         - "I'll Be on My Way"
+#         - "I'll Get You"
+#         - "It's All Too Much"
+#         - "You Can't Do That"
+#         - "You Like Me Too Much"
+#         - "You Won't See Me"
+#     I have submitted an issue on GitHub about it:
+#         https://github.com/matheusfillipe/chartlyrics/issues/1
 
 import json
 import requests
@@ -96,9 +110,24 @@ def remove_author_credits(text):
     pattern = r'^$$(?:harrison|lennon|mccartney|starkey)$$\s*'
     return re.sub(pattern, '', text, flags=re.IGNORECASE)
 
-async def fetch_from_api(session, api, title):
-    result = await api.fetch_lyrics(session, title)
-    result['title'] = title
+async def fetch_from_api(session, api, song_data):
+    # First try with the canonical title
+    result = await api.fetch_lyrics(session, song_data['title'])
+    if result['status'] == 'success':
+        result['title'] = song_data['title']
+        return result
+
+    # If that fails and there are other titles, try those
+    if 'other_titles' in song_data:
+        for alt_title in song_data['other_titles']:
+            alt_result = await api.fetch_lyrics(session, alt_title)
+            if alt_result['status'] == 'success':
+                # Use the canonical title even though we found it with an alternative
+                alt_result['title'] = song_data['title']
+                return alt_result
+
+    # If everything failed, return the original failed result
+    result['title'] = song_data['title']
     return result
 
 async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
@@ -107,6 +136,9 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
         LyricsOvhAPI(),
         ChartLyricsAPI()
     ]
+
+    # Add statistics tracking
+    stats = {api.name: {'attempts': 0, 'successes': 0} for api in apis}
 
     # Load existing lyrics
     try:
@@ -148,14 +180,15 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
     # TODO/BUG: This doesn't take into account the recently added "REFETCH_PREVIOUS_404S" flag.
     print(f"Songs that will be processed: {len(songs_to_process)}")
 
+    # Create a mapping of titles to full song data
+    song_data_map = {song['title']: song for song in song_titles}
+
     async with aiohttp.ClientSession() as session:
         for index, title in enumerate(songs_to_process):
             current_entry = existing_lyrics[title]
             
-
             # Save to our json file every 5 songs
             if index % 5 == 0:
-                # Convert dictionary back to list and save
                 updated_lyrics_array = list(existing_lyrics.values())
                 with open('lyrics.json', 'w', encoding='utf-8') as file:
                     json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
@@ -164,7 +197,6 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
             fetching_yet = False
 
             for api in apis:
-
                 # Skip if we already have lyrics for this API
                 if api.name in current_entry and (isinstance(current_entry[api.name], str) or refetch == False):
                     continue
@@ -174,7 +206,12 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
                     fetching_yet = True
 
                 print(f"    from {api.name}... ", end="")
-                result = await fetch_from_api(session, api, title)
+                
+                # Pass the full song data
+                song_data = song_data_map.get(title, {'title': title})
+                result = await fetch_from_api(session, api, song_data)
+
+                stats[api.name]['attempts'] += 1
 
                 if result['status'] == 'success':
                     lyrics = result['lyrics'].strip()
@@ -184,6 +221,7 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
                         lyrics = ""
 
                     existing_lyrics[title][api.name] = lyrics
+                    stats[api.name]['successes'] += 1
 
                     print(" success")
                 else:
@@ -197,6 +235,14 @@ async def main(limit: Optional[int] = None, refetch: Optional[bool] = True):
     with open('lyrics.json', 'w', encoding='utf-8') as file:
         json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
                  file, indent=4, sort_keys=True, ensure_ascii=False)
+
+    # Print statistics
+    print("\nFinal Statistics:")
+    for api_name, stat in stats.items():
+        attempts = stat['attempts']
+        successes = stat['successes']
+        if attempts > 0:
+            print(f"    {api_name}: {successes}/{attempts} successes")
 
 
 if __name__ == "__main__":
