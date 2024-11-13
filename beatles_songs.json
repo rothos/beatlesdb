@@ -1128,9 +1128,9 @@
             "year": 1965
         },
         "other_titles": [
-            "Dizzy Miss Lizzy"
+            "Dizzy, Miss Lizzy"
         ],
-        "title": "Dizzy, Miss Lizzy",
+        "title": "Dizzy Miss Lizzy",
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
             "duration": 145,
@@ -3150,7 +3150,8 @@
             "year": 1964
         },
         "other_titles": [
-            "Kansas City/Hey Hey Hey Hey"
+            "Kansas City/Hey Hey Hey Hey",
+            "Kansas City"
         ],
         "title": "Kansas City/Hey, Hey, Hey, Hey",
         "yendor": {
