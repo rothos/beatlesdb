@@ -37,7 +37,6 @@ import unicodedata
 import asyncio
 import aiohttp
 import re
-from chartlyrics import ChartLyricsClient
 from typing import Dict, List, Optional
 
 class LyricsAPI:
@@ -76,6 +75,7 @@ class LyricsOvhAPI(LyricsAPI):
 
 class ChartLyricsAPI(LyricsAPI):
     def __init__(self):
+        from chartlyrics import ChartLyricsClient
         super().__init__("chartlyrics")
         self.client = ChartLyricsClient()
 
