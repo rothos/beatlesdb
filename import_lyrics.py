@@ -30,11 +30,13 @@
 #         https://github.com/matheusfillipe/chartlyrics/issues/1
 
 import json
+# pip install requests
 import requests
 import time
 import string
 import unicodedata
 import asyncio
+# pip install aiohttp
 import aiohttp
 import re
 from typing import Dict, List, Optional
