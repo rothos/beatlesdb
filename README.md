@@ -6,9 +6,9 @@ Beatles songs database.
 
 - [MIR Python module](https://mirdata.readthedocs.io/en/0.3.5/_modules/mirdata/datasets/beatles.html)
     - Note [link to archive](http://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz).
-- [Beatles song sorted by key](https://www.reddit.com/r/beatles/comments/134qk5r/beatles_songs_sorted_by_key/)
 - [The Beatles API](https://github.com/vrandall66/the-beatles-api)
     - Seems to have dozens of Beatles songs as an API.
+    - [Actual song data](https://github.com/vrandall66/the-beatles-api/blob/master/songsData.js)
 - [All songs, on official website](https://www.thebeatles.com/songs)
 - [List of all Beatles songs from BeatlesBible.com (maybe more comprehensive than other lists)](https://www.beatlesbible.com/songs/)
 - [Website with Beatles songs, includes personnel/song credits](https://beatlestube.net/the-beatles-songs/)
