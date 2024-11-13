@@ -13,21 +13,7 @@
 #      does not take into account the recently added REFETCH_PREVIOUS_404s
 #      flag. If REFETCH_PREVIOUS_404s = False then the output gives a number
 #      which may be spuriously high (e.g. it might say 20 instead of 0).
-#   - ChartLyrics gives a (non-404) error for only these songs:
-#         - "All I've Got to Do"
-#         - "Because"
-#         - "Come and Get It"
-#         - "From Me to You"
-#         - "How Do You Do It?"
-#         - "I Will"
-#         - "I'll Be on My Way"
-#         - "I'll Get You"
-#         - "It's All Too Much"
-#         - "You Can't Do That"
-#         - "You Like Me Too Much"
-#         - "You Won't See Me"
-#     I have submitted an issue on GitHub about it:
-#         https://github.com/matheusfillipe/chartlyrics/issues/1
+#   - https://github.com/matheusfillipe/chartlyrics/issues/1
 
 import json
 # pip install requests
@@ -102,7 +88,7 @@ class ChartLyricsAPI(LyricsAPI):
             err = str(e)
 
             # Override this error to make it more clear (it's downstream of a 404)
-            if err == "'NoneType' object has no attribute 'findall'":
+            if "No valid words left in contains list" in err:
                 err = "No matching song found"
 
             return {'status': 'error', 'error': err}
