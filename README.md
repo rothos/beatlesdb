@@ -10,10 +10,6 @@ Beatles songs database.
 - [The Beatles API](https://github.com/vrandall66/the-beatles-api)
     - Seems to have dozens of Beatles songs as an API.
 - [All songs, on official website](https://www.thebeatles.com/songs)
-- [Visualizing songs by year](https://www.yendor.com/Beatles/)
-    - [JSON data file](https://www.yendor.com/Beatles/Beatles.json)
-- [All data from Spotify](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster)
-    - Provides various data in CSV format.
 - [List of all Beatles songs from BeatlesBible.com (maybe more comprehensive than other lists)](https://www.beatlesbible.com/songs/)
 - [Website with Beatles songs, includes personnel/song credits](https://beatlestube.net/the-beatles-songs/)
 - [Lyrics to Beatles songs (this site seems more scrape-able than most)](https://www.beatleslyrics.org/index_files/Page13763.htm)
@@ -26,3 +22,4 @@ Beatles songs database.
 - `other_titles`: List of synonyms.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
 - `pannell`: Data we pulled from David J. Pannell (2023). _Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970_, Journal of Beatles Studies volume 2.
+- `chadwambles`: Data we pull from [Chad Wambles's dataset](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster) (`TheBeatlesCleaned.csv`).
