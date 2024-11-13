@@ -16,6 +16,8 @@ async def fetch_lyrics(session: aiohttp.ClientSession, title: str) -> Dict:
     ascii_title = unicodedata.normalize('NFKD', title).encode('ASCII', 'ignore').decode()
     
     url = f"https://api.lyrics.ovh/v1/beatles/{ascii_title}"
+    alternate_url = f"https://api.lyrics.ovh/v1/the%20beatles/{ascii_title}"
+    
     try:
         async with session.get(url) as response:
             if response.status == 200:
@@ -24,8 +26,26 @@ async def fetch_lyrics(session: aiohttp.ClientSession, title: str) -> Dict:
                 return {
                     'title': title,
                     'status': 'success',
-                    'lyrics': data.get('lyrics', '')  # Get the actual lyrics
+                    'lyrics': data.get('lyrics', '')
                 }
+            elif response.status == 404:
+                # Try alternate URL
+                async with session.get(alternate_url) as alternate_response:
+                    if alternate_response.status == 200:
+                        data = await alternate_response.json()
+                        print(f"{title}: success")
+                        return {
+                            'title': title,
+                            'status': 'success',
+                            'lyrics': data.get('lyrics', '')
+                        }
+                    else:
+                        print(f"{title}: error {alternate_response.status} (both URLs)")
+                        return {
+                            'title': title,
+                            'status': 'error',
+                            'error': f"404 on primary, {alternate_response.status} on alternate"
+                        }
             else:
                 print(f"{title}: error {response.status}")
                 return {
@@ -58,14 +78,23 @@ async def main(limit: Optional[int] = None):
     Args:
         limit: Optional integer to limit the number of songs to process
     """
-    # Load the JSON file
+    # Load existing lyrics if available
+    try:
+        with open('lyrics.json', 'r', encoding='utf-8') as file:
+            lyrics_array = json.load(file)
+            existing_titles = {song['title'] for song in lyrics_array}
+    except FileNotFoundError:
+        lyrics_array = []
+        existing_titles = set()
+
+    # Load song titles from beatles_songs.json
     with open('beatles_songs.json', 'r', encoding='utf-8') as file:
         songs = json.load(file)
 
     # Create list of songs that need lyrics
     songs_to_fetch = [
-        song for song in songs 
-        if 'lyrics.ovh' not in song
+        song['title'] for song in songs 
+        if song['title'] not in existing_titles
     ]
 
     # Apply limit if specified
@@ -79,8 +108,8 @@ async def main(limit: Optional[int] = None):
     async with aiohttp.ClientSession() as session:
         # Create tasks for all songs that need lyrics
         tasks = [
-            fetch_lyrics(session, song['title']) 
-            for song in songs_to_fetch
+            fetch_lyrics(session, title) 
+            for title in songs_to_fetch
         ]
         
         # Process in batches to be respectful to the API
@@ -91,27 +120,29 @@ async def main(limit: Optional[int] = None):
             batch = tasks[i:i+5]
             results = await asyncio.gather(*batch)
             
-            # Update songs with results
+            # Process results
             for result in results:
-                for song in songs:
-                    if song['title'] == result['title']:
-                        if result['status'] == 'success':
+                if result['status'] == 'success':
+                    lyrics = result['lyrics'].strip()
+                    lyrics = remove_author_credits(lyrics)
 
-                            lyrics = result['lyrics'].strip()
+                    # Instrumental songs sometimes have lyrics that say "instrumental"
+                    if len(lyrics) < 20 and compare_stripped_strings(lyrics, "instrumental"):
+                        lyrics = ""
 
-                            # I saw at least one instance of a song ("Piggies")
-                            # where the songwriter's name was at the top.
-                            lyrics = remove_author_credits(lyrics)
-
-                            # Instrumental songs sometimes have lyrics that say "instrumental"
-                            if len(lyrics) < 20 and compare_stripped_strings(result['lyrics'], "instrumental"):
-                                lyrics = ""
-
-                            song['lyrics.ovh'] = lyrics  # Store lyrics directly
-                            successful_fetches += 1
-                        else:
-                            failed_fetches += 1
-                        break
+                    # Add to lyrics array
+                    lyrics_array.append({
+                        'title': result['title'],
+                        'lyrics.ovh': lyrics
+                    })
+                    successful_fetches += 1
+                else:
+                    # Add to lyrics array with None for failed fetches
+                    lyrics_array.append({
+                        'title': result['title'],
+                        'lyrics.ovh': None
+                    })
+                    failed_fetches += 1
             
             # Wait between batches to be nice to the API
             if i + 5 < len(tasks):
@@ -122,10 +153,9 @@ async def main(limit: Optional[int] = None):
     print(f"    Successfully fetched: {successful_fetches}")
     print(f"    Failed to fetch: {failed_fetches}")
 
-    # Save updated data back to file
-    with open('beatles_songs.json', 'w', encoding='utf-8') as file:
-        json.dump(songs, file, indent=2, ensure_ascii=False)
-
+    # Save updated lyrics
+    with open('lyrics.json', 'w', encoding='utf-8') as file:
+        json.dump(sorted(lyrics_array, key=lambda a: a["title"]), file, indent=4, sort_keys=True, ensure_ascii=False)
 
 if __name__ == "__main__":
     # You can modify this number to test with fewer songs
