@@ -8,7 +8,7 @@ const tooltip = d3.select("body")
 
 async function main() {
     const songs = (await d3.json("beatles_songs.json"))
-        .filter(song => song.yendor !== undefined);
+        .filter(song => song.yendor !== undefined && song.yendor.year <= 1970);
 
     // Declare the chart dimensions and margins.
     const width = 640;
@@ -56,6 +56,13 @@ async function main() {
                 .attr("transform", `translate(${marginLeft},0)`)
                 .attr("class", "y-axis")
                 .call(d3.axisLeft(y));
+
+            // Area for standard deviation
+            svg.append("path")
+                .attr("class", "stddev-area")
+                .attr("fill", "steelblue")
+                .attr("stroke", "none")
+                .style("opacity", 0.1);
 
             // Line for mean.
             svg.append("path")
@@ -111,8 +118,17 @@ async function main() {
         const stats = d3.rollups(songs,
                                  d => ({ mean: d3.mean(d, fn), stddev: d3.deviation(d, fn) }),
                                  d => d.yendor.year)
-                                 .map(d => ({ year: d[0], mean: d[1].mean, stddev: d[1].stddev }))
+                                 .map(d => ({ year: d[0], mean: d[1].mean, stddev: d[1].stddev ?? 0 }))
                                  .sort((a, b) => a.year - b.year);
+                                 console.log(stats);
+
+        svg.select(".stddev-area")
+            .data([stats])
+            .transition()
+            .attr("d", d3.area()
+                .x(d => x(d.year))
+                .y0(d => y(d.mean - d.stddev))
+                .y1(d => y(d.mean + d.stddev)));
 
         svg.select(".mean-line")
             .data([stats])
