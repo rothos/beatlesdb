@@ -1,6 +1,11 @@
 
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
+const tooltip = d3.select("body")
+    .append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
 async function main() {
     const songs = await d3.json("beatles_songs.json");
 
@@ -52,7 +57,7 @@ async function main() {
             g = svg.append("g")
               .attr("stroke", "steelblue")
               .attr("stroke-width", 1.5)
-              .attr("fill", "none")
+              .attr("fill", "transparent")
               .attr("id", id);
         }
 
@@ -62,6 +67,25 @@ async function main() {
                 enter => enter.append("circle")
                             .attr("cx", song => x(new Date((song.yendor.year).toString())))
                             .attr("cy", song => y(fn(song)))
+                            .on("mouseover", function(e, song) {
+                                d3.select(this).transition()
+                                    .duration(100)
+                                    .attr("r", 7);
+                                tooltip.transition()
+                                    .duration(100)
+                                    .style("opacity", 1);
+                                tooltip.html(song.title)
+                                    .style("left", (e.pageX + 10) + "px")
+                                    .style("top", (e.pageY - 15) + "px");
+                            })
+                            .on("mouseout", function() {
+                                d3.select(this).transition()
+                                    .duration(100)
+                                    .attr("r", 3);
+                                tooltip.transition()
+                                    .duration(100)
+                                    .style("opacity", 0);
+                            })
                             .transition()
                             .attr("r", 3),
                 update => update,
