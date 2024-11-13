@@ -29,6 +29,9 @@ async function main() {
             .domain([0, d3.max(songs, fn)])
             .range([height - marginBottom, marginTop]);
 
+        const xAxis = d3.axisBottom(x).tickFormat(d3.format("4d"));
+        const yAxis = d3.axisLeft(y);
+
         // Find or create the SVG container.
         let svg = d3.select("#" + id);
         if (svg.empty()) {
@@ -48,14 +51,12 @@ async function main() {
             // Add the x-axis.
             svg.append("g")
                 .attr("transform", `translate(0,${height - marginBottom})`)
-                .attr("class", "x-axis")
-                .call(d3.axisBottom(x));
+                .attr("class", "x-axis");
 
             // Add the y-axis.
             svg.append("g")
                 .attr("transform", `translate(${marginLeft},0)`)
-                .attr("class", "y-axis")
-                .call(d3.axisLeft(y));
+                .attr("class", "y-axis");
 
             // Area for standard deviation
             svg.append("path")
@@ -80,6 +81,15 @@ async function main() {
                 .attr("fill", "transparent");
         }
 
+        // Update axes.
+        svg.selectAll(".x-axis")
+            .transition()
+            .call(xAxis);
+        svg.selectAll(".y-axis")
+            .transition()
+            .call(yAxis);
+
+        // Update data points.
         svg.select(".data-points")
             .selectAll("circle")
             .data(songs, song => song.title)
@@ -120,7 +130,6 @@ async function main() {
                                  d => d.yendor.year)
                                  .map(d => ({ year: d[0], mean: d[1].mean, stddev: d[1].stddev ?? 0 }))
                                  .sort((a, b) => a.year - b.year);
-                                 console.log(stats);
 
         svg.select(".stddev-area")
             .data([stats])
