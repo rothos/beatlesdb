@@ -488,6 +488,9 @@
             "valence": 0.467,
             "year": 1967
         },
+        "other_titles": [
+            "Baby You're a Rich Man"
+        ],
         "title": "Baby, You're a Rich Man",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -513,6 +516,9 @@
             "valence": 0.494,
             "year": 1968
         },
+        "other_titles": [
+            "Back in the USSR"
+        ],
         "title": "Back in the U.S.S.R.",
         "yendor": {
             "album.debut": "The Beatles",
@@ -614,6 +620,9 @@
             "valence": 0.71,
             "year": 1967
         },
+        "other_titles": [
+            "Being for the Benefit of Mr Kite"
+        ],
         "title": "Being for the Benefit of Mr. Kite!",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1118,6 +1127,9 @@
             "valence": 0.918,
             "year": 1965
         },
+        "other_titles": [
+            "Dizzy Miss Lizzy"
+        ],
         "title": "Dizzy, Miss Lizzy",
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
@@ -1143,6 +1155,9 @@
             "valence": 0.609,
             "year": 1963
         },
+        "other_titles": [
+            "Do You Want To Know a Secret"
+        ],
         "title": "Do You Want to Know a Secret?",
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
@@ -1746,6 +1761,9 @@
             "valence": 0.93,
             "year": 1967
         },
+        "other_titles": [
+            "Good Morning Good Morning"
+        ],
         "title": "Good Morning, Good Morning",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -1896,6 +1914,9 @@
             "valence": 0.806,
             "year": 1967
         },
+        "other_titles": [
+            "Hello Goodbye"
+        ],
         "title": "Hello, Goodbye",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -3128,6 +3149,9 @@
             "valence": 0.924,
             "year": 1964
         },
+        "other_titles": [
+            "Kansas City/Hey Hey Hey Hey"
+        ],
         "title": "Kansas City/Hey, Hey, Hey, Hey",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
@@ -3154,6 +3178,9 @@
         }
     },
     {
+        "other_titles": [
+            "Komm, Gib Mir Deine Hand"
+        ],
         "title": "Komm Gib Mir Deine Hand",
         "yendor": {
             "album.debut": "UK: Rarities US: Something New",
@@ -3622,6 +3649,9 @@
             "valence": 0.97,
             "year": 1969
         },
+        "other_titles": [
+            "Mean Mr Mustard"
+        ],
         "title": "Mean Mr. Mustard",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -3773,6 +3803,9 @@
             "valence": 0.589,
             "year": 1964
         },
+        "other_titles": [
+            "Mr Moonlight"
+        ],
         "title": "Mr. Moonlight",
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
@@ -3836,6 +3869,9 @@
             "valence": 0.65,
             "year": 1965
         },
+        "other_titles": [
+            "Norwegan Wood (This Bird Has Flown)"
+        ],
         "title": "Norwegian Wood (This Bird Has Flown)",
         "yendor": {
             "album.debut": "Rubber Soul",
@@ -3987,6 +4023,9 @@
             "valence": 0.549,
             "year": 1969
         },
+        "other_titles": [
+            "Oh Darling"
+        ],
         "title": "Oh! Darling",
         "yendor": {
             "album.debut": "Abbey Road",
@@ -4217,6 +4256,9 @@
             "valence": 0.961,
             "year": 1963
         },
+        "other_titles": [
+            "Please Mister Postman"
+        ],
         "title": "Please Mr. Postman",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
@@ -4589,6 +4631,9 @@
             "valence": 0.671,
             "year": 1968
         },
+        "other_titles": [
+            "Sexy Sady"
+        ],
         "title": "Sexy Sadie",
         "yendor": {
             "album.debut": "The Beatles",
@@ -4614,6 +4659,9 @@
             "valence": 0.879,
             "year": 1967
         },
+        "other_titles": [
+            "Sgt Pepper's Lonely Hearts Club Band"
+        ],
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -4627,6 +4675,9 @@
         }
     },
     {
+        "other_titles": [
+            "Sgt Pepper's Lonely Hearts Club Band (reprise)"
+        ],
         "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -5197,6 +5248,9 @@
             "valence": 0.49,
             "year": 1967
         },
+        "other_titles": [
+            "Fool on the Hill"
+        ],
         "title": "The Fool on the Hill",
         "yendor": {
             "album.debut": "Magical Mystery Tour",
@@ -5474,6 +5528,9 @@
             "valence": 0.646,
             "year": 1963
         },
+        "other_titles": [
+            "Til there Was You"
+        ],
         "title": "Till There Was You",
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
@@ -5800,6 +5857,9 @@
             "valence": 0.957,
             "year": 1968
         },
+        "other_titles": [
+            "Why Don't We Do It In the Road"
+        ],
         "title": "Why Don't We Do It in the Road?",
         "yendor": {
             "album.debut": "The Beatles",
@@ -6240,6 +6300,9 @@
             "valence": 0.687,
             "year": 1963
         },
+        "other_titles": [
+            "You Really Got a Hold On Me"
+        ],
         "title": "You've Really Got a Hold on Me",
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
