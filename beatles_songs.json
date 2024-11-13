@@ -25,6 +25,9 @@
             "year": 1967
         },
         "title": "A Day in the Life",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/A Day in the Life"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 335,
@@ -50,6 +53,9 @@
             "year": 1964
         },
         "title": "A Hard Day's Night",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/A Hard Day's Night (song)"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: 1962-1966",
             "duration": 152,
@@ -88,6 +94,9 @@
             "year": 1963
         },
         "title": "A Taste of Honey",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/A Taste of Honey (song)#The Beatles"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 163,
@@ -113,6 +122,9 @@
             "year": 1970
         },
         "title": "Across the Universe",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Across the Universe"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 230,
@@ -138,6 +150,9 @@
             "year": 1965
         },
         "title": "Act Naturally",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Act Naturally#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Yesterday and Today",
             "duration": 139,
@@ -176,6 +191,9 @@
             "year": 1963
         },
         "title": "All I've Got to Do",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/All I've Got to Do"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 124,
@@ -201,6 +219,9 @@
             "year": 1963
         },
         "title": "All My Loving",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/All My Loving"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 124,
@@ -239,6 +260,9 @@
             "year": 1969
         },
         "title": "All Together Now",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/All Together Now (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Yellow Submarine",
             "duration": 130,
@@ -264,6 +288,9 @@
             "year": 1969
         },
         "title": "All You Need Is Love",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/All You Need Is Love"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 237,
@@ -289,6 +316,9 @@
             "year": 1964
         },
         "title": "And I Love Her",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/And I Love Her"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 152,
@@ -314,6 +344,9 @@
             "year": 1966
         },
         "title": "And Your Bird Can Sing",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/And Your Bird Can Sing"
+        },
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
             "duration": 121,
@@ -339,6 +372,9 @@
             "year": 1963
         },
         "title": "Anna (Go to Him)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Anna (Go to Him)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 168,
@@ -364,6 +400,9 @@
             "year": 1965
         },
         "title": "Another Girl",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Another Girl"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 124,
@@ -389,6 +428,9 @@
             "year": 1964
         },
         "title": "Any Time at All",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Any Time at All"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 133,
@@ -414,6 +456,9 @@
             "year": 1963
         },
         "title": "Ask Me Why",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Ask Me Why"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 144,
@@ -439,6 +484,9 @@
             "year": 1963
         },
         "title": "Baby It's You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Baby It's You#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 162,
@@ -464,6 +512,9 @@
             "year": 1964
         },
         "title": "Baby's in Black",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Baby's in Black"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 122,
@@ -488,7 +539,13 @@
             "valence": 0.467,
             "year": 1967
         },
+        "other_titles": [
+            "Baby You're a Rich Man"
+        ],
         "title": "Baby, You're a Rich Man",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Baby, You're a Rich Man"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 183,
@@ -513,7 +570,13 @@
             "valence": 0.494,
             "year": 1968
         },
+        "other_titles": [
+            "Back in the USSR"
+        ],
         "title": "Back in the U.S.S.R.",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Back in the U.S.S.R."
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 163,
@@ -527,6 +590,9 @@
     },
     {
         "title": "Bad Boy",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Bad Boy (Larry Williams song)#Other versions"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Beatles VI",
             "duration": 150,
@@ -578,6 +644,9 @@
             "year": 1969
         },
         "title": "Because",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Because (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 165,
@@ -614,7 +683,13 @@
             "valence": 0.71,
             "year": 1967
         },
+        "other_titles": [
+            "Being for the Benefit of Mr Kite"
+        ],
         "title": "Being for the Benefit of Mr. Kite!",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Being for the Benefit of Mr. Kite!"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 157,
@@ -640,6 +715,9 @@
             "year": 1968
         },
         "title": "Birthday",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Birthday (Beatles song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 162,
@@ -665,6 +743,9 @@
             "year": 1968
         },
         "title": "Blackbird",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Blackbird (Beatles song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 139,
@@ -690,6 +771,9 @@
             "year": 1967
         },
         "title": "Blue Jay Way",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Blue Jay Way"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 235,
@@ -715,6 +799,9 @@
             "year": 1963
         },
         "title": "Boys",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Boys (Shirelles song)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 144,
@@ -753,6 +840,9 @@
             "year": 1964
         },
         "title": "Can't Buy Me Love",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Can't Buy Me Love"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Hey Jude",
             "duration": 131,
@@ -791,6 +881,9 @@
             "year": 1969
         },
         "title": "Carry That Weight",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Carry That Weight"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 96,
@@ -841,6 +934,9 @@
             "year": 1963
         },
         "title": "Chains",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Chains (Cookies song)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 143,
@@ -917,6 +1013,9 @@
             "year": 1969
         },
         "title": "Come Together",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Come Together"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 258,
@@ -955,6 +1054,9 @@
             "year": 1968
         },
         "title": "Cry Baby Cry",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Cry Baby Cry"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 183,
@@ -994,6 +1096,9 @@
     },
     {
         "title": "Day Tripper",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Day Tripper"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Yesterday and Today",
             "duration": 170,
@@ -1019,6 +1124,9 @@
             "year": 1968
         },
         "title": "Dear Prudence",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Dear Prudence"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 236,
@@ -1044,6 +1152,9 @@
             "year": 1963
         },
         "title": "Devil in Her Heart",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Devil in His Heart#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
             "duration": 147,
@@ -1069,6 +1180,9 @@
             "year": 1970
         },
         "title": "Dig It",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Dig It (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 51,
@@ -1094,6 +1208,9 @@
             "year": 1970
         },
         "title": "Dig a Pony",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Dig a Pony"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 232,
@@ -1118,7 +1235,13 @@
             "valence": 0.918,
             "year": 1965
         },
-        "title": "Dizzy, Miss Lizzy",
+        "other_titles": [
+            "Dizzy, Miss Lizzy"
+        ],
+        "title": "Dizzy Miss Lizzy",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Dizzy, Miss Lizzy#The Beatles rendition"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
             "duration": 145,
@@ -1143,7 +1266,13 @@
             "valence": 0.609,
             "year": 1963
         },
+        "other_titles": [
+            "Do You Want To Know a Secret"
+        ],
         "title": "Do You Want to Know a Secret?",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Do You Want to Know a Secret"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 116,
@@ -1169,6 +1298,9 @@
             "year": 1966
         },
         "title": "Doctor Robert",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Doctor Robert"
+        },
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
             "duration": 135,
@@ -1194,6 +1326,9 @@
             "year": 1963
         },
         "title": "Don't Bother Me",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Don't Bother Me"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 149,
@@ -1220,6 +1355,9 @@
     },
     {
         "title": "Don't Let Me Down",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Don't Let Me Down (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 215,
@@ -1245,6 +1383,9 @@
             "year": 1968
         },
         "title": "Don't Pass Me By",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Don't Pass Me By"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 231,
@@ -1270,6 +1411,9 @@
             "year": 1965
         },
         "title": "Drive My Car",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Drive My Car (song)"
+        },
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
             "duration": 148,
@@ -1295,6 +1439,9 @@
             "year": 1964
         },
         "title": "Eight Days a Week",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Eight Days a Week"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 164,
@@ -1320,6 +1467,9 @@
             "year": 1966
         },
         "title": "Eleanor Rigby",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Eleanor Rigby"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 128,
@@ -1357,6 +1507,9 @@
             "year": 1964
         },
         "title": "Every Little Thing",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Every Little Thing (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 121,
@@ -1382,6 +1535,9 @@
             "year": 1968
         },
         "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Everybody's Got Something to Hide Except Me and My Monkey"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 144,
@@ -1407,6 +1563,9 @@
             "year": 1964
         },
         "title": "Everybody's Trying to Be My Baby",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Everybody's Trying to Be My Baby#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 143,
@@ -1445,6 +1604,9 @@
             "year": 1967
         },
         "title": "Fixing a Hole",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Fixing a Hole"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 146,
@@ -1470,6 +1632,9 @@
             "year": 1967
         },
         "title": "Flying",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Flying (Beatles instrumental)"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 137,
@@ -1495,6 +1660,9 @@
             "year": 1966
         },
         "title": "For No One",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/For No One"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 121,
@@ -1520,6 +1688,9 @@
             "year": 1970
         },
         "title": "For You Blue",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/For You Blue"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 152,
@@ -1546,6 +1717,9 @@
     },
     {
         "title": "From Me to You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/From Me to You"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: 1962-1966",
             "duration": 116,
@@ -1584,6 +1758,9 @@
             "year": 1970
         },
         "title": "Get Back",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Get Back"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 194,
@@ -1609,6 +1786,9 @@
             "year": 1967
         },
         "title": "Getting Better",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Getting Better"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 167,
@@ -1634,6 +1814,9 @@
             "year": 1965
         },
         "title": "Girl",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Girl (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 153,
@@ -1672,6 +1855,9 @@
             "year": 1968
         },
         "title": "Glass Onion",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Glass Onion (song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 137,
@@ -1697,6 +1883,9 @@
             "year": 1969
         },
         "title": "Golden Slumbers",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Golden Slumbers"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 91,
@@ -1722,6 +1911,9 @@
             "year": 1966
         },
         "title": "Good Day Sunshine",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Good Day Sunshine"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 129,
@@ -1746,7 +1938,13 @@
             "valence": 0.93,
             "year": 1967
         },
+        "other_titles": [
+            "Good Morning Good Morning"
+        ],
         "title": "Good Morning, Good Morning",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Good Morning Good Morning"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 161,
@@ -1772,6 +1970,9 @@
             "year": 1968
         },
         "title": "Good Night",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Good Night (Beatles song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 191,
@@ -1809,6 +2010,9 @@
             "year": 1966
         },
         "title": "Got to Get You into My Life",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Got to Get You into My Life"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 147,
@@ -1847,6 +2051,9 @@
             "year": 1968
         },
         "title": "Happiness Is a Warm Gun",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Happiness Is a Warm Gun"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 163,
@@ -1896,7 +2103,13 @@
             "valence": 0.806,
             "year": 1967
         },
+        "other_titles": [
+            "Hello Goodbye"
+        ],
         "title": "Hello, Goodbye",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Hello, Goodbye"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 207,
@@ -1922,6 +2135,9 @@
             "year": 1965
         },
         "title": "Help!",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Help! (song)"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 138,
@@ -1947,6 +2163,9 @@
             "year": 1968
         },
         "title": "Helter Skelter",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Helter Skelter (song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 270,
@@ -1972,6 +2191,9 @@
             "year": 1969
         },
         "title": "Her Majesty",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Her Majesty (song)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 23,
@@ -1997,6 +2219,9 @@
             "year": 1969
         },
         "title": "Here Comes the Sun",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Here Comes the Sun"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 186,
@@ -2022,6 +2247,9 @@
             "year": 1966
         },
         "title": "Here, There and Everywhere",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Here, There and Everywhere"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 145,
@@ -2047,6 +2275,9 @@
             "year": 1969
         },
         "title": "Hey Bulldog",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Hey Bulldog"
+        },
         "yendor": {
             "album.debut": "Yellow Submarine",
             "duration": 194,
@@ -2060,6 +2291,9 @@
     },
     {
         "title": "Hey Jude",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Hey Jude"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 431,
@@ -2098,6 +2332,9 @@
             "year": 1963
         },
         "title": "Hold Me Tight",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Hold Me Tight"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 152,
@@ -2123,6 +2360,9 @@
             "year": 1964
         },
         "title": "Honey Don't",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Honey Don't"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 173,
@@ -2148,6 +2388,9 @@
             "year": 1968
         },
         "title": "Honey Pie",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Honey Pie"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 161,
@@ -2186,6 +2429,9 @@
             "year": 1967
         },
         "title": "I Am the Walrus",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Am the Walrus"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 273,
@@ -2199,6 +2445,9 @@
     },
     {
         "title": "I Call Your Name",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Call Your Name"
+        },
         "yendor": {
             "album.debut": "UK: Past Masters Volume 1 US: The Beatles Second Album",
             "duration": 129,
@@ -2224,6 +2473,9 @@
             "year": 1964
         },
         "title": "I Don't Want to Spoil the Party",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Don't Want to Spoil the Party"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 153,
@@ -2237,6 +2489,9 @@
     },
     {
         "title": "I Feel Fine",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Feel Fine"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Beatles '65",
             "duration": 145,
@@ -2326,6 +2581,9 @@
             "year": 1970
         },
         "title": "I Me Mine",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Me Mine"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 145,
@@ -2351,6 +2609,9 @@
             "year": 1965
         },
         "title": "I Need You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Need You (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 148,
@@ -2376,6 +2637,9 @@
             "year": 1963
         },
         "title": "I Saw Her Standing There",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Saw Her Standing There"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: Meet The Beatles!",
             "duration": 175,
@@ -2401,6 +2665,9 @@
             "year": 1964
         },
         "title": "I Should Have Known Better",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Should Have Known Better"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Hey Jude",
             "duration": 164,
@@ -2426,6 +2693,9 @@
             "year": 1963
         },
         "title": "I Wanna Be Your Man",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Wanna Be Your Man#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 103,
@@ -2451,6 +2721,9 @@
             "year": 1969
         },
         "title": "I Want You (She's So Heavy)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Want You (She's So Heavy)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 467,
@@ -2464,6 +2737,9 @@
     },
     {
         "title": "I Want to Hold Your Hand",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Want to Hold Your Hand"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Meet The Beatles!",
             "duration": 144,
@@ -2489,6 +2765,9 @@
             "year": 1966
         },
         "title": "I Want to Tell You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Want to Tell You"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 149,
@@ -2514,6 +2793,9 @@
             "year": 1968
         },
         "title": "I Will",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I Will"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 106,
@@ -2539,6 +2821,9 @@
             "year": 1964
         },
         "title": "I'll Be Back",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'll Be Back (song)"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Beatles '65",
             "duration": 140,
@@ -2577,6 +2862,9 @@
             "year": 1964
         },
         "title": "I'll Cry Instead",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'll Cry Instead"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 129,
@@ -2602,6 +2890,9 @@
             "year": 1964
         },
         "title": "I'll Follow the Sun",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'll Follow the Sun"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 106,
@@ -2615,6 +2906,9 @@
     },
     {
         "title": "I'll Get You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'll Get You"
+        },
         "yendor": {
             "album.debut": "UK: Past Masters Volume 1 US: The Beatles Second Album",
             "duration": 124,
@@ -2640,6 +2934,9 @@
     },
     {
         "title": "I'm Down",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm Down"
+        },
         "yendor": {
             "album.debut": "Rock 'n' Roll Music",
             "duration": 153,
@@ -2678,6 +2975,9 @@
             "year": 1964
         },
         "title": "I'm Happy Just to Dance with You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm Happy Just to Dance with You"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 118,
@@ -2716,6 +3016,9 @@
             "year": 1965
         },
         "title": "I'm Looking Through You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm Looking Through You"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 147,
@@ -2741,6 +3044,9 @@
             "year": 1966
         },
         "title": "I'm Only Sleeping",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm Only Sleeping"
+        },
         "yendor": {
             "album.debut": "UK: Revolver US: Yesterday and Today",
             "duration": 182,
@@ -2766,6 +3072,9 @@
             "year": 1968
         },
         "title": "I'm So Tired",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm So Tired"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 123,
@@ -2804,6 +3113,9 @@
             "year": 1964
         },
         "title": "I'm a Loser",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I'm a Loser"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 151,
@@ -2829,6 +3141,9 @@
             "year": 1970
         },
         "title": "I've Got a Feeling",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I've Got a Feeling"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 217,
@@ -2854,6 +3169,9 @@
             "year": 1965
         },
         "title": "I've Just Seen a Face",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/I've Just Seen a Face"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Rubber Soul",
             "duration": 127,
@@ -2879,6 +3197,9 @@
             "year": 1964
         },
         "title": "If I Fell",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/If I Fell"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 142,
@@ -2904,6 +3225,9 @@
             "year": 1965
         },
         "title": "If I Needed Someone",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/If I Needed Someone"
+        },
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
             "duration": 143,
@@ -2942,6 +3266,9 @@
             "year": 1965
         },
         "title": "In My Life",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/In My Life"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 148,
@@ -2980,6 +3307,9 @@
             "year": 1963
         },
         "title": "It Won't Be Long",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/It Won't Be Long"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 133,
@@ -3005,6 +3335,9 @@
             "year": 1969
         },
         "title": "It's All Too Much",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/It's All Too Much"
+        },
         "yendor": {
             "album.debut": "Yellow Submarine",
             "duration": 388,
@@ -3030,6 +3363,9 @@
             "year": 1965
         },
         "title": "It's Only Love",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/It's Only Love"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Rubber Soul",
             "duration": 115,
@@ -3091,6 +3427,9 @@
             "year": 1968
         },
         "title": "Julia",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Julia (Beatles song)"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 174,
@@ -3128,7 +3467,14 @@
             "valence": 0.924,
             "year": 1964
         },
+        "other_titles": [
+            "Kansas City/Hey Hey Hey Hey",
+            "Kansas City"
+        ],
         "title": "Kansas City/Hey, Hey, Hey, Hey",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Kansas City (Leiber and Stoller song)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 163,
@@ -3154,7 +3500,13 @@
         }
     },
     {
+        "other_titles": [
+            "Komm, Gib Mir Deine Hand"
+        ],
         "title": "Komm Gib Mir Deine Hand",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Komm, gib mir deine Hand / Sie liebt dich"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Something New",
             "duration": 146,
@@ -3168,6 +3520,9 @@
     },
     {
         "title": "Lady Madonna",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Lady Madonna"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 136,
@@ -3219,6 +3574,9 @@
             "year": 1970
         },
         "title": "Let It Be",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Let It Be (song)"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 243,
@@ -3257,6 +3615,9 @@
             "year": 1963
         },
         "title": "Little Child",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Little Child"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 108,
@@ -3283,6 +3644,9 @@
     },
     {
         "title": "Long Tall Sally",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Long Tall Sally#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: Rock 'n' Roll Music US: The Beatles Second Album",
             "duration": 130,
@@ -3308,6 +3672,9 @@
             "year": 1968
         },
         "title": "Long, Long, Long",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Long, Long, Long"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 184,
@@ -3345,6 +3712,9 @@
             "year": 1963
         },
         "title": "Love Me Do",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Love Me Do"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 142,
@@ -3370,6 +3740,9 @@
             "year": 1966
         },
         "title": "Love You To",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Love You To"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 181,
@@ -3407,6 +3780,9 @@
             "year": 1967
         },
         "title": "Lovely Rita",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Lovely Rita"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 162,
@@ -3445,6 +3821,9 @@
             "year": 1967
         },
         "title": "Lucy in the Sky with Diamonds",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Lucy in the Sky with Diamonds"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 208,
@@ -3482,6 +3861,9 @@
             "year": 1970
         },
         "title": "Maggie Mae",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Maggie May (folk song)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 40,
@@ -3507,6 +3889,9 @@
             "year": 1967
         },
         "title": "Magical Mystery Tour",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Magical Mystery Tour (song)"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 171,
@@ -3560,6 +3945,9 @@
             "year": 1968
         },
         "title": "Martha My Dear",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Martha My Dear"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 148,
@@ -3573,6 +3961,9 @@
     },
     {
         "title": "Matchbox",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Matchbox (song)#The Beatles' rendition"
+        },
         "yendor": {
             "album.debut": "UK: Rock 'n' Roll Music US: Something New",
             "duration": 117,
@@ -3598,6 +3989,9 @@
             "year": 1969
         },
         "title": "Maxwell's Silver Hammer",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Maxwell's Silver Hammer"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 207,
@@ -3622,7 +4016,13 @@
             "valence": 0.97,
             "year": 1969
         },
+        "other_titles": [
+            "Mean Mr Mustard"
+        ],
         "title": "Mean Mr. Mustard",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Mean Mr. Mustard"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 66,
@@ -3661,6 +4061,9 @@
             "year": 1965
         },
         "title": "Michelle",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Michelle (song)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 160,
@@ -3686,6 +4089,9 @@
             "year": 1963
         },
         "title": "Misery",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Misery (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: Rarities",
             "duration": 107,
@@ -3711,6 +4117,9 @@
             "year": 1963
         },
         "title": "Money (That's What I Want)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Money (That's What I Want)#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
             "duration": 167,
@@ -3749,6 +4158,9 @@
             "year": 1968
         },
         "title": "Mother Nature's Son",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Mother Nature's Son"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 168,
@@ -3773,7 +4185,13 @@
             "valence": 0.589,
             "year": 1964
         },
+        "other_titles": [
+            "Mr Moonlight"
+        ],
         "title": "Mr. Moonlight",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Mr. Moonlight (song)#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 155,
@@ -3812,6 +4230,9 @@
             "year": 1964
         },
         "title": "No Reply",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/No Reply (song)"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 135,
@@ -3836,7 +4257,13 @@
             "valence": 0.65,
             "year": 1965
         },
+        "other_titles": [
+            "Norwegan Wood (This Bird Has Flown)"
+        ],
         "title": "Norwegian Wood (This Bird Has Flown)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Norwegian Wood (This Bird Has Flown)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 125,
@@ -3875,6 +4302,9 @@
             "year": 1963
         },
         "title": "Not a Second Time",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Not a Second Time"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 128,
@@ -3913,6 +4343,9 @@
             "year": 1965
         },
         "title": "Nowhere Man",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Nowhere Man (song)"
+        },
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
             "duration": 164,
@@ -3938,6 +4371,9 @@
             "year": 1968
         },
         "title": "Ob-La-Di, Ob-La-Da",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Ob-La-Di, Ob-La-Da"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 187,
@@ -3963,6 +4399,9 @@
             "year": 1969
         },
         "title": "Octopus's Garden",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Octopus's Garden"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 168,
@@ -3987,7 +4426,13 @@
             "valence": 0.549,
             "year": 1969
         },
+        "other_titles": [
+            "Oh Darling"
+        ],
         "title": "Oh! Darling",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Oh! Darling"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 206,
@@ -4001,6 +4446,9 @@
     },
     {
         "title": "Old Brown Shoe",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Old Brown Shoe"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 196,
@@ -4026,6 +4474,9 @@
             "year": 1970
         },
         "title": "One After 909",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/One After 909"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 172,
@@ -4062,6 +4513,9 @@
             "year": 1969
         },
         "title": "Only a Northern Song",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Only a Northern Song"
+        },
         "yendor": {
             "album.debut": "Yellow Submarine",
             "duration": 207,
@@ -4100,6 +4554,9 @@
             "year": 1963
         },
         "title": "P.S. I Love You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/P.S. I Love You (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 126,
@@ -4113,6 +4570,9 @@
     },
     {
         "title": "Paperback Writer",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Paperback Writer"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Hey Jude",
             "duration": 138,
@@ -4138,6 +4598,9 @@
             "year": 1967
         },
         "title": "Penny Lane",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Penny Lane"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 183,
@@ -4193,6 +4656,9 @@
             "year": 1968
         },
         "title": "Piggies",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Piggies"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 124,
@@ -4217,7 +4683,13 @@
             "valence": 0.961,
             "year": 1963
         },
+        "other_titles": [
+            "Please Mister Postman"
+        ],
         "title": "Please Mr. Postman",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Please Mr. Postman#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
             "duration": 156,
@@ -4243,6 +4715,9 @@
             "year": 1963
         },
         "title": "Please Please Me",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Please Please Me (song)"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 120,
@@ -4268,6 +4743,9 @@
             "year": 1969
         },
         "title": "Polythene Pam",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Polythene Pam"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 72,
@@ -4281,6 +4759,9 @@
     },
     {
         "title": "Rain",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Rain (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Hey Jude",
             "duration": 179,
@@ -4307,6 +4788,9 @@
     },
     {
         "title": "Revolution",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Revolution (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 201,
@@ -4332,6 +4816,9 @@
             "year": 1968
         },
         "title": "Revolution 1",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Revolution (Beatles song)#\"Revolution 1\""
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 201,
@@ -4357,6 +4844,9 @@
             "year": 1968
         },
         "title": "Revolution 9",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Revolution 9"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 502,
@@ -4395,6 +4885,9 @@
             "year": 1964
         },
         "title": "Rock and Roll Music",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Rock and Roll Music (song)#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles '65",
             "duration": 150,
@@ -4420,6 +4913,9 @@
             "year": 1968
         },
         "title": "Rocky Raccoon",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Rocky Raccoon"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 213,
@@ -4445,6 +4941,9 @@
             "year": 1963
         },
         "title": "Roll Over Beethoven",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Roll Over Beethoven#The Beatles"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
             "duration": 168,
@@ -4470,6 +4969,9 @@
             "year": 1965
         },
         "title": "Run for Your Life",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Run for Your Life (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 138,
@@ -4495,6 +4997,9 @@
             "year": 1968
         },
         "title": "Savoy Truffle",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Savoy Truffle"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 174,
@@ -4589,7 +5094,13 @@
             "valence": 0.671,
             "year": 1968
         },
+        "other_titles": [
+            "Sexy Sady"
+        ],
         "title": "Sexy Sadie",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Sexy Sadie"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 195,
@@ -4614,7 +5125,13 @@
             "valence": 0.879,
             "year": 1967
         },
+        "other_titles": [
+            "Sgt Pepper's Lonely Hearts Club Band"
+        ],
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Sgt. Pepper's Lonely Hearts Club Band (song)"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 119,
@@ -4627,7 +5144,13 @@
         }
     },
     {
+        "other_titles": [
+            "Sgt Pepper's Lonely Hearts Club Band (reprise)"
+        ],
         "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Sgt. Pepper's Lonely Hearts Club Band (song)#Reprise"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 80,
@@ -4665,6 +5188,9 @@
             "year": 1969
         },
         "title": "She Came in Through the Bathroom Window",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/She Came In Through the Bathroom Window"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 117,
@@ -4678,6 +5204,9 @@
     },
     {
         "title": "She Loves You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/She Loves You"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: The Beatles Second Album",
             "duration": 138,
@@ -4703,6 +5232,9 @@
             "year": 1966
         },
         "title": "She Said She Said",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/She Said She Said"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 157,
@@ -4728,6 +5260,9 @@
             "year": 1967
         },
         "title": "She's Leaving Home",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/She's Leaving Home"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 215,
@@ -4741,6 +5276,9 @@
     },
     {
         "title": "She's a Woman",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/She's a Woman"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Beatles '65",
             "duration": 183,
@@ -4767,6 +5305,9 @@
     },
     {
         "title": "Sie Liebt Dich",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Komm, gib mir deine Hand / Sie liebt dich"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Rarities",
             "duration": 139,
@@ -4780,6 +5321,9 @@
     },
     {
         "title": "Slow Down",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Slow Down (Larry Williams song)#The Beatles rendition"
+        },
         "yendor": {
             "album.debut": "UK: Rock 'n' Roll Music US: Something New",
             "duration": 175,
@@ -4844,6 +5388,9 @@
             "year": 1969
         },
         "title": "Something",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Something (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 179,
@@ -4894,6 +5441,9 @@
             "year": 1967
         },
         "title": "Strawberry Fields Forever",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Strawberry Fields Forever"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 245,
@@ -4919,6 +5469,9 @@
             "year": 1969
         },
         "title": "Sun King",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Sun King (song)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 146,
@@ -4995,6 +5548,9 @@
             "year": 1966
         },
         "title": "Taxman",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Taxman"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 159,
@@ -5033,6 +5589,9 @@
             "year": 1965
         },
         "title": "Tell Me What You See",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Tell Me What You See"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
             "duration": 156,
@@ -5058,6 +5617,9 @@
             "year": 1964
         },
         "title": "Tell Me Why",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Tell Me Why (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 130,
@@ -5071,6 +5633,9 @@
     },
     {
         "title": "Thank You Girl",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Thank You Girl"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: The Beatles Second Album",
             "duration": 121,
@@ -5123,6 +5688,9 @@
     },
     {
         "title": "The Ballad of John and Yoko",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Ballad of John and Yoko"
+        },
         "yendor": {
             "album.debut": "UK: 1967-1970 US: Hey Jude",
             "duration": 179,
@@ -5148,6 +5716,9 @@
             "year": 1968
         },
         "title": "The Continuing Story of Bungalow Bill",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Continuing Story of Bungalow Bill"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 198,
@@ -5173,6 +5744,9 @@
             "year": 1969
         },
         "title": "The End",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The End (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 140,
@@ -5197,7 +5771,13 @@
             "valence": 0.49,
             "year": 1967
         },
+        "other_titles": [
+            "Fool on the Hill"
+        ],
         "title": "The Fool on the Hill",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Fool on the Hill"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 180,
@@ -5224,6 +5804,9 @@
     },
     {
         "title": "The Inner Light",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Inner Light (song)"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Rarities",
             "duration": 156,
@@ -5249,6 +5832,9 @@
             "year": 1970
         },
         "title": "The Long and Winding Road",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Long and Winding Road"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 220,
@@ -5274,6 +5860,9 @@
             "year": 1965
         },
         "title": "The Night Before",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Night Before (song)"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 153,
@@ -5324,6 +5913,9 @@
             "year": 1965
         },
         "title": "The Word",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/The Word (song)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 161,
@@ -5349,6 +5941,9 @@
             "year": 1963
         },
         "title": "There's a Place",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/There's a Place"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: Rarities",
             "duration": 109,
@@ -5374,6 +5969,9 @@
             "year": 1964
         },
         "title": "Things We Said Today",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Things We Said Today"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 158,
@@ -5399,6 +5997,9 @@
             "year": 1965
         },
         "title": "Think for Yourself",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Think for Yourself"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 138,
@@ -5412,6 +6013,9 @@
     },
     {
         "title": "This Boy",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/This Boy"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Meet The Beatles!",
             "duration": 133,
@@ -5450,6 +6054,9 @@
             "year": 1965
         },
         "title": "Ticket to Ride",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Ticket to Ride (song)"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 190,
@@ -5474,7 +6081,13 @@
             "valence": 0.646,
             "year": 1963
         },
+        "other_titles": [
+            "Til there Was You"
+        ],
         "title": "Till There Was You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Till There Was You#The Beatles version"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: Meet The Beatles!",
             "duration": 136,
@@ -5525,6 +6138,9 @@
             "year": 1966
         },
         "title": "Tomorrow Never Knows",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Tomorrow Never Knows"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 178,
@@ -5563,6 +6179,9 @@
             "year": 1963
         },
         "title": "Twist and Shout",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Twist and Shout#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Please Please Me US: The Early Beatles",
             "duration": 125,
@@ -5588,6 +6207,9 @@
             "year": 1970
         },
         "title": "Two of Us",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Two of Us (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Let It Be",
             "duration": 213,
@@ -5613,6 +6235,9 @@
             "year": 1965
         },
         "title": "Wait",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Wait (Beatles song)"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 136,
@@ -5638,6 +6263,9 @@
     },
     {
         "title": "We Can Work It Out",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/We Can Work It Out"
+        },
         "yendor": {
             "album.debut": "UK: A Collection of Beatles Oldies US: Yesterday and Today",
             "duration": 135,
@@ -5663,6 +6291,9 @@
             "year": 1965
         },
         "title": "What Goes On",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/What Goes On (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Rubber Soul US: Yesterday and Today",
             "duration": 170,
@@ -5688,6 +6319,9 @@
             "year": 1964
         },
         "title": "What You're Doing",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/What You're Doing"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 150,
@@ -5726,6 +6360,9 @@
             "year": 1964
         },
         "title": "When I Get Home",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/When I Get Home"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: Something New",
             "duration": 138,
@@ -5751,6 +6388,9 @@
             "year": 1967
         },
         "title": "When I'm Sixty-Four",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/When I'm Sixty-Four"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 157,
@@ -5776,6 +6416,9 @@
             "year": 1968
         },
         "title": "While My Guitar Gently Weeps",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/While My Guitar Gently Weeps"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 286,
@@ -5800,7 +6443,13 @@
             "valence": 0.957,
             "year": 1968
         },
+        "other_titles": [
+            "Why Don't We Do It In the Road"
+        ],
         "title": "Why Don't We Do It in the Road?",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Why Don't We Do It in the Road?"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 102,
@@ -5826,6 +6475,9 @@
             "year": 1968
         },
         "title": "Wild Honey Pie",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Wild Honey Pie"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 52,
@@ -5862,6 +6514,9 @@
             "year": 1967
         },
         "title": "With a Little Help from My Friends",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/With a Little Help from My Friends"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 164,
@@ -5887,6 +6542,9 @@
             "year": 1967
         },
         "title": "Within You Without You",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Within You Without You"
+        },
         "yendor": {
             "album.debut": "Sgt. Pepper's Lonely Hearts Club Band",
             "duration": 305,
@@ -5924,6 +6582,9 @@
             "year": 1964
         },
         "title": "Words of Love",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Words of Love#The Beatles' version"
+        },
         "yendor": {
             "album.debut": "UK: Beatles for Sale US: Beatles VI",
             "duration": 122,
@@ -5949,6 +6610,9 @@
             "year": 1969
         },
         "title": "Yellow Submarine",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Yellow Submarine (song)"
+        },
         "yendor": {
             "album.debut": "Revolver",
             "duration": 158,
@@ -5989,6 +6653,9 @@
             "year": 1968
         },
         "title": "Yer Blues",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Yer Blues"
+        },
         "yendor": {
             "album.debut": "The Beatles",
             "duration": 241,
@@ -6002,6 +6669,9 @@
     },
     {
         "title": "Yes It Is",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Yes It Is"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Beatles VI",
             "duration": 161,
@@ -6027,6 +6697,9 @@
             "year": 1965
         },
         "title": "Yesterday",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Yesterday (Beatles song)"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Yesterday and Today",
             "duration": 123,
@@ -6052,6 +6725,9 @@
             "year": 1964
         },
         "title": "You Can't Do That",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Can't Do That"
+        },
         "yendor": {
             "album.debut": "UK: A Hard Day's Night US: The Beatles Second Album",
             "duration": 157,
@@ -6065,6 +6741,9 @@
     },
     {
         "title": "You Know My Name (Look Up the Number)",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Know My Name (Look Up the Number)"
+        },
         "yendor": {
             "album.debut": "UK: Rarities US: Rarities",
             "duration": 261,
@@ -6103,6 +6782,9 @@
             "year": 1965
         },
         "title": "You Like Me Too Much",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Like Me Too Much"
+        },
         "yendor": {
             "album.debut": "UK: Help! US: Beatles VI",
             "duration": 155,
@@ -6128,6 +6810,9 @@
             "year": 1969
         },
         "title": "You Never Give Me Your Money",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Never Give Me Your Money"
+        },
         "yendor": {
             "album.debut": "Abbey Road",
             "duration": 242,
@@ -6153,6 +6838,9 @@
             "year": 1965
         },
         "title": "You Won't See Me",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Won't See Me"
+        },
         "yendor": {
             "album.debut": "Rubber Soul",
             "duration": 202,
@@ -6191,6 +6879,9 @@
             "year": 1965
         },
         "title": "You're Going to Lose That Girl",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You're Going to Lose That Girl"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 140,
@@ -6216,6 +6907,9 @@
             "year": 1965
         },
         "title": "You've Got to Hide Your Love Away",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You've Got to Hide Your Love Away"
+        },
         "yendor": {
             "album.debut": "Help!",
             "duration": 131,
@@ -6240,7 +6934,13 @@
             "valence": 0.687,
             "year": 1963
         },
+        "other_titles": [
+            "You Really Got a Hold On Me"
+        ],
         "title": "You've Really Got a Hold on Me",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/You Really Got a Hold on Me#The Beatles"
+        },
         "yendor": {
             "album.debut": "UK: With the Beatles US: The Beatles Second Album",
             "duration": 182,
@@ -6279,6 +6979,9 @@
             "year": 1967
         },
         "title": "Your Mother Should Know",
+        "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/Your Mother Should Know"
+        },
         "yendor": {
             "album.debut": "Magical Mystery Tour",
             "duration": 149,
