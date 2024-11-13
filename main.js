@@ -7,7 +7,8 @@ const tooltip = d3.select("body")
         .style("opacity", 0);
 
 async function main() {
-    const songs = await d3.json("beatles_songs.json");
+    const songs = (await d3.json("beatles_songs.json"))
+        .filter(song => song.yendor !== undefined);
 
     // Declare the chart dimensions and margins.
     const width = 640;
@@ -17,22 +18,23 @@ async function main() {
     const marginBottom = 30;
     const marginLeft = 40;
 
-    function graph(id, title, songs, verticalMax, fn) {
+    function graph(id, title, songs, fn) {
         // Declare the x (horizontal position) scale.
-        const x = d3.scaleUtc()
-            .domain([new Date("1957-01-01"), new Date("1970-12-31")])
+        const x = d3.scaleLinear()
+            .domain([1957, 1970])
             .range([marginLeft, width - marginRight]);
 
         // Declare the y (vertical position) scale.
         const y = d3.scaleLinear()
-            .domain([0, verticalMax])
+            .domain([0, d3.max(songs, fn)])
             .range([height - marginBottom, marginTop]);
 
         // Find or create the SVG container.
-        let g = d3.select("#" + id);
-        if (g.empty()) {
-            const svg = d3.select("body")
+        let svg = d3.select("#" + id);
+        if (svg.empty()) {
+            svg = d3.select("body")
                 .append("svg")
+                    .attr("id", id)
                     .attr("width", width)
                     .attr("height", height);
 
@@ -46,26 +48,37 @@ async function main() {
             // Add the x-axis.
             svg.append("g")
                 .attr("transform", `translate(0,${height - marginBottom})`)
+                .attr("class", "x-axis")
                 .call(d3.axisBottom(x));
 
             // Add the y-axis.
             svg.append("g")
                 .attr("transform", `translate(${marginLeft},0)`)
+                .attr("class", "y-axis")
                 .call(d3.axisLeft(y));
 
+            // Line for mean.
+            svg.append("path")
+                .attr("class", "mean-line")
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .style("opacity", 0.3);
+
             // Add the graphed data.
-            g = svg.append("g")
-              .attr("stroke", "steelblue")
-              .attr("stroke-width", 1.5)
-              .attr("fill", "transparent")
-              .attr("id", id);
+            svg.append("g")
+                .attr("class", "data-points")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 1.5)
+                .attr("fill", "transparent");
         }
 
-        g.selectAll("circle")
-            .data(songs.filter(song => song.yendor !== undefined), song => song.title)
+        svg.select(".data-points")
+            .selectAll("circle")
+            .data(songs, song => song.title)
             .join(
                 enter => enter.append("circle")
-                            .attr("cx", song => x(new Date((song.yendor.year).toString())))
+                            .attr("cx", song => x(song.yendor.year))
                             .attr("cy", song => y(fn(song)))
                             .on("mouseover", function(e, song) {
                                 d3.select(this).transition()
@@ -93,53 +106,59 @@ async function main() {
                             .transition()
                             .attr("r", 0)
                             .remove());
+
+        // Map from year to { mean, stdev } object.
+        const stats = d3.rollups(songs,
+                                 d => ({ mean: d3.mean(d, fn), stddev: d3.deviation(d, fn) }),
+                                 d => d.yendor.year)
+                                 .map(d => ({ year: d[0], mean: d[1].mean, stddev: d[1].stddev }))
+                                 .sort((a, b) => a.year - b.year);
+
+        svg.select(".mean-line")
+            .data([stats])
+            .transition()
+            .attr("d", d3.line()
+                .x(d => x(d.year))
+                .y(d => y(d.mean)));
     }
 
     function refresh(doFiltering) {
         let filteredSongs = songs;
         if (doFiltering) {
-            filteredSongs = filteredSongs.filter(song => song.yendor?.songwriter === "Lennon");
+            filteredSongs = filteredSongs.filter(song => song.yendor.songwriter === "Lennon");
         }
 
         graph("duration",
               "Duration (Minutes)",
-              filteredSongs.filter(song => song.yendor !== undefined),
-              600,
+              filteredSongs,
               song => song.yendor.duration);
         graph("top50",
               "Top 50 Billboard",
-              filteredSongs.filter(song => song.yendor !== undefined && song.yendor["top.50.billboard"] !== -1),
-              60,
+              filteredSongs.filter(song => song.yendor["top.50.billboard"] !== -1),
               song => song.yendor["top.50.billboard"]);
         graph("acousticness",
               "Acousticness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.acousticness);
         graph("danceability",
               "Danceability",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.danceability);
         graph("energy",
               "Energy",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.energy);
         graph("liveness",
               "Liveness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.liveness);
         graph("speechiness",
               "Speechiness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.speechiness);
         graph("valence",
               "Valence",
               filteredSongs.filter(song => song.chadwambles !== undefined),
-              1,
               song => song.chadwambles.valence);
     }
 
