@@ -1,3 +1,20 @@
+# Known bugs/issues:
+#   - Many song lyrics have attribution at the beginning and there is not a
+#     reliable way to get ride of those attributions, as far as I can tell.
+#     e.g. the lyrics.ovh result for "Oh Bonnie" begins with "
+#     (Traditional, arranged by Tony Sheridan)". Most attributions are in
+#     parentheses but we can't use parens as a hard rule for what to strip,
+#     because some songs start with backing vocals that are sometimes put in
+#     parens in lyrics (see "Magical Mystery Tour", e.g.")
+#   - Some of the songs that are instrumentals correctly have an empty string
+#     for the lyrics, while others say something like "Instrumental arranged
+#     by George Martin" or something.
+#   - "Songs that will be processed" output at the beginning of script run
+#      does not take into account the recently added REFETCH_PREVIOUS_404S
+#      flag. If REFETCH_PREVIOUS_404S = False then the output gives a number
+#      which may be spuriously high (e.g. it might say 20 instead of 0).
+
+
 import json
 import requests
 import time
