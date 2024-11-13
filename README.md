@@ -23,3 +23,4 @@ Beatles songs database.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
 - `pannell`: Data we pulled from David J. Pannell (2023). _Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970_, Journal of Beatles Studies volume 2.
 - `chadwambles`: Data we pull from [Chad Wambles's dataset](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster) (`TheBeatlesCleaned.csv`).
+- `wikipedia`: Links to Wikipedia entries for the song, scraped from [this index page](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles).
