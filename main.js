@@ -117,11 +117,12 @@ async function main() {
               filteredSongs.filter(song => song.chadwambles !== undefined),
               1,
               song => song.chadwambles.valence);
-
-        setTimeout(() => refresh(!doFiltering), 2000);
     }
 
     refresh(false);
+
+    const lennonOnlyCheckbox = d3.select("#lennonOnly");
+    lennonOnlyCheckbox.on("change", () => refresh(lennonOnlyCheckbox.property("checked")));
 }
 
 main();
