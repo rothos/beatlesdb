@@ -108,14 +108,16 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
     def __init__(self):
         super().__init__("beatleslyrics.org")
         self.base_url = "https://www.beatleslyrics.org/index_files/"
+        self.main_content = None
 
     async def fetch_lyrics(self, session, title):
         try:
-            main_content = await self._fetch_page(session, self.base_url + "Page13763.htm")
-            if not main_content:
-                return {'status': 'error', 'error': 'Failed to fetch main page'}
+            if not self.main_content:
+                self.main_content = await self._fetch_page(session, self.base_url + "Page13763.htm")
+                if not self.main_content:
+                    return {'status': 'error', 'error': 'Failed to fetch main page'}
 
-            links = self._extract_links(main_content)
+            links = self._extract_links(self.main_content)
             song_link = self._find_matching_link(links, title)
             
             if not song_link:
@@ -147,11 +149,6 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
                 except UnicodeDecodeError:
                     return content.decode('utf-8', errors='ignore')
             return None
-
-        # async with session.get(url, headers=headers) as response:
-        #     if response.status == 200:
-        #         return await response.text()
-        #     return None
 
     def _extract_links(self, content):
         soup = BeautifulSoup('\n'.join(content.splitlines()[1000:]), 'html.parser')
@@ -190,7 +187,7 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
         
         page_title = spans[0].get_text(strip=True)
         if slugify(page_title) != slugify(title):
-            return {'status': 'error', 'error': 'Page title does not match expected title'}
+            return {'status': 'error', 'error': f"Page title does not match expected title: ({slugify(page_title)}) vs ({slugify(title)})"}
         
         writer_credit = spans[1].get_text(strip=True)
         if not (writer_credit.startswith('(') and writer_credit.endswith(')')):
@@ -276,7 +273,7 @@ async def fetch_from_api(session, api, song_data):
                     alt_result['alternate_name_used'] = alt_name
                     return alt_result
                 await asyncio.sleep(0.1)  # Small delay between attempts
-            
+        
         return result
     except Exception as e:
         return {'status': 'error', 'error': str(e)}
@@ -409,8 +406,8 @@ async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch
 
 if __name__ == "__main__":
     APIs = [
-        LyricsOvhAPI(),
-        ChartLyricsAPI(),
+        # LyricsOvhAPI(),
+        # ChartLyricsAPI(),
         BeatlesLyricsOrgAPI()
     ]
 
