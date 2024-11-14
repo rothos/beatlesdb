@@ -2,6 +2,8 @@ import asyncio
 import aiohttp
 import json
 import re
+import html
+import unicodedata
 import string
 import shutil
 import chardet
@@ -226,13 +228,43 @@ def slugify(text):
     text = re.sub(r'[^\w\s-]', '', text)
     return re.sub(r'[-\s]+', '-', text).strip('-')
 
-def normalize_lyrics(lyrics):
-    """Normalize song lyrics by cleaning whitespace and line endings"""
-    if not lyrics:
+def normalize_lyrics(text):
+    """Sanitizes text by removing or replacing unwanted characters and normalizing whitespace."""
+    if not text:
         return ""
-    lines = lyrics.split('\n')
-    cleaned_lines = [line.strip() for line in lines]
-    return '\n'.join(line for line in cleaned_lines if line)
+
+    text = str(text) # Convert to string if not already
+    text = html.unescape(text) # Decode HTML entities
+
+    # Normalize multiple newlines to maximum of two
+    text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
+    
+    # Split into lines
+    lines = text.split('\n')
+
+    cleaned_lines = []
+    for line in lines:
+        # Strip whitespace
+        new_line = line.strip()
+
+        # Replace smart quotes with regular quotes
+        new_line = new_line.replace('“', '"').replace('”', '"')
+        new_line = new_line.replace('‘', "'").replace('’', "'")
+        
+        new_line = unicodedata.normalize('NFKD', new_line) # Normalize unicode characters
+
+        # Remove control characters except newline
+        new_line = ''.join(ch for ch in new_line if unicodedata.category(ch)[0] != "C")
+
+        # Replace multiple whitespace with single space
+        new_line = re.sub(r'[ \t]+', ' ', new_line)
+        
+        # Remove non-ASCII characters but keep basic punctuation
+        new_line = re.sub(r'[^\x20-\x7E\u2018\u2019\u201C\u201D]', '', new_line)
+
+        cleaned_lines += [new_line]
+
+    return "\n".join(cleaned_lines)
 
 def backup_lyrics_file():
     """Backup lyrics.json if it exists and is not empty"""
@@ -406,7 +438,9 @@ async def main(apis: Optional[list] = None,
             if api_call_made:
                 processed_count += 1
                 
-                if processed_count % 5 == 0:
+                # Save every N songs
+                N = 1
+                if processed_count % N == 0:
                     updated_lyrics_array = list(existing_lyrics.values())
                     with open('lyrics.json', 'w', encoding='utf-8') as file:
                         json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
@@ -431,13 +465,13 @@ async def main(apis: Optional[list] = None,
 
 if __name__ == "__main__":
     APIs = [
-        # LyricsOvhAPI(),
-        # ChartLyricsAPI(),
+        LyricsOvhAPI(),
+        ChartLyricsAPI(),
         BeatlesLyricsOrgAPI()
     ]
 
     LIMIT = None
     REFETCH_PREVIOUS_404s = False
-    START_AT = "Kom" # Will skip all song titles alphebetically prior
+    START_AT = "" # Will skip all song titles alphebetically prior
 
     asyncio.run(main(APIs, LIMIT, REFETCH_PREVIOUS_404s, START_AT))
