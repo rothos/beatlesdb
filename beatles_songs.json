@@ -2756,7 +2756,10 @@
             "title": "I Want to Hold Your Hand",
             "top.50.billboard": 2,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "I Wanna Hold Your Hand"
+        ]
     },
     {
         "chadwambles": {
@@ -4136,7 +4139,10 @@
             "title": "Money (That's What I Want)",
             "top.50.billboard": -1,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "Money"
+        ]
     },
     {
         "title": "Moonlight Bay",
@@ -4265,7 +4271,8 @@
             "year": 1965
         },
         "other_titles": [
-            "Norwegan Wood (This Bird Has Flown)"
+            "Norwegan Wood (This Bird Has Flown)",
+            "Norwegian Wood"
         ],
         "title": "Norwegian Wood (This Bird Has Flown)",
         "wikipedia": {
@@ -4807,7 +4814,10 @@
             "title": "Revolution",
             "top.50.billboard": 32,
             "year": 1968
-        }
+        },
+        "other_titles": [
+            "Revolution 1/Revolution"
+        ]
     },
     {
         "chadwambles": {
