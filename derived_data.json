@@ -1,0 +1,2214 @@
+[
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "12-Bar Original",
+        "title_sentiment": 0.3182
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9595,
+        "lyrics_sentiment_chartlyrics.com": 0.9595,
+        "lyrics_sentiment_lyrics.ovh": 0.9398,
+        "title": "A Day in the Life",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9809,
+        "lyrics_sentiment_chartlyrics.com": 0.9577,
+        "lyrics_sentiment_lyrics.ovh": 0.9717,
+        "title": "A Hard Day's Night",
+        "title_sentiment": -0.1027
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9948,
+        "lyrics_sentiment_lyrics.ovh": 0.9948,
+        "title": "A Shot of Rhythm and Blues",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9001,
+        "lyrics_sentiment_chartlyrics.com": 0.9517,
+        "lyrics_sentiment_lyrics.ovh": 0.9001,
+        "title": "A Taste of Honey",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9313,
+        "lyrics_sentiment_chartlyrics.com": 0.9313,
+        "lyrics_sentiment_lyrics.ovh": 0.9313,
+        "title": "Across the Universe",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9634,
+        "lyrics_sentiment_chartlyrics.com": 0.9634,
+        "lyrics_sentiment_lyrics.ovh": 0.3188,
+        "title": "Act Naturally",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9642,
+        "lyrics_sentiment_lyrics.ovh": -0.8999,
+        "title": "Ain't She Sweet",
+        "title_sentiment": -0.357
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9623,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9747,
+        "title": "All I've Got to Do",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9888,
+        "lyrics_sentiment_chartlyrics.com": 0.9971,
+        "lyrics_sentiment_lyrics.ovh": 0.9971,
+        "title": "All My Loving",
+        "title_sentiment": 0.5994
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.6643,
+        "lyrics_sentiment_lyrics.ovh": 0.8904,
+        "title": "All Things Must Pass",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9652,
+        "lyrics_sentiment_chartlyrics.com": 0.9638,
+        "lyrics_sentiment_lyrics.ovh": 0.9663,
+        "title": "All Together Now",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9995,
+        "lyrics_sentiment_chartlyrics.com": 0.9998,
+        "lyrics_sentiment_lyrics.ovh": 0.9996,
+        "title": "All You Need Is Love",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.997,
+        "lyrics_sentiment_chartlyrics.com": 0.997,
+        "lyrics_sentiment_lyrics.ovh": 0.9953,
+        "title": "And I Love Her",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.1531,
+        "lyrics_sentiment_chartlyrics.com": 0.1531,
+        "lyrics_sentiment_lyrics.ovh": 0.1531,
+        "title": "And Your Bird Can Sing",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9843,
+        "lyrics_sentiment_chartlyrics.com": 0.9935,
+        "lyrics_sentiment_lyrics.ovh": 0.9934,
+        "title": "Anna (Go to Him)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9877,
+        "lyrics_sentiment_chartlyrics.com": 0.9928,
+        "lyrics_sentiment_lyrics.ovh": 0.9887,
+        "title": "Another Girl",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.25,
+        "lyrics_sentiment_chartlyrics.com": -0.25,
+        "lyrics_sentiment_lyrics.ovh": -0.25,
+        "title": "Any Time at All",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9831,
+        "lyrics_sentiment_chartlyrics.com": 0.9855,
+        "lyrics_sentiment_lyrics.ovh": 0.9831,
+        "title": "Ask Me Why",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.784,
+        "lyrics_sentiment_chartlyrics.com": 0.0005,
+        "lyrics_sentiment_lyrics.ovh": -0.2335,
+        "title": "Baby It's You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8823,
+        "lyrics_sentiment_chartlyrics.com": 0.8702,
+        "lyrics_sentiment_lyrics.ovh": 0.8823,
+        "title": "Baby's in Black",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9964,
+        "lyrics_sentiment_chartlyrics.com": 0.9975,
+        "lyrics_sentiment_lyrics.ovh": 0.9891,
+        "title": "Baby, You're a Rich Man",
+        "title_sentiment": 0.5574
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7319,
+        "lyrics_sentiment_chartlyrics.com": -0.5897,
+        "lyrics_sentiment_lyrics.ovh": 0.9614,
+        "title": "Back in the U.S.S.R.",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.3441,
+        "lyrics_sentiment_chartlyrics.com": 0.0107,
+        "lyrics_sentiment_lyrics.ovh": 0.3441,
+        "title": "Bad Boy",
+        "title_sentiment": -0.5423
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9932,
+        "lyrics_sentiment_lyrics.ovh": -0.9812,
+        "title": "Bad to Me",
+        "title_sentiment": -0.5423
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Beautiful Dreamer",
+        "title_sentiment": 0.5994
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9403,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9403,
+        "title": "Because",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Because I Know You Love Me So",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9217,
+        "lyrics_sentiment_chartlyrics.com": 0.9334,
+        "lyrics_sentiment_lyrics.ovh": 0.9368,
+        "title": "Being for the Benefit of Mr. Kite!",
+        "title_sentiment": 0.5093
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9945,
+        "lyrics_sentiment_chartlyrics.com": 0.9964,
+        "lyrics_sentiment_lyrics.ovh": 0.9939,
+        "title": "Birthday",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9501,
+        "lyrics_sentiment_chartlyrics.com": -0.9501,
+        "lyrics_sentiment_lyrics.ovh": -0.9501,
+        "title": "Blackbird",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8933,
+        "lyrics_sentiment_chartlyrics.com": 0.9889,
+        "lyrics_sentiment_lyrics.ovh": 0.9533,
+        "title": "Blue Jay Way",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9902,
+        "lyrics_sentiment_chartlyrics.com": 0.9889,
+        "lyrics_sentiment_lyrics.ovh": 0.9647,
+        "title": "Boys",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9983,
+        "lyrics_sentiment_lyrics.ovh": 0.9983,
+        "title": "Bésame Mucho",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9977,
+        "lyrics_sentiment_chartlyrics.com": -0.9976,
+        "lyrics_sentiment_lyrics.ovh": -0.9888,
+        "title": "Can't Buy Me Love",
+        "title_sentiment": -0.5216
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9908,
+        "lyrics_sentiment_lyrics.ovh": 0.9886,
+        "title": "Carol",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.0,
+        "lyrics_sentiment_lyrics.ovh": 0.0,
+        "title": "Carry That Weight",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Catswalk",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Cayenne",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9841,
+        "lyrics_sentiment_chartlyrics.com": 0.9954,
+        "lyrics_sentiment_lyrics.ovh": 0.9922,
+        "title": "Chains",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9697,
+        "lyrics_sentiment_lyrics.ovh": 0.9697,
+        "title": "Child of Nature",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9879,
+        "lyrics_sentiment_lyrics.ovh": 0.9885,
+        "title": "Christmas Time (Is Here Again)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9042,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Circles",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9779,
+        "lyrics_sentiment_lyrics.ovh": 0.9849,
+        "title": "Clarabella",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.1113,
+        "lyrics_sentiment_chartlyrics.com": 0.9688,
+        "lyrics_sentiment_lyrics.ovh": 0.1861,
+        "title": "Come Together",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9755,
+        "title": "Come and Get It",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.995,
+        "lyrics_sentiment_chartlyrics.com": -0.9922,
+        "lyrics_sentiment_lyrics.ovh": -0.995,
+        "title": "Cry Baby Cry",
+        "title_sentiment": -0.7351
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Cry for a Shadow",
+        "title_sentiment": -0.4767
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9625,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Crying, Waiting, Hoping",
+        "title_sentiment": -0.0772
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9712,
+        "lyrics_sentiment_chartlyrics.com": 0.9712,
+        "lyrics_sentiment_lyrics.ovh": 0.9712,
+        "title": "Day Tripper",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9955,
+        "lyrics_sentiment_chartlyrics.com": 0.9955,
+        "lyrics_sentiment_lyrics.ovh": 0.9955,
+        "title": "Dear Prudence",
+        "title_sentiment": 0.3818
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9943,
+        "lyrics_sentiment_chartlyrics.com": -0.9951,
+        "lyrics_sentiment_lyrics.ovh": -0.9609,
+        "title": "Devil in Her Heart",
+        "title_sentiment": -0.6597
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8402,
+        "lyrics_sentiment_chartlyrics.com": 0.8402,
+        "lyrics_sentiment_lyrics.ovh": 0.8402,
+        "title": "Dig It",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9913,
+        "lyrics_sentiment_chartlyrics.com": 0.9903,
+        "lyrics_sentiment_lyrics.ovh": 0.9909,
+        "title": "Dig a Pony",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8345,
+        "lyrics_sentiment_chartlyrics.com": 0.8208,
+        "lyrics_sentiment_lyrics.ovh": 0.8159,
+        "title": "Dizzy Miss Lizzy",
+        "title_sentiment": -0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9838,
+        "lyrics_sentiment_chartlyrics.com": 0.9838,
+        "lyrics_sentiment_lyrics.ovh": 0.9838,
+        "title": "Do You Want to Know a Secret?",
+        "title_sentiment": 0.0772
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.994,
+        "lyrics_sentiment_chartlyrics.com": 0.9944,
+        "lyrics_sentiment_lyrics.ovh": 0.9882,
+        "title": "Doctor Robert",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.6064,
+        "lyrics_sentiment_chartlyrics.com": -0.3979,
+        "lyrics_sentiment_lyrics.ovh": 0.4388,
+        "title": "Don't Bother Me",
+        "title_sentiment": 0.2584
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9947,
+        "lyrics_sentiment_lyrics.ovh": 0.9937,
+        "title": "Don't Ever Change",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9876,
+        "lyrics_sentiment_chartlyrics.com": 0.9876,
+        "lyrics_sentiment_lyrics.ovh": 0.9858,
+        "title": "Don't Let Me Down",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9586,
+        "lyrics_sentiment_chartlyrics.com": -0.7296,
+        "lyrics_sentiment_lyrics.ovh": -0.8919,
+        "title": "Don't Pass Me By",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9956,
+        "lyrics_sentiment_chartlyrics.com": 0.9961,
+        "lyrics_sentiment_lyrics.ovh": 0.9951,
+        "title": "Drive My Car",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9994,
+        "lyrics_sentiment_chartlyrics.com": 0.9993,
+        "lyrics_sentiment_lyrics.ovh": 0.9965,
+        "title": "Eight Days a Week",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9737,
+        "lyrics_sentiment_chartlyrics.com": -0.9851,
+        "lyrics_sentiment_lyrics.ovh": -0.9863,
+        "title": "Eleanor Rigby",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Etcetera",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9894,
+        "lyrics_sentiment_chartlyrics.com": 0.9931,
+        "lyrics_sentiment_lyrics.ovh": 0.9872,
+        "title": "Every Little Thing",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9947,
+        "lyrics_sentiment_chartlyrics.com": 0.996,
+        "lyrics_sentiment_lyrics.ovh": 0.9949,
+        "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+        "title_sentiment": -0.1779
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.4939,
+        "lyrics_sentiment_chartlyrics.com": 0.6486,
+        "lyrics_sentiment_lyrics.ovh": 0.2732,
+        "title": "Everybody's Trying to Be My Baby",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Fancy My Chances with You",
+        "title_sentiment": 0.2023
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9507,
+        "lyrics_sentiment_chartlyrics.com": -0.955,
+        "lyrics_sentiment_lyrics.ovh": -0.896,
+        "title": "Fixing a Hole",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Flying",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8972,
+        "lyrics_sentiment_chartlyrics.com": 0.8972,
+        "lyrics_sentiment_lyrics.ovh": 0.2465,
+        "title": "For No One",
+        "title_sentiment": -0.296
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9962,
+        "lyrics_sentiment_chartlyrics.com": 0.9894,
+        "lyrics_sentiment_lyrics.ovh": 0.9869,
+        "title": "For You Blue",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9939,
+        "lyrics_sentiment_lyrics.ovh": 0.9941,
+        "title": "Free as a Bird",
+        "title_sentiment": 0.5106
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9882,
+        "title": "From Me to You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.6705,
+        "lyrics_sentiment_lyrics.ovh": 0.6705,
+        "title": "From Us to You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.5187,
+        "lyrics_sentiment_chartlyrics.com": 0.743,
+        "lyrics_sentiment_lyrics.ovh": 0.5187,
+        "title": "Get Back",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9933,
+        "lyrics_sentiment_chartlyrics.com": 0.9975,
+        "lyrics_sentiment_lyrics.ovh": 0.9959,
+        "title": "Getting Better",
+        "title_sentiment": 0.4404
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.1386,
+        "lyrics_sentiment_chartlyrics.com": 0.2714,
+        "lyrics_sentiment_lyrics.ovh": 0.9465,
+        "title": "Girl",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9977,
+        "lyrics_sentiment_lyrics.ovh": 0.9974,
+        "title": "Glad All Over",
+        "title_sentiment": 0.4588
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.607,
+        "lyrics_sentiment_chartlyrics.com": 0.5938,
+        "lyrics_sentiment_lyrics.ovh": -0.7385,
+        "title": "Glass Onion",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9845,
+        "lyrics_sentiment_lyrics.ovh": 0.9691,
+        "title": "Golden Slumbers",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9989,
+        "lyrics_sentiment_chartlyrics.com": 0.9991,
+        "lyrics_sentiment_lyrics.ovh": 0.9913,
+        "title": "Good Day Sunshine",
+        "title_sentiment": 0.7269
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9934,
+        "lyrics_sentiment_chartlyrics.com": 0.9988,
+        "lyrics_sentiment_lyrics.ovh": 0.9935,
+        "title": "Good Morning, Good Morning",
+        "title_sentiment": 0.7003
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9969,
+        "lyrics_sentiment_chartlyrics.com": 0.9974,
+        "lyrics_sentiment_lyrics.ovh": 0.9967,
+        "title": "Good Night",
+        "title_sentiment": 0.4404
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9781,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Goodbye",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.3628,
+        "lyrics_sentiment_chartlyrics.com": 0.2705,
+        "lyrics_sentiment_lyrics.ovh": 0.3711,
+        "title": "Got to Get You into My Life",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9936,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Hallelujah, I Love Her So",
+        "title_sentiment": 0.8481
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9873,
+        "lyrics_sentiment_chartlyrics.com": 0.9728,
+        "lyrics_sentiment_lyrics.ovh": 0.9626,
+        "title": "Happiness Is a Warm Gun",
+        "title_sentiment": 0.4767
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Heather",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9871,
+        "lyrics_sentiment_lyrics.ovh": 0.9871,
+        "title": "Hello Little Girl",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.8834,
+        "lyrics_sentiment_chartlyrics.com": -0.8433,
+        "lyrics_sentiment_lyrics.ovh": -0.952,
+        "title": "Hello, Goodbye",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9581,
+        "lyrics_sentiment_chartlyrics.com": -0.4938,
+        "lyrics_sentiment_lyrics.ovh": 0.992,
+        "title": "Help!",
+        "title_sentiment": 0.4574
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9869,
+        "lyrics_sentiment_chartlyrics.com": 0.9964,
+        "lyrics_sentiment_lyrics.ovh": 0.9941,
+        "title": "Helter Skelter",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9828,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Her Majesty",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9841,
+        "lyrics_sentiment_chartlyrics.com": 0.9841,
+        "lyrics_sentiment_lyrics.ovh": 0.9841,
+        "title": "Here Comes the Sun",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9948,
+        "lyrics_sentiment_chartlyrics.com": 0.9948,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Here, There and Everywhere",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.5269,
+        "lyrics_sentiment_chartlyrics.com": -0.3167,
+        "lyrics_sentiment_lyrics.ovh": 0.4805,
+        "title": "Hey Bulldog",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9877,
+        "lyrics_sentiment_chartlyrics.com": 0.9831,
+        "lyrics_sentiment_lyrics.ovh": 0.981,
+        "title": "Hey Jude",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.8779,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Hippy Hippy Shake",
+        "title_sentiment": -0.1779
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9547,
+        "lyrics_sentiment_chartlyrics.com": 0.9699,
+        "lyrics_sentiment_lyrics.ovh": 0.9461,
+        "title": "Hold Me Tight",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9856,
+        "lyrics_sentiment_chartlyrics.com": 0.9882,
+        "lyrics_sentiment_lyrics.ovh": 0.9893,
+        "title": "Honey Don't",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.8237,
+        "lyrics_sentiment_chartlyrics.com": 0.5821,
+        "lyrics_sentiment_lyrics.ovh": -0.9322,
+        "title": "Honey Pie",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9638,
+        "title": "How Do You Do It?",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9382,
+        "lyrics_sentiment_chartlyrics.com": -0.9709,
+        "lyrics_sentiment_lyrics.ovh": -0.9559,
+        "title": "I Am the Walrus",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7805,
+        "lyrics_sentiment_chartlyrics.com": 0.5454,
+        "lyrics_sentiment_lyrics.ovh": -0.1222,
+        "title": "I Call Your Name",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.773,
+        "lyrics_sentiment_chartlyrics.com": 0.773,
+        "lyrics_sentiment_lyrics.ovh": 0.773,
+        "title": "I Don't Want to Spoil the Party",
+        "title_sentiment": 0.3565
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9948,
+        "lyrics_sentiment_chartlyrics.com": 0.9958,
+        "lyrics_sentiment_lyrics.ovh": 0.9934,
+        "title": "I Feel Fine",
+        "title_sentiment": 0.2023
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.845,
+        "lyrics_sentiment_lyrics.ovh": -0.845,
+        "title": "I Forgot to Remember to Forget",
+        "title_sentiment": -0.2263
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9981,
+        "lyrics_sentiment_lyrics.ovh": 0.9977,
+        "title": "I Got a Woman",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9825,
+        "lyrics_sentiment_lyrics.ovh": 0.989,
+        "title": "I Got to Find My Baby",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9864,
+        "title": "I Just Don't Understand",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "I Lost My Little Girl",
+        "title_sentiment": -0.3182
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.3847,
+        "lyrics_sentiment_chartlyrics.com": -0.3847,
+        "lyrics_sentiment_lyrics.ovh": 0.1989,
+        "title": "I Me Mine",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.5683,
+        "lyrics_sentiment_chartlyrics.com": -0.5683,
+        "lyrics_sentiment_lyrics.ovh": -0.3031,
+        "title": "I Need You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9786,
+        "lyrics_sentiment_chartlyrics.com": 0.9786,
+        "lyrics_sentiment_lyrics.ovh": 0.9792,
+        "title": "I Saw Her Standing There",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9932,
+        "lyrics_sentiment_chartlyrics.com": 0.9948,
+        "lyrics_sentiment_lyrics.ovh": 0.9877,
+        "title": "I Should Have Known Better",
+        "title_sentiment": 0.4404
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.995,
+        "lyrics_sentiment_chartlyrics.com": 0.9956,
+        "lyrics_sentiment_lyrics.ovh": 0.8625,
+        "title": "I Wanna Be Your Man",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9971,
+        "lyrics_sentiment_chartlyrics.com": -0.9984,
+        "lyrics_sentiment_lyrics.ovh": -0.9972,
+        "title": "I Want You (She's So Heavy)",
+        "title_sentiment": 0.0772
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9962,
+        "lyrics_sentiment_chartlyrics.com": 0.9966,
+        "lyrics_sentiment_lyrics.ovh": 0.9967,
+        "title": "I Want to Hold Your Hand",
+        "title_sentiment": 0.5423
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.3716,
+        "lyrics_sentiment_chartlyrics.com": 0.2617,
+        "lyrics_sentiment_lyrics.ovh": 0.1531,
+        "title": "I Want to Tell You",
+        "title_sentiment": 0.0772
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9877,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9877,
+        "title": "I Will",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8844,
+        "lyrics_sentiment_chartlyrics.com": 0.7575,
+        "lyrics_sentiment_lyrics.ovh": 0.7222,
+        "title": "I'll Be Back",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.915,
+        "title": "I'll Be on My Way",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9539,
+        "lyrics_sentiment_chartlyrics.com": 0.8786,
+        "lyrics_sentiment_lyrics.ovh": 0.9648,
+        "title": "I'll Cry Instead",
+        "title_sentiment": -0.4767
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9512,
+        "lyrics_sentiment_chartlyrics.com": 0.9625,
+        "lyrics_sentiment_lyrics.ovh": 0.9103,
+        "title": "I'll Follow the Sun",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9962,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9918,
+        "title": "I'll Get You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "I'll Keep You Satisfied",
+        "title_sentiment": 0.4215
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9873,
+        "lyrics_sentiment_lyrics.ovh": 0.9663,
+        "title": "I'm Down",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9371,
+        "lyrics_sentiment_lyrics.ovh": -0.9001,
+        "title": "I'm Gonna Sit Right Down and Cry (Over You)",
+        "title_sentiment": -0.4767
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9952,
+        "lyrics_sentiment_chartlyrics.com": 0.9953,
+        "lyrics_sentiment_lyrics.ovh": 0.9915,
+        "title": "I'm Happy Just to Dance with You",
+        "title_sentiment": 0.5719
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.998,
+        "title": "I'm In Love",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7263,
+        "lyrics_sentiment_chartlyrics.com": -0.7553,
+        "lyrics_sentiment_lyrics.ovh": -0.8138,
+        "title": "I'm Looking Through You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8829,
+        "lyrics_sentiment_chartlyrics.com": 0.8904,
+        "lyrics_sentiment_lyrics.ovh": 0.6162,
+        "title": "I'm Only Sleeping",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.992,
+        "lyrics_sentiment_chartlyrics.com": -0.9874,
+        "lyrics_sentiment_lyrics.ovh": -0.9879,
+        "title": "I'm So Tired",
+        "title_sentiment": -0.4927
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9801,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "I'm Talking About You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.6486,
+        "lyrics_sentiment_chartlyrics.com": -0.6486,
+        "lyrics_sentiment_lyrics.ovh": 0.9169,
+        "title": "I'm a Loser",
+        "title_sentiment": -0.5267
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9965,
+        "lyrics_sentiment_chartlyrics.com": 0.9973,
+        "lyrics_sentiment_lyrics.ovh": 0.9905,
+        "title": "I've Got a Feeling",
+        "title_sentiment": 0.128
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.0511,
+        "lyrics_sentiment_chartlyrics.com": 0.6251,
+        "lyrics_sentiment_lyrics.ovh": 0.2445,
+        "title": "I've Just Seen a Face",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9968,
+        "lyrics_sentiment_chartlyrics.com": 0.9968,
+        "lyrics_sentiment_lyrics.ovh": 0.9968,
+        "title": "If I Fell",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9651,
+        "lyrics_sentiment_chartlyrics.com": 0.9651,
+        "lyrics_sentiment_lyrics.ovh": 0.8859,
+        "title": "If I Needed Someone",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9733,
+        "lyrics_sentiment_lyrics.ovh": -0.8385,
+        "title": "If You've Got Trouble",
+        "title_sentiment": -0.4019
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9173,
+        "lyrics_sentiment_chartlyrics.com": 0.9173,
+        "lyrics_sentiment_lyrics.ovh": 0.9173,
+        "title": "In My Life",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": -0.4215,
+        "title": "In Spite of All the Danger",
+        "title_sentiment": -0.7783
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9947,
+        "lyrics_sentiment_chartlyrics.com": 0.9696,
+        "lyrics_sentiment_lyrics.ovh": -0.9563,
+        "title": "It Won't Be Long",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9776,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9776,
+        "title": "It's All Too Much",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9914,
+        "lyrics_sentiment_chartlyrics.com": 0.993,
+        "lyrics_sentiment_lyrics.ovh": 0.9936,
+        "title": "It's Only Love",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Jazz Piano Song",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Jessie's Dream",
+        "title_sentiment": 0.25
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9375,
+        "lyrics_sentiment_lyrics.ovh": 0.9375,
+        "title": "Johnny B. Goode",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9886,
+        "lyrics_sentiment_chartlyrics.com": 0.9886,
+        "lyrics_sentiment_lyrics.ovh": 0.9886,
+        "title": "Julia",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.7351,
+        "lyrics_sentiment_lyrics.ovh": -0.875,
+        "title": "Junk",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9638,
+        "lyrics_sentiment_chartlyrics.com": 0.9231,
+        "lyrics_sentiment_lyrics.ovh": 0.0516,
+        "title": "Kansas City/Hey, Hey, Hey, Hey",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.8767,
+        "lyrics_sentiment_lyrics.ovh": 0.8847,
+        "title": "Keep Your Hands Off My Baby",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9862,
+        "lyrics_sentiment_chartlyrics.com": 0.9786,
+        "lyrics_sentiment_lyrics.ovh": 0.936,
+        "title": "Komm Gib Mir Deine Hand",
+        "title_sentiment": 0.4939
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.4871,
+        "lyrics_sentiment_chartlyrics.com": -0.2168,
+        "lyrics_sentiment_lyrics.ovh": 0.5171,
+        "title": "Lady Madonna",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9893,
+        "lyrics_sentiment_lyrics.ovh": 0.9805,
+        "title": "Leave My Kitten Alone",
+        "title_sentiment": -0.296
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.4767,
+        "lyrics_sentiment_lyrics.ovh": 0.9783,
+        "title": "Lend Me Your Comb",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9779,
+        "lyrics_sentiment_chartlyrics.com": 0.987,
+        "lyrics_sentiment_lyrics.ovh": 0.9778,
+        "title": "Let It Be",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9968,
+        "lyrics_sentiment_lyrics.ovh": 0.9902,
+        "title": "Like Dreamers Do",
+        "title_sentiment": 0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9384,
+        "lyrics_sentiment_chartlyrics.com": -0.6546,
+        "lyrics_sentiment_lyrics.ovh": 0.1851,
+        "title": "Little Child",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.6507,
+        "lyrics_sentiment_lyrics.ovh": -0.2689,
+        "title": "Lonesome Tears in My Eyes",
+        "title_sentiment": -0.5267
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9976,
+        "lyrics_sentiment_chartlyrics.com": 0.9982,
+        "lyrics_sentiment_lyrics.ovh": 0.9984,
+        "title": "Long Tall Sally",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9449,
+        "lyrics_sentiment_chartlyrics.com": 0.9481,
+        "lyrics_sentiment_lyrics.ovh": 0.9449,
+        "title": "Long, Long, Long",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Looking Glass",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9991,
+        "lyrics_sentiment_chartlyrics.com": 0.9992,
+        "lyrics_sentiment_lyrics.ovh": 0.9991,
+        "title": "Love Me Do",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9831,
+        "lyrics_sentiment_chartlyrics.com": 0.9831,
+        "lyrics_sentiment_lyrics.ovh": 0.9246,
+        "title": "Love You To",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.997,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Love of the Loved",
+        "title_sentiment": 0.8442
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9873,
+        "lyrics_sentiment_chartlyrics.com": 0.9951,
+        "lyrics_sentiment_lyrics.ovh": 0.9873,
+        "title": "Lovely Rita",
+        "title_sentiment": 0.5859
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9943,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Lucille",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.4767,
+        "lyrics_sentiment_chartlyrics.com": 0.4767,
+        "lyrics_sentiment_lyrics.ovh": 0.4767,
+        "title": "Lucy in the Sky with Diamonds",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Madman",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.8074,
+        "lyrics_sentiment_chartlyrics.com": -0.8074,
+        "lyrics_sentiment_lyrics.ovh": -0.8074,
+        "title": "Maggie Mae",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8591,
+        "lyrics_sentiment_chartlyrics.com": 0.7562,
+        "lyrics_sentiment_lyrics.ovh": 0.6808,
+        "title": "Magical Mystery Tour",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9022,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Mailman, Bring Me No More Blues",
+        "title_sentiment": -0.296
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "March of the Meanies",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9923,
+        "lyrics_sentiment_chartlyrics.com": 0.9923,
+        "lyrics_sentiment_lyrics.ovh": 0.9923,
+        "title": "Martha My Dear",
+        "title_sentiment": 0.3818
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.1991,
+        "lyrics_sentiment_chartlyrics.com": -0.1991,
+        "lyrics_sentiment_lyrics.ovh": -0.6143,
+        "title": "Matchbox",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.981,
+        "lyrics_sentiment_chartlyrics.com": -0.981,
+        "lyrics_sentiment_lyrics.ovh": -0.9616,
+        "title": "Maxwell's Silver Hammer",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7146,
+        "lyrics_sentiment_chartlyrics.com": -0.7146,
+        "lyrics_sentiment_lyrics.ovh": -0.7146,
+        "title": "Mean Mr. Mustard",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9638,
+        "lyrics_sentiment_lyrics.ovh": 0.9638,
+        "title": "Memphis, Tennessee",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9747,
+        "lyrics_sentiment_chartlyrics.com": 0.9747,
+        "lyrics_sentiment_lyrics.ovh": 0.9747,
+        "title": "Michelle",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9877,
+        "lyrics_sentiment_chartlyrics.com": -0.9871,
+        "lyrics_sentiment_lyrics.ovh": -0.9853,
+        "title": "Misery",
+        "title_sentiment": -0.5719
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9915,
+        "lyrics_sentiment_chartlyrics.com": 0.9952,
+        "lyrics_sentiment_lyrics.ovh": 0.9797,
+        "title": "Money (That's What I Want)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.4153,
+        "lyrics_sentiment_lyrics.ovh": 0.8007,
+        "title": "Moonlight Bay",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.34,
+        "lyrics_sentiment_chartlyrics.com": -0.34,
+        "lyrics_sentiment_lyrics.ovh": -0.34,
+        "title": "Mother Nature's Son",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9922,
+        "lyrics_sentiment_chartlyrics.com": 0.9854,
+        "lyrics_sentiment_lyrics.ovh": 0.9843,
+        "title": "Mr. Moonlight",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9217,
+        "lyrics_sentiment_lyrics.ovh": -0.9217,
+        "title": "My Bonnie",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7684,
+        "lyrics_sentiment_chartlyrics.com": -0.7684,
+        "lyrics_sentiment_lyrics.ovh": -0.7684,
+        "title": "No Reply",
+        "title_sentiment": -0.296
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.6428,
+        "lyrics_sentiment_chartlyrics.com": -0.5981,
+        "lyrics_sentiment_lyrics.ovh": -0.5981,
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9839,
+        "lyrics_sentiment_lyrics.ovh": 0.9818,
+        "title": "Not Guilty",
+        "title_sentiment": 0.3252
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9876,
+        "lyrics_sentiment_chartlyrics.com": -0.9943,
+        "lyrics_sentiment_lyrics.ovh": -0.9442,
+        "title": "Not a Second Time",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9969,
+        "title": "Nothin' Shakin' (But the Leaves on the Trees)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.8879,
+        "lyrics_sentiment_chartlyrics.com": -0.916,
+        "lyrics_sentiment_lyrics.ovh": -0.8082,
+        "title": "Nowhere Man",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9877,
+        "lyrics_sentiment_chartlyrics.com": 0.9959,
+        "lyrics_sentiment_lyrics.ovh": 0.9974,
+        "title": "Ob-La-Di, Ob-La-Da",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9723,
+        "lyrics_sentiment_chartlyrics.com": 0.9723,
+        "lyrics_sentiment_lyrics.ovh": 0.9723,
+        "title": "Octopus's Garden",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7828,
+        "lyrics_sentiment_chartlyrics.com": 0.6566,
+        "lyrics_sentiment_lyrics.ovh": 0.7608,
+        "title": "Oh! Darling",
+        "title_sentiment": 0.6239
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9976,
+        "lyrics_sentiment_chartlyrics.com": 0.9959,
+        "lyrics_sentiment_lyrics.ovh": 0.9976,
+        "title": "Old Brown Shoe",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9337,
+        "lyrics_sentiment_chartlyrics.com": -0.8957,
+        "lyrics_sentiment_lyrics.ovh": -0.9451,
+        "title": "One After 909",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "One and One Is Two",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8892,
+        "lyrics_sentiment_chartlyrics.com": 0.8892,
+        "lyrics_sentiment_lyrics.ovh": 0.9373,
+        "title": "Only a Northern Song",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9991,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Ooh! My Soul",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9977,
+        "lyrics_sentiment_chartlyrics.com": 0.9977,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "P.S. I Love You",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8452,
+        "lyrics_sentiment_chartlyrics.com": 0.8751,
+        "lyrics_sentiment_lyrics.ovh": 0.8452,
+        "title": "Paperback Writer",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9236,
+        "lyrics_sentiment_chartlyrics.com": 0.9191,
+        "lyrics_sentiment_lyrics.ovh": 0.9191,
+        "title": "Penny Lane",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Pepperland",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Pepperland Laid Waste",
+        "title_sentiment": -0.4215
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.6692,
+        "lyrics_sentiment_chartlyrics.com": -0.6985,
+        "lyrics_sentiment_lyrics.ovh": -0.6283,
+        "title": "Piggies",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.899,
+        "lyrics_sentiment_chartlyrics.com": 0.9882,
+        "lyrics_sentiment_lyrics.ovh": 0.899,
+        "title": "Please Mr. Postman",
+        "title_sentiment": 0.3182
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9914,
+        "lyrics_sentiment_chartlyrics.com": 0.979,
+        "lyrics_sentiment_lyrics.ovh": 0.9957,
+        "title": "Please Please Me",
+        "title_sentiment": 0.5574
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9793,
+        "lyrics_sentiment_chartlyrics.com": 0.9869,
+        "lyrics_sentiment_lyrics.ovh": 0.9853,
+        "title": "Polythene Pam",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.3182,
+        "lyrics_sentiment_chartlyrics.com": -0.3182,
+        "lyrics_sentiment_lyrics.ovh": -0.5204,
+        "title": "Rain",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9936,
+        "lyrics_sentiment_lyrics.ovh": 0.9978,
+        "title": "Real Love",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9784,
+        "lyrics_sentiment_chartlyrics.com": 0.9638,
+        "lyrics_sentiment_lyrics.ovh": 0.9638,
+        "title": "Revolution",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9812,
+        "lyrics_sentiment_lyrics.ovh": 0.9951,
+        "title": "Revolution 1",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9955,
+        "lyrics_sentiment_lyrics.ovh": 0.9944,
+        "title": "Revolution 9",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Rip It Up/Shake, Rattle, and Roll/Blue Suede Shoes",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9739,
+        "lyrics_sentiment_chartlyrics.com": 0.9767,
+        "lyrics_sentiment_lyrics.ovh": 0.9639,
+        "title": "Rock and Roll Music",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.6903,
+        "lyrics_sentiment_chartlyrics.com": -0.4948,
+        "lyrics_sentiment_lyrics.ovh": 0.6903,
+        "title": "Rocky Raccoon",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9466,
+        "lyrics_sentiment_chartlyrics.com": 0.9669,
+        "lyrics_sentiment_lyrics.ovh": 0.9711,
+        "title": "Roll Over Beethoven",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.2469,
+        "lyrics_sentiment_chartlyrics.com": -0.2469,
+        "lyrics_sentiment_lyrics.ovh": -0.2469,
+        "title": "Run for Your Life",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9528,
+        "lyrics_sentiment_chartlyrics.com": 0.9567,
+        "lyrics_sentiment_lyrics.ovh": 0.8481,
+        "title": "Savoy Truffle",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Sea of Holes",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Sea of Monsters",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Sea of Time",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9761,
+        "lyrics_sentiment_lyrics.ovh": 0.9937,
+        "title": "Searchin'",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.967,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "September in the Rain",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9928,
+        "lyrics_sentiment_chartlyrics.com": 0.994,
+        "lyrics_sentiment_lyrics.ovh": 0.9928,
+        "title": "Sexy Sadie",
+        "title_sentiment": 0.5267
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9545,
+        "lyrics_sentiment_chartlyrics.com": 0.9545,
+        "lyrics_sentiment_lyrics.ovh": 0.9545,
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "title_sentiment": -0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9694,
+        "lyrics_sentiment_chartlyrics.com": -0.9694,
+        "lyrics_sentiment_lyrics.ovh": 0.9545,
+        "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "title_sentiment": -0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Shakin' in the Sixties",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8481,
+        "lyrics_sentiment_chartlyrics.com": 0.883,
+        "lyrics_sentiment_lyrics.ovh": 0.9331,
+        "title": "She Came in Through the Bathroom Window",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9995,
+        "lyrics_sentiment_chartlyrics.com": 0.999,
+        "lyrics_sentiment_lyrics.ovh": 0.9989,
+        "title": "She Loves You",
+        "title_sentiment": 0.5719
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9666,
+        "lyrics_sentiment_chartlyrics.com": -0.9531,
+        "lyrics_sentiment_lyrics.ovh": -0.9169,
+        "title": "She Said She Said",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7506,
+        "lyrics_sentiment_chartlyrics.com": -0.4767,
+        "lyrics_sentiment_lyrics.ovh": -0.4767,
+        "title": "She's Leaving Home",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9872,
+        "lyrics_sentiment_chartlyrics.com": 0.9882,
+        "lyrics_sentiment_lyrics.ovh": 0.9435,
+        "title": "She's a Woman",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.6562,
+        "lyrics_sentiment_lyrics.ovh": -0.9368,
+        "title": "Shout",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9939,
+        "lyrics_sentiment_lyrics.ovh": 0.0,
+        "title": "Sie Liebt Dich",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9928,
+        "lyrics_sentiment_chartlyrics.com": 0.9964,
+        "lyrics_sentiment_lyrics.ovh": 0.9929,
+        "title": "Slow Down",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.5296,
+        "lyrics_sentiment_lyrics.ovh": 0.5296,
+        "title": "So How Come (No One Loves Me)",
+        "title_sentiment": 0.5719
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9948,
+        "title": "Soldier of Love (Lay Down Your Arms)",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9066,
+        "lyrics_sentiment_lyrics.ovh": 0.8691,
+        "title": "Some Other Guy",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9421,
+        "lyrics_sentiment_chartlyrics.com": 0.9421,
+        "lyrics_sentiment_lyrics.ovh": 0.9421,
+        "title": "Something",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.8269,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Sour Milk Sea",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Step Inside Love/Los Paranoias",
+        "title_sentiment": -0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.738,
+        "lyrics_sentiment_chartlyrics.com": -0.738,
+        "lyrics_sentiment_lyrics.ovh": -0.8685,
+        "title": "Strawberry Fields Forever",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7845,
+        "lyrics_sentiment_chartlyrics.com": 0.7845,
+        "lyrics_sentiment_lyrics.ovh": 0.7845,
+        "title": "Sun King",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9925,
+        "lyrics_sentiment_lyrics.ovh": 0.9925,
+        "title": "Sure to Fall (In Love with You)",
+        "title_sentiment": 0.7579
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.944,
+        "lyrics_sentiment_lyrics.ovh": 0.9706,
+        "title": "Sweet Little Sixteen",
+        "title_sentiment": 0.4588
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9963,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Take Good Care of My Baby",
+        "title_sentiment": 0.7269
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Taking a Trip to Carolina",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.654,
+        "lyrics_sentiment_chartlyrics.com": 0.7309,
+        "lyrics_sentiment_lyrics.ovh": 0.485,
+        "title": "Taxman",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9981,
+        "lyrics_sentiment_lyrics.ovh": 0.9981,
+        "title": "Teddy Boy",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7096,
+        "lyrics_sentiment_chartlyrics.com": 0.7096,
+        "lyrics_sentiment_lyrics.ovh": 0.4871,
+        "title": "Tell Me What You See",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9874,
+        "lyrics_sentiment_chartlyrics.com": -0.9912,
+        "lyrics_sentiment_lyrics.ovh": -0.7857,
+        "title": "Tell Me Why",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9961,
+        "lyrics_sentiment_chartlyrics.com": 0.9953,
+        "lyrics_sentiment_lyrics.ovh": 0.9921,
+        "title": "Thank You Girl",
+        "title_sentiment": 0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9921,
+        "lyrics_sentiment_lyrics.ovh": 0.9921,
+        "title": "That Means a Lot",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.5684,
+        "title": "That'll Be the Day",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.968,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "That's All Right (Mama)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8363,
+        "lyrics_sentiment_chartlyrics.com": 0.6978,
+        "lyrics_sentiment_lyrics.ovh": 0.9468,
+        "title": "The Ballad of John and Yoko",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9977,
+        "lyrics_sentiment_chartlyrics.com": -0.9979,
+        "lyrics_sentiment_lyrics.ovh": -0.9382,
+        "title": "The Continuing Story of Bungalow Bill",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9862,
+        "lyrics_sentiment_lyrics.ovh": 0.9231,
+        "title": "The End",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7906,
+        "lyrics_sentiment_chartlyrics.com": -0.7906,
+        "lyrics_sentiment_lyrics.ovh": -0.2732,
+        "title": "The Fool on the Hill",
+        "title_sentiment": -0.4404
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.996,
+        "lyrics_sentiment_lyrics.ovh": 0.9959,
+        "title": "The Honeymoon Song",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.765,
+        "lyrics_sentiment_lyrics.ovh": 0.765,
+        "title": "The Inner Light",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.5473,
+        "lyrics_sentiment_chartlyrics.com": 0.7456,
+        "lyrics_sentiment_lyrics.ovh": -0.595,
+        "title": "The Long and Winding Road",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.976,
+        "lyrics_sentiment_chartlyrics.com": 0.9897,
+        "lyrics_sentiment_lyrics.ovh": 0.971,
+        "title": "The Night Before",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "The Saints",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9808,
+        "lyrics_sentiment_lyrics.ovh": 0.9853,
+        "title": "The Sheik of Araby",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.999,
+        "lyrics_sentiment_chartlyrics.com": 0.9983,
+        "lyrics_sentiment_lyrics.ovh": 0.9983,
+        "title": "The Word",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9153,
+        "lyrics_sentiment_chartlyrics.com": -0.9153,
+        "lyrics_sentiment_lyrics.ovh": -0.9153,
+        "title": "There's a Place",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9971,
+        "lyrics_sentiment_chartlyrics.com": 0.997,
+        "lyrics_sentiment_lyrics.ovh": 0.9937,
+        "title": "Things We Said Today",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.4005,
+        "lyrics_sentiment_chartlyrics.com": -0.4005,
+        "lyrics_sentiment_lyrics.ovh": -0.5563,
+        "title": "Think for Yourself",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9464,
+        "lyrics_sentiment_chartlyrics.com": 0.9464,
+        "lyrics_sentiment_lyrics.ovh": 0.9661,
+        "title": "This Boy",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9626,
+        "lyrics_sentiment_lyrics.ovh": 0.9973,
+        "title": "Three Cool Cats",
+        "title_sentiment": 0.3182
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9853,
+        "lyrics_sentiment_chartlyrics.com": -0.9905,
+        "lyrics_sentiment_lyrics.ovh": -0.9806,
+        "title": "Ticket to Ride",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9735,
+        "lyrics_sentiment_chartlyrics.com": 0.9735,
+        "lyrics_sentiment_lyrics.ovh": 0.8573,
+        "title": "Till There Was You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Tip of My Tongue",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.999,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "To Know Her is to Love Her",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.4303,
+        "lyrics_sentiment_chartlyrics.com": 0.127,
+        "lyrics_sentiment_lyrics.ovh": 0.044,
+        "title": "Tomorrow Never Knows",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.7377,
+        "lyrics_sentiment_lyrics.ovh": -0.4836,
+        "title": "Too Much Monkey Business",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8742,
+        "lyrics_sentiment_chartlyrics.com": 0.9247,
+        "lyrics_sentiment_lyrics.ovh": 0.9095,
+        "title": "Twist and Shout",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.0268,
+        "lyrics_sentiment_chartlyrics.com": -0.0268,
+        "lyrics_sentiment_lyrics.ovh": 0.4207,
+        "title": "Two of Us",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8906,
+        "lyrics_sentiment_chartlyrics.com": 0.2944,
+        "lyrics_sentiment_lyrics.ovh": 0.8043,
+        "title": "Wait",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9597,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Watching Rainbows",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.8519,
+        "lyrics_sentiment_chartlyrics.com": -0.8126,
+        "lyrics_sentiment_lyrics.ovh": -0.0772,
+        "title": "We Can Work It Out",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7437,
+        "lyrics_sentiment_chartlyrics.com": 0.7437,
+        "lyrics_sentiment_lyrics.ovh": 0.7556,
+        "title": "What Goes On",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.504,
+        "lyrics_sentiment_chartlyrics.com": 0.3182,
+        "lyrics_sentiment_lyrics.ovh": 0.3049,
+        "title": "What You're Doing",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9953,
+        "lyrics_sentiment_lyrics.ovh": -0.999,
+        "title": "What's The New Mary Jane",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8176,
+        "lyrics_sentiment_chartlyrics.com": 0.8176,
+        "lyrics_sentiment_lyrics.ovh": 0.8176,
+        "title": "When I Get Home",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.1321,
+        "lyrics_sentiment_chartlyrics.com": 0.4153,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "When I'm Sixty-Four",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9325,
+        "lyrics_sentiment_chartlyrics.com": 0.9831,
+        "lyrics_sentiment_lyrics.ovh": 0.9847,
+        "title": "While My Guitar Gently Weeps",
+        "title_sentiment": 0.1531
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7622,
+        "lyrics_sentiment_chartlyrics.com": -0.6808,
+        "lyrics_sentiment_lyrics.ovh": -0.3736,
+        "title": "Why Don't We Do It in the Road?",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.6369,
+        "lyrics_sentiment_chartlyrics.com": 0.6369,
+        "lyrics_sentiment_lyrics.ovh": 0.6369,
+        "title": "Wild Honey Pie",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Winston's Walk",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9982,
+        "lyrics_sentiment_chartlyrics.com": 0.9985,
+        "lyrics_sentiment_lyrics.ovh": 0.9985,
+        "title": "With a Little Help from My Friends",
+        "title_sentiment": 0.6712
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9833,
+        "lyrics_sentiment_chartlyrics.com": 0.9813,
+        "lyrics_sentiment_lyrics.ovh": 0.9773,
+        "title": "Within You Without You",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Woman",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9906,
+        "lyrics_sentiment_chartlyrics.com": 0.9906,
+        "lyrics_sentiment_lyrics.ovh": 0.9906,
+        "title": "Words of Love",
+        "title_sentiment": 0.6369
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.7964,
+        "lyrics_sentiment_chartlyrics.com": 0.7243,
+        "lyrics_sentiment_lyrics.ovh": 0.7906,
+        "title": "Yellow Submarine",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": null,
+        "title": "Yellow Submarine in Pepperland",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.9887,
+        "lyrics_sentiment_chartlyrics.com": -0.9932,
+        "lyrics_sentiment_lyrics.ovh": -0.9898,
+        "title": "Yer Blues",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9968,
+        "lyrics_sentiment_chartlyrics.com": 0.9975,
+        "lyrics_sentiment_lyrics.ovh": 0.9932,
+        "title": "Yes It Is",
+        "title_sentiment": 0.4019
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.8126,
+        "lyrics_sentiment_chartlyrics.com": 0.8126,
+        "lyrics_sentiment_lyrics.ovh": 0.8126,
+        "title": "Yesterday",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9746,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.6804,
+        "title": "You Can't Do That",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9565,
+        "lyrics_sentiment_lyrics.ovh": 0.9638,
+        "title": "You Know My Name (Look Up the Number)",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9655,
+        "lyrics_sentiment_lyrics.ovh": 0.979,
+        "title": "You Know What to Do",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9932,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": 0.9836,
+        "title": "You Like Me Too Much",
+        "title_sentiment": 0.3612
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9934,
+        "lyrics_sentiment_chartlyrics.com": 0.9878,
+        "lyrics_sentiment_lyrics.ovh": 0.9878,
+        "title": "You Never Give Me Your Money",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": -0.7925,
+        "lyrics_sentiment_chartlyrics.com": null,
+        "lyrics_sentiment_lyrics.ovh": -0.5766,
+        "title": "You Won't See Me",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": 0.9589,
+        "lyrics_sentiment_lyrics.ovh": 0.9459,
+        "title": "You'll Be Mine",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.7184,
+        "lyrics_sentiment_lyrics.ovh": 0.3527,
+        "title": "You're Going to Lose That Girl",
+        "title_sentiment": -0.4019
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9704,
+        "lyrics_sentiment_chartlyrics.com": 0.9717,
+        "lyrics_sentiment_lyrics.ovh": 0.9704,
+        "title": "You've Got to Hide Your Love Away",
+        "title_sentiment": 0.5423
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.9707,
+        "lyrics_sentiment_chartlyrics.com": 0.9707,
+        "lyrics_sentiment_lyrics.ovh": 0.9653,
+        "title": "You've Really Got a Hold on Me",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": null,
+        "lyrics_sentiment_chartlyrics.com": -0.9418,
+        "lyrics_sentiment_lyrics.ovh": 0.8647,
+        "title": "Young Blood",
+        "title_sentiment": 0.0
+    },
+    {
+        "lyrics_sentiment_beatleslyrics.org": 0.0,
+        "lyrics_sentiment_chartlyrics.com": 0.0,
+        "lyrics_sentiment_lyrics.ovh": 0.0,
+        "title": "Your Mother Should Know",
+        "title_sentiment": 0.0
+    }
+]
