@@ -3,5 +3,6 @@
 *.xlsx
 *.csv
 lyrics.json
+.DS_Store
 *.tar.gz
 The_Beatles_Annotations

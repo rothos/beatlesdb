@@ -5442,7 +5442,10 @@
             "title": "Anna (Go to Him)",
             "top.50.billboard": -1,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "Anna"
+        ]
     },
     {
         "chadwambles": {
@@ -16156,7 +16159,10 @@
             "title": "Dig a Pony",
             "top.50.billboard": -1,
             "year": 1969
-        }
+        },
+        "other_titles": [
+            "I Dig a Pony"
+        ]
     },
     {
         "chadwambles": {
@@ -16531,7 +16537,8 @@
             ]
         },
         "other_titles": [
-            "Dizzy, Miss Lizzy"
+            "Dizzy, Miss Lizzy",
+            "Dizzy Miss Lizzie"
         ],
         "title": "Dizzy Miss Lizzy",
         "wikipedia": {
@@ -38370,7 +38377,10 @@
             "title": "I Want to Hold Your Hand",
             "top.50.billboard": 2,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "I Wanna Hold Your Hand"
+        ]
     },
     {
         "chadwambles": {
@@ -56405,7 +56415,10 @@
             "title": "Money (That's What I Want)",
             "top.50.billboard": -1,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "Money"
+        ]
     },
     {
         "title": "Moonlight Bay",
@@ -58380,7 +58393,8 @@
             ]
         },
         "other_titles": [
-            "Norwegan Wood (This Bird Has Flown)"
+            "Norwegan Wood (This Bird Has Flown)",
+            "Norwegian Wood"
         ],
         "title": "Norwegian Wood (This Bird Has Flown)",
         "wikipedia": {
@@ -64667,7 +64681,10 @@
             "title": "Revolution",
             "top.50.billboard": 32,
             "year": 1968
-        }
+        },
+        "other_titles": [
+            "Revolution 1/Revolution"
+        ]
     },
     {
         "chadwambles": {
@@ -74273,7 +74290,11 @@
             "title": "The Ballad of John and Yoko",
             "top.50.billboard": 28,
             "year": 1969
-        }
+        },
+        "other_titles": [
+            "Ballad of John and Yoko",
+            "Ballad of John & Yoko"
+        ]
     },
     {
         "chadwambles": {
