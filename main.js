@@ -8,7 +8,7 @@ const tooltip = d3.select("body")
 
 async function main() {
     const songs = (await d3.json("beatles_songs.json"))
-        .filter(song => song.yendor !== undefined && song.yendor.year <= 1970);
+        .filter(song => song.yendor !== undefined && song.yendor.year >= 1962 && song.yendor.year <= 1970);
 
     // Declare the chart dimensions and margins.
     const width = 640;
@@ -21,7 +21,7 @@ async function main() {
     function graph(id, title, songs, fn) {
         // Declare the x (horizontal position) scale.
         const x = d3.scaleLinear()
-            .domain([1957, 1970])
+            .domain([1961, 1970])
             .range([marginLeft, width - marginRight]);
 
         // Declare the y (vertical position) scale.
@@ -154,9 +154,13 @@ async function main() {
         }
 
         graph("duration",
-              "Duration (Minutes)",
+              "Duration (Seconds)",
               filteredSongs,
               song => song.yendor.duration);
+        graph("number_of_chords",
+              "Number of Chords",
+              filteredSongs.filter(song => song.isophonics?.chordlab !== undefined),
+              song => new Set(song.isophonics.chordlab.map(cl => cl.chord).filter(chord => chord !== "N")).size);
         graph("top50",
               "Top 50 Billboard",
               filteredSongs.filter(song => song.yendor["top.50.billboard"] !== -1),
