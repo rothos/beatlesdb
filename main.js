@@ -21,7 +21,7 @@ async function main() {
     function graph(id, title, songs, fn) {
         // Declare the x (horizontal position) scale.
         const x = d3.scaleLinear()
-            .domain([1962, 1970])
+            .domain([1961, 1970])
             .range([marginLeft, width - marginRight]);
 
         // Declare the y (vertical position) scale.
