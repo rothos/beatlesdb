@@ -31,32 +31,10 @@ with open('lyrics.json', 'r') as f:
 songs_by_title = {song['title']: song for song in songs_data}
 lyrics_by_title = {lyric['title']: lyric for lyric in lyrics_data}
 
-# Check for titles that aren't in both datasets
-songs_titles = set(songs_by_title.keys())
-lyrics_titles = set(lyrics_by_title.keys())
-
-missing_from_lyrics = songs_titles - lyrics_titles
-missing_from_songs = lyrics_titles - songs_titles
-
-if missing_from_lyrics or missing_from_songs:
-    raise ValueError(
-        f"Titles missing from lyrics: {missing_from_lyrics}\n"
-        f"Titles missing from songs: {missing_from_songs}"
-    )
-
 # Merge the data
 merged_data = []
-for title in songs_titles:
-    song_obj = songs_by_title[title]
-    lyrics_obj = lyrics_by_title[title]
-    
-    # Check for conflicting properties
-    common_keys = set(song_obj.keys()) & set(lyrics_obj.keys())
-    if len(common_keys) > 1:  # > 1 because 'title' is expected to be common
-        raise ValueError(f"Unexpected common properties found: {common_keys}")
-    
-    # Merge the objects
-    merged_obj = {**song_obj, **lyrics_obj}
+for title in songs_by_title.keys():
+    merged_obj = {**songs_by_title[title], **lyrics_by_title[title]}
     merged_data.append(merged_obj)
 
 
@@ -67,44 +45,31 @@ def analyze_sentiment(text):
     # Get sentiment scores
     scores = sia.polarity_scores(text)
     
-    # Determine overall sentiment
-    if scores['compound'] >= 0.05:
-        sentiment = 'Positive'
-    elif scores['compound'] <= -0.05:
-        sentiment = 'Negative'
-    else:
-        sentiment = 'Neutral'
-    
-    return {
-        'text': text,
-        'scores': scores,
-        'sentiment': sentiment
-    }
+    return scores
 
 # Create a new dictionary for our processed data
 derived_data = []
 
 # Process the data
-for song in songs_data[:10]:
+for song in merged_data:
     title = song['title']
     data = {
         'title': title,
-        'title_sentiment': analyze_sentiment(title)['scores']['compound']
+        'title_sentiment': analyze_sentiment(title)['compound']
     }
 
-    # lyrics_apis = ["lyrics.ovh", "chartlyrics.com", "beatleslyrics.org"]
-    # for api in lyrics_apis:
-    #     sentiment = None
-    #     print(title, song.keys())
-    #     if song[api]:
-    #         sentiment = analyze_sentiment(song[api])['scores']['compound']
-    #     data["lyrics_sentiment_"+api] = sentiment
+    lyrics_apis = ["lyrics.ovh", "chartlyrics.com", "beatleslyrics.org"]
+    for api in lyrics_apis:
+        sentiment = None
+        if song[api]:
+            sentiment = analyze_sentiment(song[api])['compound']
+        data["lyrics_sentiment_"+api] = sentiment
 
     derived_data += [data]
 
 # Save the results to a new file
 with open('derived_data.json', 'w') as file:
-    json.dump(sorted(merged_data, key=lambda x: x['title']), 
+    json.dump(sorted(derived_data, key=lambda x: x['title']), 
                 file, indent=4, sort_keys=True, ensure_ascii=False)
 
 
