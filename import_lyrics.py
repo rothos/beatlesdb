@@ -1,3 +1,4 @@
+import time
 import asyncio
 import aiohttp
 import json
@@ -228,6 +229,60 @@ def slugify(text):
     text = re.sub(r'[^\w\s-]', '', text)
     return re.sub(r'[-\s]+', '-', text).strip('-')
 
+def repeat_line(s):
+    # Check if string ends with " x" followed by a digit
+    match = re.search(r' x(\d)$', s)
+    
+    if match:
+        num = int(match.group(1)) # Get the digit
+        base_string = s[:-3] # Remove the " x\d" from the string
+        return [base_string] * num  # Return array with string repeated num times
+    else:
+        return [s] # Return array with string appearing once
+
+def is_credits_or_section_name(line):
+    # List of specific credits patterns
+    credits_patterns = [
+        "(Lennon/McCartney)",
+        "(Kesler/Feathers)",
+        "(Berry)",
+        "(Wilkin/Westberry)",
+        "(Fontaine/Calacrai/Lampert/Gluck)",
+        "(J and D Burnette/Burlison/Mortimer)",
+        "(Traditional, arranged by Tony Sheridan)",
+        "(Intro)",
+        "(Bryant)",
+        "(Williams)",
+        "(Goffin/King)",
+        "[Ringo Starr & *Paul McCartney*]",
+        "(Solo John Lennon)",
+        "[spoken]",
+        "[Past Masters/single version only:"
+    ]
+
+    credits_patterns = [c for c in credits_patterns]
+    
+    # Section patterns using regex
+    section_patterns = [
+        r"\[Repetition( \d)?\]? ?:? ?(x\d)?",
+        r"\[Refrain\]? ?:? ?(x\d)?",
+        r"Verse \d:",
+        r"Chorus(.*:)?"
+    ]
+    
+    # Check if line matches any credits pattern
+    if line in credits_patterns:
+        # print(f'        omitting line "{line}"') # for debugging
+        return True
+        
+    # Check if line matches any section pattern
+    for pattern in section_patterns:
+        if re.match(f"^{pattern}$", line, re.IGNORECASE):
+            # print(f'        omitting line "{line}"') # for debugging
+            return True
+            
+    return False
+
 def normalize_lyrics(text):
     """Sanitizes text by removing or replacing unwanted characters and normalizing whitespace."""
     if not text:
@@ -244,12 +299,17 @@ def normalize_lyrics(text):
 
     cleaned_lines = []
     for line in lines:
-        # Strip whitespace
-        new_line = line.strip()
+        new_line = line
 
         # Replace smart quotes with regular quotes
         new_line = new_line.replace('“', '"').replace('”', '"')
         new_line = new_line.replace('‘', "'").replace('’', "'")
+
+        # Replace emdash with comma+space (this only occurs in "You've Really Got A Hold On Me")
+        new_line = new_line.replace("—", ", ").replace("–", ", ").replace("&emdash;", ", ")
+
+        # Replace this mess with a quote (occurs in "Christmastime" and some others)
+        new_line = new_line.replace("&amp;quot;", '"')
         
         new_line = unicodedata.normalize('NFKD', new_line) # Normalize unicode characters
 
@@ -262,9 +322,22 @@ def normalize_lyrics(text):
         # Remove non-ASCII characters but keep basic punctuation
         new_line = re.sub(r'[^\x20-\x7E\u2018\u2019\u201C\u201D]', '', new_line)
 
-        cleaned_lines += [new_line]
+        # Strip whitespace
+        new_line = new_line.strip()
 
-    return "\n".join(cleaned_lines)
+        # Idiosyncratic modifications
+        new_line = new_line.removesuffix("(fade out)")
+        new_line = new_line.removesuffix("[music continues and fades to background]")
+        new_line = new_line.replace("Get back, get back, get back...]", "Get back, get back, get back...")
+        new_line = new_line.strip()
+
+        if not is_credits_or_section_name(new_line):
+            cleaned_lines += repeat_line(new_line)
+
+    # Join the lines and renormalize line breaks to a maximum of two
+    text = "\n".join(cleaned_lines)
+    text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
+    return text
 
 def backup_lyrics_file():
     """Backup lyrics.json if it exists and is not empty"""
@@ -285,13 +358,6 @@ def backup_lyrics_file():
         with open('lyrics.json', 'w', encoding='utf-8') as f:
             json.dump([], f)
         print("Created new lyrics.json file")
-
-def compare_stripped_strings(str1, str2):
-    """Compare two strings after removing punctuation, whitespace, and case"""
-    def clean_string(s):
-        s = str(s) if s is not None else ""
-        return ''.join(char.lower() for char in s if char not in string.punctuation).strip()
-    return clean_string(str1) == clean_string(str2)
 
 def remove_author_credits(text):
     """Remove author credits from the beginning of lyrics"""
@@ -418,7 +484,8 @@ async def main(apis: Optional[list] = None,
                     lyrics = remove_author_credits(lyrics)
                     lyrics = normalize_lyrics(lyrics)
 
-                    if len(lyrics) < 20 and compare_stripped_strings(lyrics, "instrumental"):
+                    # Hack for lyrics from ChartLyrics
+                    if slugify(lyrics).endswith('instrumental') or slugify(lyrics).endswith('arranged-by-george-martin'):
                         lyrics = ""
 
                     existing_lyrics[title][api.name] = lyrics
@@ -464,6 +531,8 @@ async def main(apis: Optional[list] = None,
                 print(f"    {api_name}: {successes}/{attempts} successes ({success_rate:.1f}%)")
 
 if __name__ == "__main__":
+    start_time = time.perf_counter()
+
     APIs = [
         LyricsOvhAPI(),
         ChartLyricsAPI(),
@@ -475,3 +544,7 @@ if __name__ == "__main__":
     START_AT = "" # Will skip all song titles alphebetically prior
 
     asyncio.run(main(APIs, LIMIT, REFETCH_PREVIOUS_404s, START_AT))
+    
+    end_time = time.perf_counter()
+    execution_time = end_time - start_time
+    print(f"\nExecution time: {execution_time:.2f} seconds")
