@@ -3,3 +3,4 @@
 *.xlsx
 *.csv
 lyrics.json
+.DS_Store
