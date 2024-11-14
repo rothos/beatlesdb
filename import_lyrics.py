@@ -14,14 +14,14 @@ class LyricsAPI:
     def __init__(self, name):
         self.name = name
 
-    async def fetch_lyrics(self, session, title):
+    async def fetch_lyrics(self, session, title, options=None):
         raise NotImplementedError
 
 class LyricsOvhAPI(LyricsAPI):
     def __init__(self):
         super().__init__("lyrics.ovh")
 
-    async def fetch_lyrics(self, session, title):
+    async def fetch_lyrics(self, session, title, options=None):
         # First attempt with "The Beatles"
         url = f"https://api.lyrics.ovh/v1/The Beatles/{quote(title)}"
         try:
@@ -48,7 +48,7 @@ class ChartLyricsAPI(LyricsAPI):
     def __init__(self):
         super().__init__("chartlyrics.com")
 
-    async def fetch_lyrics(self, session, title):
+    async def fetch_lyrics(self, session, title, options=None):
         # First, search for the song
         search_url = f"http://api.chartlyrics.com/apiv1.asmx/SearchLyric?artist=beatles&song={quote(title)}"
         try:
@@ -110,7 +110,7 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
         self.base_url = "https://www.beatleslyrics.org/index_files/"
         self.main_content = None
 
-    async def fetch_lyrics(self, session, title):
+    async def fetch_lyrics(self, session, title, options=None):
         try:
             if not self.main_content:
                 self.main_content = await self._fetch_page(session, self.base_url + "Page13763.htm")
@@ -129,7 +129,7 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
             if not page_content:
                 return {'status': 'error', 'error': 'Failed to fetch song page'}
 
-            return self._process_lyrics_page(page_content, title)
+            return self._process_lyrics_page(page_content, title, options=options)
 
         except Exception as e:
             return {'status': 'error', 'error': str(e)}
@@ -172,7 +172,7 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
                 return link
         return None
 
-    def _process_lyrics_page(self, content, title):
+    def _process_lyrics_page(self, content, title, options=None):
         soup = BeautifulSoup(content, 'html.parser')
         tables = soup.find_all('table')
         
@@ -180,21 +180,37 @@ class BeatlesLyricsOrgAPI(LyricsAPI):
             return {'status': 'error', 'error': 'No tables found in page'}
         
         last_table = tables[-1]
+        
+        # Dumb hack for inconsistently formatted website
+        if title == "Wild Honey Pie":
+            last_table = tables[-2]
+
+        if title == "Komm Gib Mir Deine Hand":
+            last_table = tables[-3]
+
         spans = last_table.find_all('span')
         
         if len(spans) < 2:
             return {'status': 'error', 'error': 'Less than 2 spans found in table'}
         
+        spandex = 0 # span index
         page_title = spans[0].get_text(strip=True)
-        if slugify(page_title) != slugify(title):
+
+        # Some pages are inconsistently formatted and have an empty span before the title
+        if len(page_title) == 0 and len(spans) > 1:
+            page_title = spans[1].get_text(strip=True)
+            spandex = 1
+
+        if slugify(page_title) not in [slugify(t) for t in [title]+options.get('other_titles', [])]:
             return {'status': 'error', 'error': f"Page title does not match expected title: ({slugify(page_title)}) vs ({slugify(title)})"}
         
-        writer_credit = spans[1].get_text(strip=True)
-        if not (writer_credit.startswith('(') and writer_credit.endswith(')')):
-            return {'status': 'error', 'error': 'Writer credit not properly formatted'}
+        writer_credit = spans[spandex+1].get_text(strip=True)
+        if not (writer_credit.startswith('(') and writer_credit.endswith(')')) \
+            and "lennon" not in writer_credit.lower() and "mccartney" not in writer_credit.lower():
+                return {'status': 'error', 'error': 'Writer credit not properly formatted'}
         
         lyrics_content = str(last_table)
-        for span in spans[:2]:
+        for span in spans[:spandex+2]:
             lyrics_content = lyrics_content.replace(str(span), '')
         
         lyrics = BeautifulSoup(lyrics_content, 'html.parser').get_text()
@@ -262,12 +278,12 @@ async def fetch_from_api(session, api, song_data):
     """Wrapper for API calls to handle errors consistently"""
     try:
         # First try with the main title
-        result = await api.fetch_lyrics(session, song_data['title'])
+        result = await api.fetch_lyrics(session, song_data['title'], options=song_data)
         
         # If the main title fails and there are alternate names, try those
         if result['status'] == 'error' and 'other_titles' in song_data:
             for alt_name in song_data['other_titles']:
-                alt_result = await api.fetch_lyrics(session, alt_name)
+                alt_result = await api.fetch_lyrics(session, alt_name, options=song_data)
                 if alt_result['status'] == 'success':
                     # Add indication that this was found using an alternate name
                     alt_result['alternate_name_used'] = alt_name
@@ -278,7 +294,10 @@ async def fetch_from_api(session, api, song_data):
     except Exception as e:
         return {'status': 'error', 'error': str(e)}
 
-async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch: Optional[bool] = True):
+async def main(apis: Optional[list] = None,
+               limit: Optional[int] = None,
+               refetch: Optional[bool] = True,
+               start_at: Optional[str] = ""):
     # Backup existing lyrics file before starting
     backup_lyrics_file()
 
@@ -320,7 +339,7 @@ async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch
     for title, data in sorted(existing_lyrics.items(), key=lambda x: x[0]):
         needs_processing = False
         for api in apis:
-            if api.name not in data or not isinstance(data[api.name], str):
+            if api.name not in data or (not isinstance(data[api.name], str) and refetch):
                 needs_processing = True
                 break
         if needs_processing:
@@ -337,6 +356,11 @@ async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch
 
     async with aiohttp.ClientSession() as session:
         for index, title in enumerate(songs_to_process):
+
+            # Skip all songs alphabetically prior to the "start_at" parameter
+            if start_at > title:
+                continue
+
             current_entry = existing_lyrics[title]
             fetching_yet = False
             api_call_made = False
@@ -387,7 +411,7 @@ async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch
                     with open('lyrics.json', 'w', encoding='utf-8') as file:
                         json.dump(sorted(updated_lyrics_array, key=lambda x: x['title']), 
                                 file, indent=4, sort_keys=True, ensure_ascii=False)
-                    print(f"Progress saved after {processed_count} processed songs")
+                    # print(f"Progress saved after {processed_count} processed songs")
 
     # Save final results
     updated_lyrics_array = list(existing_lyrics.values())
@@ -396,13 +420,14 @@ async def main(apis: Optional[list] = None, limit: Optional[int] = None, refetch
                  file, indent=4, sort_keys=True, ensure_ascii=False)
 
     # Print statistics
-    print("\nFinal Statistics:")
-    for api_name, stat in stats.items():
-        attempts = stat['attempts']
-        successes = stat['successes']
-        if attempts > 0:
-            success_rate = (successes / attempts) * 100
-            print(f"    {api_name}: {successes}/{attempts} successes ({success_rate:.1f}%)")
+    if any(stat['attempts'] for _, stat in stats.items()):
+        print("\nFinal Statistics:")
+        for api_name, stat in stats.items():
+            attempts = stat['attempts']
+            successes = stat['successes']
+            if attempts > 0:
+                success_rate = (successes / attempts) * 100
+                print(f"    {api_name}: {successes}/{attempts} successes ({success_rate:.1f}%)")
 
 if __name__ == "__main__":
     APIs = [
@@ -412,6 +437,7 @@ if __name__ == "__main__":
     ]
 
     LIMIT = None
-    REFETCH_PREVIOUS_404s = True
+    REFETCH_PREVIOUS_404s = False
+    START_AT = "Kom" # Will skip all song titles alphebetically prior
 
-    asyncio.run(main(APIs, LIMIT, REFETCH_PREVIOUS_404s))
+    asyncio.run(main(APIs, LIMIT, REFETCH_PREVIOUS_404s, START_AT))
