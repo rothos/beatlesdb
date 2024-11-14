@@ -384,7 +384,10 @@
             "title": "Anna (Go to Him)",
             "top.50.billboard": -1,
             "year": 1963
-        }
+        },
+        "other_titles": [
+            "Anna"
+        ]
     },
     {
         "chadwambles": {
@@ -1220,7 +1223,10 @@
             "title": "Dig a Pony",
             "top.50.billboard": -1,
             "year": 1969
-        }
+        },
+        "other_titles": [
+            "I Dig a Pony"
+        ]
     },
     {
         "chadwambles": {
@@ -1236,7 +1242,8 @@
             "year": 1965
         },
         "other_titles": [
-            "Dizzy, Miss Lizzy"
+            "Dizzy, Miss Lizzy",
+            "Dizzy Miss Lizzie"
         ],
         "title": "Dizzy Miss Lizzy",
         "wikipedia": {
