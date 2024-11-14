@@ -154,7 +154,7 @@ async function main() {
         }
 
         graph("duration",
-              "Duration (Minutes)",
+              "Duration (Seconds)",
               filteredSongs,
               song => song.yendor.duration);
         graph("top50",
