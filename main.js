@@ -158,9 +158,13 @@ async function main() {
               filteredSongs,
               song => song.yendor.duration);
         graph("number_of_chords",
-              "Number of Chords",
-              filteredSongs.filter(song => song.isophonics?.chordlab !== undefined),
+              "Number of Chords (Originals)",
+              filteredSongs.filter(song => song.isophonics?.chordlab !== undefined && song.pannell?.album?.Original_songs === 1),
               song => new Set(song.isophonics.chordlab.map(cl => cl.chord).filter(chord => chord !== "N")).size);
+        graph("number_of_takes",
+              "Number of Takes",
+              filteredSongs.filter(song => song.pannell?.album !== undefined),
+              song => song.pannell.album.Takes);
         graph("top50",
               "Top 50 Billboard",
               filteredSongs.filter(song => song.yendor["top.50.billboard"] !== -1),
