@@ -9,9 +9,30 @@ import db
 FILENAME = "Beatles song database 2024-05-27.xlsx"
 COMMENT_PREFIX = "David Pannell:\n"
 
+NOTE_TO_VARIANT = {
+    "original single": "single",
+    "album version": "album",
+    "single version": "single",
+    "charity version": "single", # ?
+    "Let It Be version": "album",
+    "Let It Be version": "album",
+}
+
+def split_out_variant(title):
+    variant = "album"
+
+    i = title.find(" (")
+    if i >= 0 and False:
+        potential_title = title[:i]
+        potential_variant = NOTE_TO_VARIANT.get(title[i + 2:-1])
+        if potential_variant is not None:
+            title = potential_title
+            variant = potential_variant
+
+    return title, variant
+
 def main():
     songs = db.load()
-    missed_song_titles = set(song["title"] for song in songs)
 
     wb = load_workbook(FILENAME, data_only=True)
     sheet = wb["Tracks"]
@@ -28,12 +49,14 @@ def main():
             if key == "Song_title":
                 title = cell.value
                 if title is not None:
+                    title, variant = split_out_variant(title)
                     song = db.get_song_by_title(songs, title)
                     if song is None:
                         print(f"Didn't find song \"{title}\"")
                     else:
-                        missed_song_titles.remove(song["title"])
-                        song["pannell"] = pannell
+                        if "pannell" not in song:
+                            song["pannell"] = {}
+                        song["pannell"][variant] = pannell
             if song is not None:
                 value = cell.value
                 if isinstance(value, datetime):
@@ -48,9 +71,6 @@ def main():
                     if comment.startswith(COMMENT_PREFIX):
                         comment = comment[len(COMMENT_PREFIX):]
                     pannell["comments"][key] = comment
-
-    for song_title in missed_song_titles:
-        print(f"Didn't handle song \"{song_title}\"")
 
     db.save(songs)
 

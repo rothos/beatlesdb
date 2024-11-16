@@ -26,3 +26,5 @@ Beatles songs database.
 - `other_titles`: List of synonyms.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
 - `pannell`: Data we pulled from David J. Pannell (2023). _Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970_, Journal of Beatles Studies volume 2.
+    - `album`: Data about the album version of the song (always present).
+    - `single`: Data about the single version of the song (rarely present).
