@@ -19,10 +19,22 @@ Beatles songs database by [Hrothgar](https://gar.lol/) and [Lawrence](https://ww
 - `title`: Title of the song.
 - `other_titles`: List of synonyms.
 - `yendor`: Data we pulled from the [yendor database](https://www.yendor.com/Beatles/).
-- `pannell`: Data we pulled from David J. Pannell (2023). _Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970_, Journal of Beatles Studies volume 2.
+- `pannell`: Data we pulled from [Pannell, David J.](mailto:David.Pannell@uwa.edu.au) (2023). [Quantitative Analysis of the Evolution of The Beatles’ Releases for EMI, 1962 – 1970](https://www.liverpooluniversitypress.co.uk/doi/10.3828/jbs.2023.5), Journal of Beatles Studies volume 2.
+    - `album`: Data about the album version of the song (always present).
+    - `single`: Data about the single version of the song (rarely present).
 - `chadwambles`: Data we pull from [Chad Wambles's dataset](https://www.kaggle.com/datasets/chadwambles/allbeatlesspotifysongdata2009remaster) (`TheBeatlesCleaned.csv`).
 - `wikipedia`: Links to Wikipedia entries for the song, scraped from [this index page](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles).
 - `isophonics`: Data from the [isophonics.net database](http://isophonics.net/files/annotations/The%20Beatles%20Annotations.tar.gz).
     - `keylab`: Timestamps and the key that part of the song is in.
     - `seglab`: Timestamps and the type of segment (verse, etc.).
     - `chordlab`: Timestamps and chord being played.
+
+# License
+
+Data from David Pannell (the `pannell` sub-objects) is licensed
+[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+
+Other imported data is as licensed by the original author.
+
+The rest is MIT-licensed.
+
