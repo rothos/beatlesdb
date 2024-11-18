@@ -18,18 +18,21 @@ async function main() {
     const marginBottom = 30;
     const marginLeft = 40;
 
-    function graph(id, title, songs, fn) {
+    function graph(id, title, format, songs, xFn, yFn) {
+        if (id === "foo") {
+            console.log(songs);
+        }
         // Declare the x (horizontal position) scale.
         const x = d3.scaleLinear()
-            .domain([1961, 1970])
+            .domain([d3.min(songs, xFn), d3.max(songs, xFn)])
             .range([marginLeft, width - marginRight]);
 
         // Declare the y (vertical position) scale.
         const y = d3.scaleLinear()
-            .domain([0, d3.max(songs, fn)])
+            .domain([0, d3.max(songs, yFn)])
             .range([height - marginBottom, marginTop]);
 
-        const xAxis = d3.axisBottom(x).tickFormat(d3.format("4d"));
+        const xAxis = d3.axisBottom(x).tickFormat(d3.format(format));
         const yAxis = d3.axisLeft(y);
 
         // Find or create the SVG container.
@@ -95,8 +98,8 @@ async function main() {
             .data(songs, song => song.title)
             .join(
                 enter => enter.append("circle")
-                            .attr("cx", song => x(song.yendor.year))
-                            .attr("cy", song => y(fn(song)))
+                            .attr("cx", song => x(xFn(song)))
+                            .attr("cy", song => y(yFn(song)))
                             .on("mouseover", function(e, song) {
                                 d3.select(this).transition()
                                     .duration(100)
@@ -126,8 +129,8 @@ async function main() {
 
         // Map from year to { mean, stdev } object.
         const stats = d3.rollups(songs,
-                                 d => ({ mean: d3.mean(d, fn), stddev: d3.deviation(d, fn) }),
-                                 d => d.yendor.year)
+                                 d => ({ mean: d3.mean(d, yFn), stddev: d3.deviation(d, yFn) }),
+                                 song => xFn(song))
                                  .map(d => ({ year: d[0], mean: d[1].mean, stddev: d[1].stddev ?? 0 }))
                                  .sort((a, b) => a.year - b.year);
 
@@ -147,49 +150,61 @@ async function main() {
                 .y(d => y(d.mean)));
     }
 
+    function graphByYear(id, title, songs, yFn) {
+        graph(id, title, "4d", songs, song => song.yendor.year, yFn);
+    }
+
     function refresh(doFiltering) {
         let filteredSongs = songs;
         if (doFiltering) {
             filteredSongs = filteredSongs.filter(song => song.yendor.songwriter === "Lennon");
         }
 
-        graph("duration",
+        graphByYear("duration",
               "Duration (Seconds)",
               filteredSongs,
               song => song.yendor.duration);
-        graph("number_of_chords",
+        graphByYear("number_of_chords",
               "Number of Chords (Originals)",
               filteredSongs.filter(song => song.isophonics?.chordlab !== undefined && song.pannell?.album?.Original_songs === 1),
               song => new Set(song.isophonics.chordlab.map(cl => cl.chord).filter(chord => chord !== "N")).size);
-        graph("number_of_takes",
+        graphByYear("number_of_takes",
               "Number of Takes",
               filteredSongs.filter(song => song.pannell?.album !== undefined),
               song => song.pannell.album.Takes);
-        graph("top50",
+        graph("paul_billboard",
+              "Paul Authorship (vs John) vs. Billboard",
+              ".1f",
+              filteredSongs.filter(song => song.pannell !== undefined &&
+                                   song.yendor["top.50.billboard"] !== -1 &&
+                                   Math.abs(song.pannell.album.Composer_share_John + song.pannell.album.Composer_share_Paul - 1) < 0.01),
+              song => song.pannell.album.Composer_share_Paul,
+              song => song.yendor["top.50.billboard"]);
+        graphByYear("top50",
               "Top 50 Billboard",
               filteredSongs.filter(song => song.yendor["top.50.billboard"] !== -1),
               song => song.yendor["top.50.billboard"]);
-        graph("acousticness",
+        graphByYear("acousticness",
               "Acousticness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.acousticness);
-        graph("danceability",
+        graphByYear("danceability",
               "Danceability",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.danceability);
-        graph("energy",
+        graphByYear("energy",
               "Energy",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.energy);
-        graph("liveness",
+        graphByYear("liveness",
               "Liveness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.liveness);
-        graph("speechiness",
+        graphByYear("speechiness",
               "Speechiness",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.speechiness);
-        graph("valence",
+        graphByYear("valence",
               "Valence",
               filteredSongs.filter(song => song.chadwambles !== undefined),
               song => song.chadwambles.valence);
