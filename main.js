@@ -24,7 +24,7 @@ async function main() {
         }
         // Declare the x (horizontal position) scale.
         const x = d3.scaleLinear()
-            .domain([d3.min(songs, xFn), d3.max(songs, xFn)])
+            .domain([d3.min(songs, xFn) - 1, d3.max(songs, xFn)])
             .range([marginLeft, width - marginRight]);
 
         // Declare the y (vertical position) scale.
@@ -172,6 +172,10 @@ async function main() {
               "Number of Takes",
               filteredSongs.filter(song => song.pannell?.album !== undefined),
               song => song.pannell.album.Takes);
+        graphByYear("tempo",
+              "Tempo (BPM)",
+              filteredSongs.filter(song => song.TheHoleGotFixed !== undefined),
+              song => song.TheHoleGotFixed.tempos[0]);
         graph("paul_billboard",
               "Paul Authorship (vs John) vs. Billboard",
               ".1f",
