@@ -29,9 +29,11 @@ def main():
                     if "TheHoleGotFixed" not in song:
                         song["TheHoleGotFixed"] = {}
                     song["TheHoleGotFixed"]["tempos"] = tempos
-                    song["TheHoleGotFixed"]["key"] = key
+                    song["TheHoleGotFixed"]["keys"] = key
                     if "tempo" in song["TheHoleGotFixed"]:
                         del song["TheHoleGotFixed"]["tempo"]
+                    if "key" in song["TheHoleGotFixed"]:
+                        del song["TheHoleGotFixed"]["key"]
 
     db.save(songs)
 

@@ -1,0 +1,139 @@
+Tracking the Beatles' love songs over their career
+by Hroghgar
+
+-----
+
+In this analysis, I'm using "Love Song" to refer to a song that is primarily about a romantic connection or loss/lack of one. Songs about pining for someone, losing someone, being sad about someone treating you badly, telling another guy that someone's in love with him, recounting a romantic encounter, etc, all count. Songs whose subject matter are girls but which are non-romantic in content do not count.
+
+I've added notes about songs which are on the line one way or another.
+
+I've omitted cover songs in this analysis.
+
+Currently this list doesn't include singles that didn't appear on studio albums, of which there were many.
+
+The track listings and albums I'm using come from the "standardized albums" list:
+https://en.wikipedia.org/wiki/The_Beatles_albums_discography#Standardised_studio_albums
+
+Lyrics reference:
+https://www.beatleslyrics.org/index_files/Page344.htm
+
+-----
+
+Please Please Me
+    14 songs (6 covers)
+    8/8 original songs are about love/romance/girl
+
+With the Beatles
+    14 songs (6 covers)
+    8/8 original songs are about love/romance/girl
+
+A Hard Day's Night
+    13 songs (0 covers)
+    13/13 original songs are about love/romance/girl
+
+Beatles for Sale
+    14 songs (6 covers)
+    8/8 original songs are about love/romance/girl
+
+Help!
+    14 songs (2 covers)
+    11/12 original songs are about love/romance/girl
+    Songs that ARE NOT about love/romance/girl:
+        - "Help!"
+
+Rubber Soul
+    14 songs (0 covers)
+    11/14 original songs are about love/romance/girl
+    Songs that ARE NOT about love/romance/girl:
+        - "Nowhere Man"
+        - "Think for Yourself"
+        - "The Word" (This song is about love, but not about a girl or romance specifically. I don't call it a love song, I call it a song about the concept of love, which is different. It can easily be interpreted to be about fraternal love or love for the world in a greater sense.)
+    Notes:
+        - "Norwegian Wood" is arguably a not a love song, if you don't know what it's about. But it is in fact about a prostitute and its original title was "Knowing She Would"
+
+Revolver
+    14 songs (0 covers)
+    5/14 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl:
+        - "Love You To"
+        - "Here, There and Everywhere"
+        - "Good Day Sunshine"
+        - "For No One"
+        - "Got to Get You Into My Life"
+    Maybes:
+        - "She Said She Said" depicts a conversation with a girl but cannot be said to be romantic
+        - "I Want To Tell You" certainly invites interpretation as a love song but cannot be said to definitively be one
+
+Sgt. Pepper's Lonely Hearts Club Band
+    13 songs (0 covers)
+    2/13 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl:
+        - "When I'm Sixty-Four"
+        - "Lovely Rita"
+    Notes:
+        - Paul is holding it down here, writing the only love songs on this album
+        - "With a Little Help from My Friends" has the line "I need somebody to love" but it's not a love song
+        - "Lucy in the Sky with Diamonds" is about Lucy and her eyes but again I can't say it's a love song in any form, it simply takes Lucy as subject matter
+        - "Within You Without You" is very psychedelic and arguably is a psychedelic love song, if only because of "with our love / we could save the world / if they only knew"... but it's hard to make that argument given the rest of it, in my opinion
+
+Magical Mystery Tour
+    11 songs (0 covers)
+    0/11 original songs are about love/romance/girl
+    Notes:
+        - "All You Need Is Love" is the only song with the word "love" in it at all, and it's not a love song
+        - This album has one instrumental song, "Flying"
+
+The Beatles (The White Album)
+    30 songs (0 covers)
+    12/30 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl:
+        - "Back in the U.S.S.R." (ultimately a love song in the sense I describe above)
+        - "Wild Honey Pie" (I guess)
+        - "Martha My Dear"
+        - "Don't Pass Me By"
+        - "Why Don’t We Do it in the Road?" (I guess)
+        - "I Will"
+        - "Julia"
+        - "Yer Blues" (I guess)
+        - "Sexy Sadie" (up for debate)
+        - "Helter Skelter"
+        - "Long, Long, Long"
+        - "Honey Pie"
+
+    Notes:
+        - "Ob-La-Di, Ob-La-Da"... this one I don't know how to classify. It is about a romance between two people, but a story-telling. I'm inclined not to include it, but I don't know.
+        - Similarly, "Rocky Raccoon" is a story-telling of a romantic disaster. Not sure how to count it. It's categorically different from something like "Love Me Do".
+
+Yellow Submarine
+    13 songs (0 covers)
+    1/13 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl:
+        - "It's All Too Much" (psychedelia, I'm going to say it's a love song but definitely up for debate)
+    Notes:
+        - "All Together Now" is kind of on the line
+        - This album has 7 instrumentals and includes "All You Need Is Love" which was already counted above on Magical Mystery Tour
+
+Abbey Road
+    16 songs (0 covers)
+    4/16 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl:
+        - "Something"
+        - "Oh! Darling"
+        - "Octopus's Garden" (up for debate but the obvious interpretation is of it as a sort of love song)
+        - "I Want You (She's So Heavy)"
+    Notes:
+        - other than saying "little darling" over and over, "Here Comes the Sun" doesn't seem to be a love song
+        - "Polythene Pam" is kind of on the line maybe but I am not counting it as a love song
+        - "She Came in Through the Bathroom Window" is also interpretable as a love song, but I say no
+
+Let It Be
+    12 songs (0 covers)
+    3/12 original songs are about love/romance/girl
+    Songs that ARE about love/romance/girl: 
+        - "I've Got a Feeling" (up for debate)
+        - "One After 909"
+        - "For You Blue"
+    Notes:
+        - I interpret "Two of Us" as being about Lennon and McCartney, not a love song in the traditional sense
+        - "I Dig a Pony" is hard to judge... the repeated line "all I want is you" makes a compelling case for love song, but the rest of it is nonsense, so
+        - "The Long and Winding Road" is, I suppose, up for some debate too but I say no (pretty conclusively)

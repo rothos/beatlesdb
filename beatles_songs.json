@@ -13,7 +13,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G/Em",
+            "keys": "G/Em",
             "tempos": [
                 81
             ]
@@ -916,7 +916,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 139
             ]
@@ -1701,7 +1701,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F#m",
+            "keys": "F#m",
             "tempos": [
                 101
             ]
@@ -2234,7 +2234,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 75
             ]
@@ -3007,7 +3007,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 93
             ]
@@ -3610,7 +3610,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 119
             ]
@@ -4080,7 +4080,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 155
             ]
@@ -4698,7 +4698,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 96
             ]
@@ -4885,7 +4885,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 103
             ]
@@ -5848,7 +5848,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E/C#/F/Dm",
+            "keys": "E/C#/F/Dm",
             "tempos": [
                 113
             ]
@@ -6407,7 +6407,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 133
             ]
@@ -6877,7 +6877,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 109
             ]
@@ -7511,7 +7511,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 89
             ]
@@ -8167,7 +8167,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 141
             ]
@@ -8810,7 +8810,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 124
             ]
@@ -9548,7 +9548,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 112
             ]
@@ -10057,7 +10057,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 203
             ]
@@ -10743,7 +10743,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 97
             ]
@@ -11401,7 +11401,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 142
             ]
@@ -12162,7 +12162,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 135
             ]
@@ -12361,7 +12361,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C#m",
+            "keys": "C#m",
             "tempos": [
                 81
             ]
@@ -12882,7 +12882,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Em",
+            "keys": "Em",
             "tempos": [
                 112
             ]
@@ -13761,7 +13761,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A/C",
+            "keys": "A/C",
             "tempos": [
                 139
             ]
@@ -14329,7 +14329,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 94
             ]
@@ -15234,7 +15234,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 101
             ]
@@ -15609,7 +15609,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 142
             ]
@@ -16129,7 +16129,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 172
             ]
@@ -16721,7 +16721,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 84
             ]
@@ -17194,7 +17194,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Bb",
+            "keys": "Bb",
             "tempos": [
                 130
             ]
@@ -17701,7 +17701,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Dm/D",
+            "keys": "Dm/D",
             "tempos": [
                 165
             ]
@@ -18193,7 +18193,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G/Em",
+            "keys": "G/Em",
             "tempos": [
                 77
             ]
@@ -19045,7 +19045,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E/C#",
+            "keys": "E/C#",
             "tempos": [
                 138
             ]
@@ -19217,7 +19217,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 75
             ]
@@ -20114,7 +20114,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 121
             ]
@@ -20836,7 +20836,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 157
             ]
@@ -21283,7 +21283,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 122
             ]
@@ -22002,7 +22002,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 136
             ]
@@ -22551,7 +22551,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 124
             ]
@@ -23361,7 +23361,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A/B",
+            "keys": "A/B",
             "tempos": [
                 165
             ]
@@ -23769,7 +23769,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Em",
+            "keys": "Em",
             "tempos": [
                 170
             ]
@@ -24477,7 +24477,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 76
             ]
@@ -24652,7 +24652,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 85
             ]
@@ -25114,7 +25114,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 122
             ]
@@ -25794,7 +25794,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 139
             ]
@@ -26553,7 +26553,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Em",
+            "keys": "Em",
             "tempos": [
                 138
             ]
@@ -27088,7 +27088,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 123
             ]
@@ -27830,7 +27830,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 117
             ]
@@ -28659,7 +28659,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 85
             ]
@@ -29209,7 +29209,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 113
             ]
@@ -29972,7 +29972,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 93
             ]
@@ -30330,7 +30330,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "B",
+            "keys": "B",
             "tempos": [
                 81
             ]
@@ -30926,7 +30926,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 129
             ]
@@ -31504,7 +31504,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 136
             ]
@@ -31691,7 +31691,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 123
             ]
@@ -32536,7 +32536,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 122
             ]
@@ -33308,7 +33308,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Cm/Eb",
+            "keys": "Cm/Eb",
             "tempos": [
                 97
             ]
@@ -34088,7 +34088,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am",
+            "keys": "Am",
             "tempos": [
                 120
             ]
@@ -34684,7 +34684,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am/C",
+            "keys": "Am/C",
             "tempos": [
                 81
             ]
@@ -35089,7 +35089,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 117
             ]
@@ -35644,7 +35644,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 122
             ]
@@ -36587,7 +36587,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 146
             ]
@@ -37376,7 +37376,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 137
             ]
@@ -38047,7 +38047,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 139
             ]
@@ -38682,7 +38682,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 99
             ]
@@ -39474,7 +39474,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 95
             ]
@@ -40028,7 +40028,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 168
             ]
@@ -40518,7 +40518,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 101
             ]
@@ -40888,7 +40888,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 129
             ]
@@ -41818,7 +41818,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 165
             ]
@@ -42557,7 +42557,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C/Cm",
+            "keys": "C/Cm",
             "tempos": [
                 100
             ]
@@ -42741,7 +42741,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 74
             ]
@@ -42932,7 +42932,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 136
             ]
@@ -43617,7 +43617,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 162
             ]
@@ -44209,7 +44209,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 144
             ]
@@ -44956,7 +44956,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 85
             ]
@@ -45851,7 +45851,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 126
             ]
@@ -46022,7 +46022,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 95
             ]
@@ -46725,7 +46725,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 90
             ]
@@ -46958,7 +46958,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am",
+            "keys": "Am",
             "tempos": [
                 60,
                 130
@@ -47615,7 +47615,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 136
             ]
@@ -48394,7 +48394,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 160
             ]
@@ -48982,7 +48982,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 130
             ]
@@ -49930,7 +49930,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 100
             ]
@@ -50348,7 +50348,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Dm",
+            "keys": "Dm",
             "tempos": [
                 116
             ]
@@ -51923,7 +51923,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 131
             ]
@@ -52101,7 +52101,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 127
             ]
@@ -52681,7 +52681,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 103
             ]
@@ -53329,7 +53329,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A/Am",
+            "keys": "A/Am",
             "tempos": [
                 124
             ]
@@ -54039,7 +54039,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 97
             ]
@@ -54490,7 +54490,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 134
             ]
@@ -55126,7 +55126,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 126
             ]
@@ -55309,7 +55309,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 164
             ]
@@ -55498,7 +55498,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C#m/E",
+            "keys": "C#m/E",
             "tempos": [
                 132
             ]
@@ -56338,7 +56338,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Ab",
+            "keys": "Ab",
             "tempos": [
                 86
             ]
@@ -57256,7 +57256,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Ebm",
+            "keys": "Ebm",
             "tempos": [
                 103
             ]
@@ -57933,7 +57933,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 68
             ]
@@ -58449,7 +58449,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 180
             ]
@@ -59282,7 +59282,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 165
             ]
@@ -60297,7 +60297,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 120
             ]
@@ -60897,7 +60897,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C#/D",
+            "keys": "C#/D",
             "tempos": [
                 108
             ]
@@ -61548,7 +61548,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 127
             ]
@@ -61998,7 +61998,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 103
             ]
@@ -62665,7 +62665,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 133
             ]
@@ -63281,7 +63281,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 114
             ]
@@ -63473,7 +63473,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 113
             ]
@@ -64061,7 +64061,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 135
             ]
@@ -64756,7 +64756,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 131
             ]
@@ -65336,7 +65336,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 132
             ]
@@ -65518,7 +65518,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 110
             ]
@@ -65720,7 +65720,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 70
             ]
@@ -66975,7 +66975,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 152
             ]
@@ -67579,7 +67579,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 172
             ]
@@ -67749,7 +67749,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 105
             ]
@@ -68424,7 +68424,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 148
             ]
@@ -69186,7 +69186,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 124
             ]
@@ -69636,7 +69636,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 87
             ]
@@ -70371,7 +70371,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G/Bb",
+            "keys": "G/Bb",
             "tempos": [
                 132,
                 90
@@ -71288,7 +71288,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 169
             ]
@@ -71594,7 +71594,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 168
             ]
@@ -72236,7 +72236,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Em",
+            "keys": "Em",
             "tempos": [
                 116
             ]
@@ -72257,7 +72257,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Eb",
+            "keys": "Eb",
             "tempos": [
                 178
             ]
@@ -72949,7 +72949,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 160
             ]
@@ -73119,7 +73119,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 131
             ]
@@ -74481,7 +74481,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 101
             ]
@@ -74880,7 +74880,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Fm",
+            "keys": "Fm",
             "tempos": [
                 117
             ]
@@ -75665,7 +75665,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 133
             ]
@@ -76153,7 +76153,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 129
             ]
@@ -76890,7 +76890,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 85
             ]
@@ -77738,7 +77738,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F#",
+            "keys": "F#",
             "tempos": [
                 126
             ]
@@ -78493,7 +78493,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 124
             ]
@@ -79018,7 +79018,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 177
             ]
@@ -79510,7 +79510,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G/Em",
+            "keys": "G/Em",
             "tempos": [
                 125
             ]
@@ -80148,7 +80148,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 121
             ]
@@ -80775,7 +80775,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Bb",
+            "keys": "Bb",
             "tempos": [
                 113
             ]
@@ -81569,7 +81569,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E/A",
+            "keys": "E/A",
             "tempos": [
                 92
             ]
@@ -82315,7 +82315,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 72
             ]
@@ -82910,7 +82910,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C/Am",
+            "keys": "C/Am",
             "tempos": [
                 143
             ]
@@ -83086,7 +83086,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "B",
+            "keys": "B",
             "tempos": [
                 182
             ]
@@ -83648,7 +83648,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 109
             ]
@@ -83848,7 +83848,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 134
             ]
@@ -84493,7 +84493,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 157
             ]
@@ -84664,7 +84664,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "B",
+            "keys": "B",
             "tempos": [
                 113
             ]
@@ -85636,7 +85636,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 114
             ]
@@ -85657,7 +85657,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 99
             ]
@@ -85678,7 +85678,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 93
             ]
@@ -86401,7 +86401,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 123
             ]
@@ -86879,7 +86879,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 139
             ]
@@ -87513,7 +87513,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 167
             ]
@@ -88095,7 +88095,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 107
             ]
@@ -88281,7 +88281,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "B",
+            "keys": "B",
             "tempos": [
                 121
             ]
@@ -88460,7 +88460,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 98
             ]
@@ -89151,7 +89151,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "none (A)",
+            "keys": "none (A)",
             "tempos": [
                 91
             ]
@@ -89834,7 +89834,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 167
             ]
@@ -90370,7 +90370,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 79
             ]
@@ -91109,7 +91109,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 161
             ]
@@ -91739,7 +91739,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 177
             ]
@@ -92286,7 +92286,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 121
             ]
@@ -92968,7 +92968,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 113
             ]
@@ -92989,7 +92989,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 116
             ]
@@ -93010,7 +93010,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C/Fm/D/Em",
+            "keys": "C/Fm/D/Em",
             "tempos": [
                 130
             ]
@@ -93056,7 +93056,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 75
             ]
@@ -93886,7 +93886,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 96
             ]
@@ -94423,7 +94423,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F/G",
+            "keys": "F/G",
             "tempos": [
                 121
             ]
@@ -94851,7 +94851,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 81
             ]
@@ -95382,7 +95382,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 150
             ]
@@ -95551,7 +95551,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Bb",
+            "keys": "Bb",
             "tempos": [
                 106
             ]
@@ -96268,7 +96268,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 128
             ]
@@ -96912,7 +96912,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 89
             ]
@@ -97097,7 +97097,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 154
             ]
@@ -97271,7 +97271,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 169
             ]
@@ -97482,7 +97482,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 67
             ]
@@ -98268,7 +98268,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Bb",
+            "keys": "Bb",
             "tempos": [
                 91
             ]
@@ -99099,7 +99099,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 75
             ]
@@ -99589,7 +99589,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 134
             ]
@@ -100089,7 +100089,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 137
             ]
@@ -100879,7 +100879,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 151
             ]
@@ -101620,7 +101620,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 138
             ]
@@ -101831,7 +101831,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 135
             ]
@@ -102007,7 +102007,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C/A/Am",
+            "keys": "C/A/Am",
             "tempos": [
                 115
             ]
@@ -103046,7 +103046,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A/C",
+            "keys": "A/C",
             "tempos": [
                 123
             ]
@@ -103565,7 +103565,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D/Dm",
+            "keys": "D/Dm",
             "tempos": [
                 72
             ]
@@ -104423,7 +104423,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Eb",
+            "keys": "Eb",
             "tempos": [
                 102
             ]
@@ -104600,7 +104600,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Eb",
+            "keys": "Eb",
             "tempos": [
                 132
             ]
@@ -105346,7 +105346,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 168
             ]
@@ -106154,7 +106154,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 121
             ]
@@ -106746,7 +106746,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 141
             ]
@@ -107294,7 +107294,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am/A",
+            "keys": "Am/A",
             "tempos": [
                 137
             ]
@@ -108059,7 +108059,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G/Gm",
+            "keys": "G/Gm",
             "tempos": [
                 131
             ]
@@ -108630,7 +108630,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 110
             ]
@@ -108812,7 +108812,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 123
             ]
@@ -109329,7 +109329,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 122
             ]
@@ -110084,7 +110084,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C",
+            "keys": "C",
             "tempos": [
                 126
             ]
@@ -110562,7 +110562,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 125
             ]
@@ -111381,7 +111381,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 109
             ]
@@ -112130,7 +112130,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F#m",
+            "keys": "F#m",
             "tempos": [
                 127
             ]
@@ -112991,7 +112991,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 106
             ]
@@ -113164,7 +113164,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 97
             ]
@@ -113720,7 +113720,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 130
             ]
@@ -114348,7 +114348,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A/Am/C",
+            "keys": "A/Am/C",
             "tempos": [
                 125
             ]
@@ -114953,7 +114953,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C#",
+            "keys": "C#",
             "tempos": [
                 140
             ]
@@ -115595,7 +115595,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am/A",
+            "keys": "Am/A",
             "tempos": [
                 115
             ]
@@ -116577,7 +116577,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 94
             ]
@@ -116909,7 +116909,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 90
             ]
@@ -117281,7 +117281,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 112
             ]
@@ -118042,7 +118042,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C#",
+            "keys": "C#",
             "tempos": [
                 126
             ]
@@ -118397,7 +118397,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 122
             ]
@@ -119148,7 +119148,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 111
             ]
@@ -119936,7 +119936,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 109
             ]
@@ -119957,7 +119957,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 152
             ]
@@ -120626,7 +120626,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 133
             ]
@@ -120800,7 +120800,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "F",
+            "keys": "F",
             "tempos": [
                 97
             ]
@@ -121534,7 +121534,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 129
             ]
@@ -122085,7 +122085,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "D",
+            "keys": "D",
             "tempos": [
                 119
             ]
@@ -122278,7 +122278,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 88
             ]
@@ -122975,7 +122975,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "Am/C/A",
+            "keys": "Am/C/A",
             "tempos": [
                 174
             ]
@@ -123851,7 +123851,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 116
             ]
@@ -124583,7 +124583,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "E",
+            "keys": "E",
             "tempos": [
                 129
             ]
@@ -125216,7 +125216,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "G",
+            "keys": "G",
             "tempos": [
                 62
             ]
@@ -126008,7 +126008,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "A",
+            "keys": "A",
             "tempos": [
                 78
             ]
@@ -126604,7 +126604,7 @@
     },
     {
         "TheHoleGotFixed": {
-            "key": "C/Am",
+            "keys": "C/Am",
             "tempos": [
                 118
             ]

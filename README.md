@@ -6,6 +6,9 @@ The database is in the `beatles_songs.json` file. There's one array entry per so
 
 By [Hrothgar](https://gar.lol/) and [Lawrence](https://www.teamten.com/lawrence/).
 
+[`beatles_songs_about_girls.txt`](beatles_songs_about_girls.txt), by Hrothgar, identifies which songs
+are about love or romance. Its contents haven't been folded into the JSON file yet.
+
 # Resources
 
 - [The Beatles API](https://github.com/vrandall66/the-beatles-api)
@@ -31,6 +34,9 @@ By [Hrothgar](https://gar.lol/) and [Lawrence](https://www.teamten.com/lawrence/
     - `keylab`: Timestamps and the key that part of the song is in.
     - `seglab`: Timestamps and the type of segment (verse, etc.).
     - `chordlab`: Timestamps and chord being played.
+- `TheHoleGotFixed`: Data from [this post by The Hole Got Fixed]( https://www.beatlesbible.com/forum/recording-and-musicology/keys-that-the-beatles-used-now-that-youve-found-another-key/).
+    - `tempos`: List of tempos in the song, in beats per minute (BPM).
+    - `keys`: Keys of the song (e.g., "C" or "Am/C").
 
 # License
 
