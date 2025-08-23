@@ -2,7 +2,7 @@
 
 Database of all Beatles songs.
 The database is in the `beatles_songs.json` file. There's one array entry per song (see below for schema).
-[Some graphs](https://gar.lol/beatlesdb/).
+[Some graphs](https://gar.lol/beatlesdb/). [Full write-up](https://www.teamten.com/lawrence/projects/beatles-database/)
 
 By [Hrothgar](https://gar.lol/) and [Lawrence](https://www.teamten.com/lawrence/).
 
